@@ -1,0 +1,32 @@
+[
+	{ 
+		"id": 1,
+		"name_tag" : "txt_country_africa",
+		"image_tag" : "img_flag_africa"
+	},
+	{ 
+		"id": 2,
+		"name_tag" : "txt_country_asia",
+		"image_tag" : "img_flag_asia"
+	},
+	{ 
+		"id": 3,
+		"name_tag" : "txt_country_europe",
+		"image_tag" : "img_flag_europe"
+	},
+	{ 
+		"id": 4,
+		"name_tag" : "txt_country_north_america",
+		"image_tag" : "img_flag_north_america"
+	},
+	{ 
+		"id": 5,
+		"name_tag" : "txt_country_south_america",
+		"image_tag" : "img_flag_south_america"
+	},
+	{ 
+		"id": 6,
+		"name_tag" : "txt_country_oceania",
+		"image_tag" : "img_flag_oceania"
+	}
+]
