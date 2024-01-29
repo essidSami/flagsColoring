@@ -6,16 +6,16 @@
 		"flag_tag" : "img_flag_algeria",
 		"colors" : [
 			{
-				"E61E25",
-				[0]
+				"color" : "E61E25",
+				"color_pos" : [0]
 			},
 			{
-				"FFFFFF",
-				[1]
+				"color" : "FFFFFF",
+				"color_pos" : [1]
 			},
 			{
-				"036535",
-				[2,3]
+				"color" : "036535",
+				"color_pos" : [2,3]
 			}		  
 		]
 	},
@@ -26,16 +26,16 @@
 		"flag_tag" : "img_flag_angola",
 		"colors" : [
 			{
-				"ffe15a",
-				[2,3]
+				"color" : "ffe15a",
+				"color_pos" : [2,3]
 			},
 			{
-				"ff4b55",
-				[0]
+				"color" : "ff4b55",
+				"color_pos" : [0]
 			},
 			{
-				"464655",
-				[1]
+				"color" : "464655",
+				"color_pos" : [1]
 			}		  
 		]
 	},
@@ -46,16 +46,16 @@
 		"flag_tag" : "img_flag_benin",
 		"colors" : [
 			{
-				"259245",
-				[2]
+				"color" : "259245",
+				"color_pos" : [2]
 			},
 			{
-				"ED1F34",
-				[1]
+				"color" : "ED1F34",
+				"color_pos" : [1]
 			},
 			{
-				"FFE000",
-				[0]
+				"color" : "FFE000",
+				"color_pos" : [0]
 			}		  
 		]
 	},
@@ -66,16 +66,16 @@
 		"flag_tag" : "img_flag_botswana",
 		"colors" : [
 			{
-				"000000",
-				[1]
+				"color" : "000000",
+				"color_pos" : [1]
 			},
 			{
-				"82AFFF",
-				[0]
+				"color" : "82AFFF",
+				"color_pos" : [0]
 			},
 			{
-				"FFFFFF",
-				[2]
+				"color" : "FFFFFF",
+				"color_pos" : [2]
 			}		  
 		]
 	},
@@ -86,16 +86,16 @@
 		"flag_tag" : "img_flag_burkina_faso",
 		"colors" : [
 			{
-				"FCD115",
-				[2]
+				"color" : "FCD115",
+				"color_pos" : [2]
 			},
 			{
-				"009E49",
-				[1]
+				"color" : "009E49",
+				"color_pos" : [1]
 			},
 			{
-				"EF2B2D",
-				[0]
+				"color" : "EF2B2D",
+				"color_pos" : [0]
 			}		  
 		]
 	},
@@ -106,16 +106,16 @@
 		"flag_tag" : "img_flag_burundi",
 		"colors" : [
 			{
-				"41B225",
-				[0, 4, 6, 8]
+				"color" : "41B225",
+				"color_pos" : [0, 4, 6, 8]
 			},
 			{
-				"C9072A",
-				[1, 3, 5, 7]
+				"color" : "C9072A",
+				"color_pos" : [1, 3, 5, 7]
 			},
 			{
-				"FFFFFF",
-				[2]
+				"color" : "FFFFFF",
+				"color_pos" : [2]
 			}		  
 		]
 	},
@@ -126,16 +126,16 @@
 		"flag_tag" : "img_flag_cameroon",
 		"colors" : [
 			{
-				"cf0921",
-				[1]
+				"color" : "cf0921",
+				"color_pos" : [1]
 			},
 			{
-				"007b5e",
-				[0]
+				"color" : "007b5e",
+				"color_pos" : [0]
 			},
 			{
-				"fcd20f",
-				[2,3]
+				"color" : "fcd20f",
+				"color_pos" : [2,3]
 			}		  
 		]
 	},
@@ -146,20 +146,20 @@
 		"flag_tag" : "img_flag_cape_verde",
 		"colors" : [
 			{
-				"ffe15a",
-				[3]
+				"color" : "ffe15a",
+				"color_pos" : [3]
 			},
 			{
-				"FFFFFF",
-				[1]
+				"color" : "FFFFFF",
+				"color_pos" : [1]
 			},
 			{
-				"41479b",
-				[0]
+				"color" : "41479b",
+				"color_pos" : [0]
 			},
 			{
-				"ff4b55",
-				[2]
+				"color" : "ff4b55",
+				"color_pos" : [2]
 			}					  
 		]
 	},
@@ -170,24 +170,24 @@
 		"flag_tag" : "img_flag_central_african_republic",
 		"colors" : [
 			{
-				"ffe15a",
-				[0, 5]
+				"color" : "ffe15a",
+				"color_pos" : [0, 5]
 			},
 			{
-				"FFFFFF",
-				[2]
+				"color" : "FFFFFF",
+				"color_pos" : [2]
 			},
 			{
-				"73af00",
-				[1]
+				"color" : "73af00",
+				"color_pos" : [1]
 			},
 			{
-				"41479b",
-				[3]
+				"color" : "41479b",
+				"color_pos" : [3]
 			},
 			{
-				"ff4b55",
-				[4]
+				"color" : "ff4b55",
+				"color_pos" : [4]
 			}					  
 		]
 	},
@@ -198,16 +198,16 @@
 		"flag_tag" : "img_flag_chad",
 		"colors" : [
 			{
-				"fecc00",
-				[1]
+				"color" : "fecc00",
+				"color_pos" : [1]
 			},
 			{
-				"c7042c",
-				[1]
+				"color" : "c7042c",
+				"color_pos" : [1]
 			},
 			{
-				"002164",
-				[0]
+				"color" : "002164",
+				"color_pos" : [0]
 			}					  
 		] 
 	},
@@ -218,24 +218,24 @@
 		"flag_tag" : "img_flag_comoros",
 		"colors" : [
 			{
-				"ef303e",
-				[2]
+				"color" : "ef303e",
+				"color_pos" : [2]
 			},
 			{
-				"ffd200",
-				[0]
+				"color" : "ffd200",
+				"color_pos" : [0]
 			},
 			{
-				"FFFFFF",
-				[1, 5, 6]
+				"color" : "FFFFFF",
+				"color_pos" : [1, 5, 6]
 			},
 			{
-				"003aa7",
-				[3]
+				"color" : "003aa7",
+				"color_pos" : [3]
 			},
 			{
-				"73af00",
-				[4]
+				"color" : "73af00",
+				"color_pos" : [4]
 			}					  
 		]
 	},
@@ -246,16 +246,16 @@
 		"flag_tag" : "img_flag_congo",
 		"colors" : [
 			{
-				"db1332",
-				[2]
+				"color" : "db1332",
+				"color_pos" : [2]
 			},
 			{
-				"009641",
-				[1]
+				"color" : "009641",
+				"color_pos" : [1]
 			},
 			{
-				"fbdf49",
-				[0]
+				"color" : "fbdf49",
+				"color_pos" : [0]
 			}
 		]
 	},
@@ -266,16 +266,16 @@
 		"flag_tag" : "img_flag_democratic_congo",
 		"colors" : [
 			{
-				"f7d711",
-				[1, 3]
+				"color" : "f7d711",
+				"color_pos" : [1, 3]
 			},
 			{
-				"0080ff",
-				[0]
+				"color" : "0080ff",
+				"color_pos" : [0]
 			},
 			{
-				"cf071b",
-				[2]
+				"color" : "cf071b",
+				"color_pos" : [2]
 			}
 		]
 	},
@@ -286,20 +286,20 @@
 		"flag_tag" : "img_flag_djibouti",
 		"colors" : [
 			{
-				"FFFFFF",
-				[0]
+				"color" : "FFFFFF",
+				"color_pos" : [0]
 			},
 			{
-				"09af27",
-				[1]
+				"color" : "09af27",
+				"color_pos" : [1]
 			},
 			{
-				"6ab3e8",
-				[2]
+				"color" : "6ab3e8",
+				"color_pos" : [2]
 			},
 			{
-				"d80c13",
-				[3]
+				"color" : "d80c13",
+				"color_pos" : [3]
 			}
 		]
 	},
@@ -310,20 +310,20 @@
 		"flag_tag" : "img_flag_egypt",
 		"colors" : [
 			{
-				"000000",
-				[1]
+				"color" : "000000",
+				"color_pos" : [1]
 			},
 			{
-				"f0c727",
-				[3]
+				"color" : "f0c727",
+				"color_pos" : [3]
 			},
 			{
-				"cf0921",
-				[0]
+				"color" : "cf0921",
+				"color_pos" : [0]
 			},
 			{
-				"FFFFFF",
-				[2]
+				"color" : "FFFFFF",
+				"color_pos" : [2]
 			}
 		]
 	},
@@ -334,28 +334,28 @@
 		"flag_tag" : "img_flag_equatorial_guinea",
 		"colors" : [
 			{
-				"4173cd",
-				[3]
+				"color" : "4173cd",
+				"color_pos" : [3]
 			},
 			{
-				"FFFFFF",
-				[2]
+				"color" : "FFFFFF",
+				"color_pos" : [2]
 			},
 			{
-				"ff4b55",
-				[1]
+				"color : "ff4b55",
+				"color_pos" : [1]
 			},
 			{
-				"b46446",
-				[4]
+				"color" : "b46446",
+				"color_pos" : [4]
 			},
 			{
-				"ffe15a",
-				[0]
+				"color" : "ffe15a",
+				"color_pos" : [0]
 			},
 			{
-				"73af00",
-				[0, 5, 7]
+				"color" : "73af00",
+				"color_pos" : [0, 5, 7]
 			}
 		]
 	},
@@ -366,20 +366,20 @@
 		"flag_tag" : "img_flag_eritrea",
 		"colors" : [
 			{
-				"3f90df",
-				[1]
+				"color" : "3f90df",
+				"color_pos" : [1]
 			},
 			{
-				"e50027",
-				[2]
+				"color" : "e50027",
+				"color_pos" : [2]
 			},
 			{
-				"41b225",
-				[0]
+				"color" : "41b225",
+				"color_pos" : [0]
 			},
 			{
-				"ffe15a",
-				[3]
+				"color" : "ffe15a",
+				"color_pos" : [3]
 			}
 		]
 	}
