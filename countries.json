@@ -5,10 +5,10 @@
 		"name_tag" : "txt_country_algeria",
 		"flag_tag" : "img_flag_algeria",
 		"colors" : [
-			"E61E25",
-			"FFFFFF",
 			"036535",
-			"036535"
+			"FFFFFF",
+			"E61E25",
+			"E61E25"
 		]
 	},
 	{ 
