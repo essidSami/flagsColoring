@@ -668,5 +668,253 @@
 			"#A1A1A1",
 			"#EAEAEA"
 		]
+	},
+	{ 
+		"id": 35,
+		"continent_id" : 1,
+		"name_tag" : "txt_country_morocco",
+		"flag_tag" : "img_flag_morocco",
+		"colors" : [
+			"#c22229",
+			"#01612f"
+		],
+		"defaults" : [
+			"#D1D1D1",
+			"#A1A1A1"
+		]
+	},
+	{ 
+		"id": 36,
+		"continent_id" : 1,
+		"name_tag" : "txt_country_mozambique",
+		"flag_tag" : "img_flag_mozambique",
+		"colors" : [
+			"#007268",
+			"#fce200",
+			"#000000",
+			"#FFFFFF",
+			"#d30731",
+			"#fce200",
+			"#FFFFFF",
+			"#FFFFFF",
+			"#000000",
+		],
+		"defaults" : [
+			"#D1D1D1",
+			"#C1C1C1",
+			"#B1B1B1",
+			"#A1A1A1",
+			"#EAEAEA",
+			"#D1D1D1",
+			"#A1A1A1",
+			"#A1A1A1",
+			"#BABABA"
+		]
+	},
+	{ 
+		"id": 37,
+		"continent_id" : 1,
+		"name_tag" : "txt_country_namibia",
+		"flag_tag" : "img_flag_namibia",
+		"colors" : [
+			"#002b6c",
+			"#009b42",
+			"#FFFFFF",
+			"#c9072a",
+			"#ffce00"
+		],
+		"defaults" : [
+			"#D1D1D1",
+			"#C1C1C1",
+			"#B1B1B1",
+			"#EAEAEA",
+			"#A1A1A1"
+		]
+	},
+	{ 
+		"id": 38,
+		"continent_id" : 1,
+		"name_tag" : "txt_country_niger",
+		"flag_tag" : "img_flag_niger",
+		"colors" : [
+			"#04b227",
+			"#e15101",
+			"#FFFFFF",
+			"#e15101"
+		],
+		"defaults" : [
+			"#D1D1D1",
+			"#C1C1C1",
+			"#A1A1A1",
+			"#EAEAEA"
+		]
+	},
+	{ 
+		"id": 39,
+		"continent_id" : 1,
+		"name_tag" : "txt_country_nigeria",
+		"flag_tag" : "img_flag_nigeria",
+		"colors" : [
+			"#008850",
+			"#FFFFFF",
+			"#008850"
+		],
+		"defaults" : [
+			"#D1D1D1",
+			"#C1C1C1",
+			"#A1A1A1"
+		]
+	},
+	{ 
+		"id": 40,
+		"continent_id" : 1,
+		"name_tag" : "txt_country_rwanda",
+		"flag_tag" : "img_flag_rwanda",
+		"colors" : [
+			"#00a4e1",
+			"#fad300",
+			"#1a603a",
+			"#fad300"
+		],
+		"defaults" : [
+			"#D1D1D1",
+			"#C1C1C1",
+			"#A1A1A1",
+			"#EAEAEA"
+		]
+	},
+	{ 
+		"id": 41,
+		"continent_id" : 1,
+		"name_tag" : "txt_country_sao_tome_and_principe",
+		"flag_tag" : "img_flag_sao_tome_and_principe",
+		"colors" : [
+			"#009836",
+			"#009836",
+			"#ef303e",
+			"#ffd200",
+			"#000000"
+		],
+		"defaults" : [
+			"#D1D1D1",
+			"#C1C1C1",
+			"#A1A1A1",
+			"#EAEAEA",
+			"#B1B1B1"
+		]
+	},
+	{ 
+		"id": 42,
+		"continent_id" : 1,
+		"name_tag" : "txt_country_senegal",
+		"flag_tag" : "img_flag_senegal",
+		"colors" : [
+			"#00863d",
+			"#fdf040",
+			"#e4141e",
+			"#00863d"
+		],
+		"defaults" : [
+			"#D1D1D1",
+			"#C1C1C1",
+			"#A1A1A1",
+			"#EAEAEA"
+		]
+	},
+	{ 
+		"id": 43,
+		"continent_id" : 1,
+		"name_tag" : "txt_country_seychelles",
+		"flag_tag" : "img_flag_seychelles",
+		"colors" : [
+			"#007b30",
+			"#002b6c",
+			"#fed23f",
+			"#d3222c",
+			"#FFFFFF"
+		],
+		"defaults" : [
+			"#D1D1D1",
+			"#C1C1C1",
+			"#A1A1A1",
+			"#EAEAEA",
+			"#B1B1B1"
+		]
+	},
+	{ 
+		"id": 44,
+		"continent_id" : 1,
+		"name_tag" : "txt_country_sierra_leone",
+		"flag_tag" : "img_flag_sierra_leone",
+		"colors" : [
+			"#0073c7",
+			"#18b637",
+			"#FFFFFF"
+		],
+		"defaults" : [
+			"#D1D1D1",
+			"#C1C1C1",
+			"#A1A1A1"
+		]
+	},
+	{ 
+		"id": 45,
+		"continent_id" : 1,
+		"name_tag" : "txt_country_somalia",
+		"flag_tag" : "img_flag_somalia",
+		"colors" : [
+			"#3f90df",
+			"#FFFFFF"
+		],
+		"defaults" : [
+			"#D1D1D1",
+			"#C1C1C1"
+		]
+	},
+	{ 
+		"id": 46,
+		"continent_id" : 1,
+		"name_tag" : "txt_country_south_africa",
+		"flag_tag" : "img_flag_south_africa",
+		"colors" : [
+			"#000000",
+			"#e1392d",
+			"#000c8a",
+			"#007847",
+			"#FFFFFF",
+			"#ffb916",
+			"#FFFFFF"
+		],
+		"defaults" : [
+			"#D1D1D1",
+			"#C1C1C1",
+			"#A1A1A1",
+			"#B1B1B1",
+			"#BABABA",
+			"#B1B1B1"
+		]
+	},
+	{ 
+		"id": 47,
+		"continent_id" : 1,
+		"name_tag" : "txt_country_south_sudan",
+		"flag_tag" : "img_flag_south_sudan",
+		"colors" : [
+			"#000000",
+			"#018a2c",
+			"#db0a13",
+			"#FFFFFF",
+			"#43b5dc",
+			"#fcde02"
+		],
+		"defaults" : [
+			"#D1D1D1",
+			"#C1C1C1",
+			"#A1A1A1",
+			"#EAEAEA",
+			"#BABABA",
+			"#E1E1E1"
+		]
 	}
+]
 ]
