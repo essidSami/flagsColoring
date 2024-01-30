@@ -618,8 +618,8 @@
 	{ 
 		"id": 32,
 		"continent_id" : 1,
-		"name_tag" : "txt_country_mali",
-		"flag_tag" : "img_flag_guinea_mali",
+		"name_tag" : "txt_country_mauritania",
+		"flag_tag" : "img_flag_guinea_mauritania",
 		"colors" : [
 			"#00ab5c",
 			"#ffd800",
