@@ -5,10 +5,16 @@
 		"name_tag" : "txt_country_algeria",
 		"flag_tag" : "img_flag_algeria",
 		"colors" : [
-			"036535",
-			"FFFFFF",
-			"E61E25",
-			"E61E25"
+			"#036535",
+			"#FFFFFF",
+			"#E61E25",
+			"#E61E25"
+		],
+		"default" : [
+			"#E1E1E1",
+			"#C1C1C1",
+			"#D1D1D1",
+			"#D1D1D1"
 		]
 	},
 	{ 
@@ -17,10 +23,16 @@
 		"name_tag" : "txt_country_angola",
 		"flag_tag" : "img_flag_angola",
 		"colors" : [
-			"ff4b55",
-			"464655",
-			"ffe15a",
-			"ffe15a"		  
+			"#ff4b55",
+			"#464655",
+			"#ffe15a",
+			"#ffe15a"		  
+		],
+		"default" : [
+			"#D1D1D1",
+			"#C1C1C1",
+			"#B1B1B1",
+			"#B1B1B1"		  
 		]
 	},
 	{ 
@@ -29,9 +41,14 @@
 		"name_tag" : "txt_country_benin",
 		"flag_tag" : "img_flag_benin",
 		"colors" : [
-			"FFE000",
-			"ED1F34",
-			"259245"		  
+			"#FFE000",
+			"#ED1F34",
+			"#259245"		  
+			],
+		"default" : [
+			"#D1D1D1",
+			"#E1E1E1",
+			"#C1C1C1"		  
 			]
 	},
 	{ 
@@ -40,9 +57,14 @@
 		"name_tag" : "txt_country_botswana",
 		"flag_tag" : "img_flag_botswana",
 		"colors" : [
-			"82AFFF",
-			"000000",
-			"FFFFFF"		  
+			"#82AFFF",
+			"#000000",
+			"#FFFFFF"		  
+		],
+		"default" : [
+			"#D1D1D1",
+			"#E1E1E1",
+			"#C1C1C1"		  
 		]
 	},
 	{ 
@@ -51,9 +73,14 @@
 		"name_tag" : "txt_country_burkina_faso",
 		"flag_tag" : "img_flag_burkina_faso",
 		"colors" : [
-			"EF2B2D",
-			"009E49",
-			"FCD115"		  
+			"#EF2B2D",
+			"#009E49",
+			"#FCD115"		  
+		],
+		"default" : [
+			"#D1D1D1",
+			"#E1E1E1",
+			"#C1C1C1"		  
 		]
 	},
 	{ 
@@ -62,15 +89,26 @@
 		"name_tag" : "txt_country_burundi",
 		"flag_tag" : "img_flag_burundi",
 		"colors" : [
-			"41B225",
-			"C9072A",
-			"FFFFFF",
-			"C9072A",
-			"41B225",
-			"C9072A",
-			"41B225",
-			"C9072A",
-			"41B225"	  
+			"#41B225",
+			"#C9072A",
+			"#FFFFFF",
+			"#C9072A",
+			"#41B225",
+			"#C9072A",
+			"#41B225",
+			"#C9072A",
+			"#41B225"	  
+		],
+		"default" : [
+			"#E1E1E1",
+			"#A1A1A1",
+			"#FFFFFF",
+			"#F1F1F1",
+			"#B1B1B1",
+			"#F1F1F1",
+			"#B1B1B1",
+			"#F1F1F1",
+			"#B1B1B1"	  
 		]
 	},
 	{ 
@@ -79,10 +117,16 @@
 		"name_tag" : "txt_country_cameroon",
 		"flag_tag" : "img_flag_cameroon",
 		"colors" : [
-			"007b5e",
-			"cf0921",
-			"fcd20f",
-			"fcd20f"		  
+			"#007b5e",
+			"#cf0921",
+			"#fcd20f",
+			"#fcd20f"		  
+		],
+		"default" : [
+			"#D1D1D1",
+			"#E1E1E1",
+			"#B1B1B1",
+			"#C1C1C1"		  
 		]
 	},
 	{ 
@@ -91,10 +135,16 @@
 		"name_tag" : "txt_country_cape_verde",
 		"flag_tag" : "img_flag_cape_verde",
 		"colors" : [
-			"41479b",
-			"FFFFFF",
-			"ff4b55",
-			"ffe15a"				  
+			"#41479B",
+			"#FFFFFF",
+			"#FF4B55",
+			"#FFE15A"				  
+		],
+		"default" : [
+			"#D1D1D1",
+			"#C1C1C1",
+			"#E1E1E1",
+			"#A1A1A1"				  
 		]
 	},
 	{ 
@@ -103,12 +153,20 @@
 		"name_tag" : "txt_country_central_african_republic",
 		"flag_tag" : "img_flag_central_african_republic",
 		"colors" : [
-			"ffe15a",
-			"73af00",
-			"FFFFFF",
-			"41479b",
-			"ff4b55",
-			"ffe15a"					  
+			"#FFE15a",
+			"#73AF00",
+			"#FFFFFF",
+			"#41479B",
+			"#ff4B55",
+			"#ffE15A"					  
+		],
+		"default" : [
+			"#D1D1D1",
+			"#E1E1E1",
+			"#A1A1A1",
+			"#C1C1C1",
+			"#B1B1B1",
+			"#F1F1F1"					  
 		]
 	},
 	{ 
@@ -117,9 +175,14 @@
 		"name_tag" : "txt_country_chad",
 		"flag_tag" : "img_flag_chad",
 		"colors" : [
-			"002164",
-			"fecc00",
-			"c7042c"					  
+			"#002164",
+			"#fecc00",
+			"#c7042c"					  
+		],
+		"default" : [
+			"#E1E1E1",
+			"#F5F5F5",
+			"#E1E1E1"					  
 		] 
 	},
 	{ 
@@ -128,13 +191,22 @@
 		"name_tag" : "txt_country_comoros",
 		"flag_tag" : "img_flag_comoros",
 		"colors" : [
-			"ffd200",
-			"FFFFFF",
-			"ef303e",
-			"003aa7",
-			"73af00",
-			"FFFFFF",
-			"FFFFFF"					  
+			"#FFD200",
+			"#FFFFFF",
+			"#EF303E",
+			"#003AA7",
+			"#73AF00",
+			"#FFFFFF",
+			"#FFFFFF"					  
+		],
+		"default" : [
+			"#D1D1D1",
+			"#E1E1E1",
+			"#C1C1C1",
+			"#F1F1F1",
+			"#A1A1A1",
+			"#C1C1C1",
+			"#C1C1C1"					  
 		]
 	},
 	{ 
@@ -143,9 +215,14 @@
 		"name_tag" : "txt_country_congo",
 		"flag_tag" : "img_flag_congo",
 		"colors" : [
-			"fbdf49",
-			"009641",
-			"db1332"
+			"#FBDf49",
+			"#009641",
+			"#DB1332"
+		],
+		"default" : [
+			"#D1D1D1",
+			"#C1C1C1",
+			"#B1B1B1"
 		]
 	},
 	{ 
@@ -154,10 +231,16 @@
 		"name_tag" : "txt_country_democratic_congo",
 		"flag_tag" : "img_flag_democratic_congo",
 		"colors" : [
-			"0080ff",
-			"f7d711",
-			"cf071b",
-			"f7d711"
+			"#0080FF",
+			"#F7D711",
+			"#CF071B",
+			"#F7D711"
+		],
+		"default" : [
+			"#D1D1D1",
+			"#C1C1C1",
+			"#E1E1E1",
+			"#B1B1B1"
 		]
 	},
 	{ 
@@ -166,10 +249,16 @@
 		"name_tag" : "txt_country_djibouti",
 		"flag_tag" : "img_flag_djibouti",
 		"colors" : [
-			"FFFFFF",
-			"09af27",
-			"6ab3e8",
-			"d80c13"
+			"#FFFFFF",
+			"#09AF27",
+			"#6AB3E8",
+			"#D80C13"
+		],
+		"default" : [
+			"#D1D1D1",
+			"#C1C1C1",
+			"#E1E1E1",
+			"#B1B1B1"
 		]
 	},
 	{ 
@@ -178,10 +267,16 @@
 		"name_tag" : "txt_country_egypt",
 		"flag_tag" : "img_flag_egypt",
 		"colors" : [
-			"cf0921",
-			"000000",
-			"FFFFFF",
-			"f0c727"
+			"#CF0921",
+			"#000000",
+			"#FFFFFF",
+			"#F0C727"
+		],
+		"default" : [
+			"#D1D1D1",
+			"#C1C1C1",
+			"#B1B1B1",
+			"#E1E1E1"
 		]
 	},
 	{ 
@@ -190,14 +285,24 @@
 		"name_tag" : "txt_country_equatorial_guinea",
 		"flag_tag" : "img_flag_equatorial_guinea",
 		"colors" : [
-			"73af00",
-			"ff4b55",
-			"FFFFFF",
-			"4173cd",
-			"b46446",
-			"73af00",
-			"464655",
-			"ffe15a"
+			"#73AF00",
+			"#FF4B55",
+			"#FFFFFF",
+			"#4173CD",
+			"#B46446",
+			"#73AF00",
+			"#464655",
+			"#FFE15A"
+		],
+		"default" : [
+			"#D1D1D1",
+			"#F1F1F1",
+			"#C1C1C1",
+			"#E1E1E1",
+			"#D1D1D1",
+			"#A1A1A1",
+			"#464655",
+			"#B1B1B1"
 		]
 	},
 	{ 
@@ -206,10 +311,16 @@
 		"name_tag" : "txt_country_eritrea",
 		"flag_tag" : "img_flag_eritrea",
 		"colors" : [
-			"41b225",
-			"3f90df",
-			"e50027",
-			"ffe15a"
+			"#41B225",
+			"#3F90DF",
+			"#E50027",
+			"#FFE15A"
+		],
+		"default" : [
+			"#D1D1D1",
+			"#B1B1B1",
+			"#E1E1E1",
+			"#A1A1A1"
 		]
 	}
 ]
