@@ -531,7 +531,7 @@
 		"id": 27,
 		"continent_id" : 1,
 		"name_tag" : "txt_country_lesotho",
-		"flag_tag" : "img_flag_guinea_lesotho",
+		"flag_tag" : "img_flag_lesotho",
 		"colors" : [
 			"#009b42",
 			"#000c8a",
@@ -549,7 +549,7 @@
 		"id": 28,
 		"continent_id" : 1,
 		"name_tag" : "txt_country_liberia",
-		"flag_tag" : "img_flag_guinea_liberia",
+		"flag_tag" : "img_flag_liberia",
 		"colors" : [
 			"#c0032c",
 			"#FFFFFF",
@@ -567,7 +567,7 @@
 		"id": 29,
 		"continent_id" : 1,
 		"name_tag" : "txt_country_libya",
-		"flag_tag" : "img_flag_guinea_libya",
+		"flag_tag" : "img_flag_libya",
 		"colors" : [
 			"#1d9f44",
 			"#e8000b",
@@ -587,7 +587,7 @@
 		"id": 30,
 		"continent_id" : 1,
 		"name_tag" : "txt_country_madagascar",
-		"flag_tag" : "img_flag_guinea_madagascar",
+		"flag_tag" : "img_flag_madagascar",
 		"colors" : [
 			"#F94037",
 			"#00853A",
@@ -603,7 +603,7 @@
 		"id": 31,
 		"continent_id" : 1,
 		"name_tag" : "txt_country_malawi",
-		"flag_tag" : "img_flag_guinea_malawi",
+		"flag_tag" : "img_flag_malawi",
 		"colors" : [
 			"#2f9f32",
 			"#000000",
@@ -619,7 +619,7 @@
 		"id": 32,
 		"continent_id" : 1,
 		"name_tag" : "txt_country_mali",
-		"flag_tag" : "img_flag_guinea_mali",
+		"flag_tag" : "img_flag_mali",
 		"colors" : [
 			"#0cb637",
 			"#fcd20f",
@@ -635,7 +635,7 @@
 		"id": 33,
 		"continent_id" : 1,
 		"name_tag" : "txt_country_mauritania",
-		"flag_tag" : "img_flag_guinea_mauritania",
+		"flag_tag" : "img_flag_mauritania",
 		"colors" : [
 			"#00ab5c",
 			"#ffd800",
@@ -655,7 +655,7 @@
 		"id": 34,
 		"continent_id" : 1,
 		"name_tag" : "txt_country_mauritius",
-		"flag_tag" : "img_flag_guinea_mauritius",
+		"flag_tag" : "img_flag_mauritius",
 		"colors" : [
 			"#eb2336",
 			"#131a6d",
