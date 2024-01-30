@@ -322,5 +322,265 @@
 			"#E1E1E1",
 			"#A1A1A1"
 		]
+	},
+	{ 
+		"id": 18,
+		"continent_id" : 1,
+		"name_tag" : "txt_country_eswatini",
+		"flag_tag" : "img_flag_eswatini",
+		"colors" : [
+			"#3e5eb9",
+			"#ffd900",
+			"#b10c0c",
+			"#FFFFFF",
+			"#ffd900",
+			"#FFFFFF",
+			"#ffd900",
+			"#ffd900",
+			"#FFFFFF",
+			"#000000",
+			"#FFFFFF",
+			"#FFFFFF",
+			"#333333",
+			"#b3b3b3",
+			"#333333",
+			"#b3b3b3",
+			"#333333",
+			"#b3b3b3",
+			"#000000",
+			"#000000"
+		],
+		"defaults" : [
+			"#D1D1D1",
+			"#B1B1B1",
+			"#E1E1E1",
+			"#AEAEAE",
+			"#B1B1B1",
+			"#AEAEAE",
+			"#B1B1B1",
+			"#B1B1B1",
+			"#AEAEAE",
+			"#EFEFEF",
+			"#AEAEAE",
+			"#AEAEAE",
+			"#e5e5e5",
+			"#B1B1B1",
+			"#e5e5e5",
+			"#B1B1B1",
+			"#e5e5e5",
+			"#B1B1B1",
+			"#EFEFEF",
+			"#EFEFEF"
+		]
+	},
+	{ 
+		"id": 19,
+		"continent_id" : 1,
+		"name_tag" : "txt_country_ethiopia",
+		"flag_tag" : "img_flag_ethiopia",
+		"colors" : [
+			"#018a2c",
+			"#db0a13",
+			"#fcde02",
+			"#0645b1",
+			"#fcde02",
+			"#fcde02"
+		],
+		"defaults" : [
+			"#D1D1D1",
+			"#B1B1B1",
+			"#C1C1C1",
+			"#E1E1E1",
+			"#C1C1C1",
+			"#C1C1C1"
+		]
+	},
+	{ 
+		"id": 20,
+		"continent_id" : 1,
+		"name_tag" : "txt_country_gabon",
+		"flag_tag" : "img_flag_gabon",
+		"colors" : [
+			"#3776c5",
+			"#009f60",
+			"#fcd20f"
+		],
+		"defaults" : [
+			"#D1D1D1",
+			"#C1C1C1",
+			"#B1B1B1"
+		]
+	},
+	{ 
+		"id": 21,
+		"continent_id" : 1,
+		"name_tag" : "txt_country_gambia",
+		"flag_tag" : "img_flag_gambia",
+		"colors" : [
+			"#377823",
+			"#cf0921",
+			"#04168d",
+			"#FFFFFF"
+		],
+		"defaults" : [
+			"#D1D1D1",
+			"#C1C1C1",
+			"#B1B1B1",
+			"#A1A1A1"
+		]
+	},
+	{ 
+		"id": 22,
+		"continent_id" : 1,
+		"name_tag" : "txt_country_ghana",
+		"flag_tag" : "img_flag_ghana",
+		"colors" : [
+			"#cf0921",
+			"#006b3d",
+			"#fcd20f",
+			"#000000"
+		],
+		"defaults" : [
+			"#D1D1D1",
+			"#C1C1C1",
+			"#B1B1B1",
+			"#E1E1E1"
+		]
+	},
+	{ 
+		"id": 23,
+		"continent_id" : 1,
+		"name_tag" : "txt_country_guinea",
+		"flag_tag" : "img_flag_guinea",
+		"colors" : [
+			"#cf0921",
+			"#fcd20f",
+			"#009560"
+		],
+		"defaults" : [
+			"#D1D1D1",
+			"#C1C1C1",
+			"#B1B1B1"
+		]
+	},
+	{ 
+		"id": 24,
+		"continent_id" : 1,
+		"name_tag" : "txt_country_guinea_bissau",
+		"flag_tag" : "img_flag_guinea_bissau",
+		"colors" : [
+			"#fcd20f",
+			"#009f47",
+			"#cf0921",
+			"#000000"
+		],
+		"defaults" : [
+			"#D1D1D1",
+			"#C1C1C1",
+			"#B1B1B1",
+			"#E1E1E1"
+		]
+	},
+	{ 
+		"id": 25,
+		"continent_id" : 1,
+		"name_tag" : "txt_country_kenya",
+		"flag_tag" : "img_flag_guinea_kenya",
+		"colors" : [
+			"#006600",
+			"#000000",
+			"#bc0000",
+			"#FFFFFF",
+			"#FFFFFF",
+			"#FFFFFF",
+			"#bc0000",
+			"#000000",
+			"#FFFFFF",
+			"#FFFFFF"
+		],
+		"defaults" : [
+			"#D1D1D1",
+			"#E1E1E1",
+			"#A1A1A1",
+			"#BABABA",
+			"#BABABA",
+			"#BABABA",
+			"#A1A1A1",
+			"#E1E1E1",
+			"#BABABA",
+			"#BABABA"
+		]
+	},
+	{ 
+		"id": 26,
+		"continent_id" : 1,
+		"name_tag" : "txt_country_lesotho",
+		"flag_tag" : "img_flag_guinea_lesotho",
+		"colors" : [
+			"#009b42",
+			"#000c8a",
+			"#FFFFFF",
+			"#000000"
+		],
+		"defaults" : [
+			"#D1D1D1",
+			"#E1E1E1",
+			"#A1A1A1",
+			"#EAEAEA"
+		]
+	},
+	{ 
+		"id": 27,
+		"continent_id" : 1,
+		"name_tag" : "txt_country_liberia",
+		"flag_tag" : "img_flag_guinea_liberia",
+		"colors" : [
+			"#c0032c",
+			"#FFFFFF",
+			"#002368",
+			"#FFFFFF"
+		],
+		"defaults" : [
+			"#D1D1D1",
+			"#E1E1E1",
+			"#A1A1A1",
+			"#E1E1E1"
+		]
+	},
+	{ 
+		"id": 28,
+		"continent_id" : 1,
+		"name_tag" : "txt_country_libya",
+		"flag_tag" : "img_flag_guinea_libya",
+		"colors" : [
+			"#1d9f44",
+			"#e8000b",
+			"#000000",
+			"#FFFFFF",
+			"#FFFFFF"
+		],
+		"defaults" : [
+			"#D1D1D1",
+			"#C1C1C1",
+			"#A1A1A1",
+			"#E1E1E1",
+			"#E1E1E1"
+		]
+	},
+	{ 
+		"id": 29,
+		"continent_id" : 1,
+		"name_tag" : "txt_country_madagascar",
+		"flag_tag" : "img_flag_guinea_madagascar",
+		"colors" : [
+			"#F94037",
+			"#00853A",
+			"#FFFFFF"
+		],
+		"defaults" : [
+			"#D1D1D1",
+			"#C1C1C1",
+			"#A1A1A1"
+		]
 	}
 ]
