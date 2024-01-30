@@ -10,7 +10,7 @@
 			"#E61E25",
 			"#E61E25"
 		],
-		"default" : [
+		"defaults" : [
 			"#E1E1E1",
 			"#C1C1C1",
 			"#D1D1D1",
@@ -28,7 +28,7 @@
 			"#ffe15a",
 			"#ffe15a"		  
 		],
-		"default" : [
+		"defaults" : [
 			"#D1D1D1",
 			"#C1C1C1",
 			"#B1B1B1",
@@ -45,7 +45,7 @@
 			"#ED1F34",
 			"#259245"		  
 			],
-		"default" : [
+		"defaults" : [
 			"#D1D1D1",
 			"#E1E1E1",
 			"#C1C1C1"		  
@@ -61,7 +61,7 @@
 			"#000000",
 			"#FFFFFF"		  
 		],
-		"default" : [
+		"defaults" : [
 			"#D1D1D1",
 			"#E1E1E1",
 			"#C1C1C1"		  
@@ -77,7 +77,7 @@
 			"#009E49",
 			"#FCD115"		  
 		],
-		"default" : [
+		"defaults" : [
 			"#D1D1D1",
 			"#E1E1E1",
 			"#C1C1C1"		  
@@ -99,7 +99,7 @@
 			"#C9072A",
 			"#41B225"	  
 		],
-		"default" : [
+		"defaults" : [
 			"#E1E1E1",
 			"#A1A1A1",
 			"#FFFFFF",
@@ -122,7 +122,7 @@
 			"#fcd20f",
 			"#fcd20f"		  
 		],
-		"default" : [
+		"defaults" : [
 			"#D1D1D1",
 			"#E1E1E1",
 			"#B1B1B1",
@@ -140,7 +140,7 @@
 			"#FF4B55",
 			"#FFE15A"				  
 		],
-		"default" : [
+		"defaults" : [
 			"#D1D1D1",
 			"#C1C1C1",
 			"#E1E1E1",
@@ -160,7 +160,7 @@
 			"#ff4B55",
 			"#ffE15A"					  
 		],
-		"default" : [
+		"defaults" : [
 			"#D1D1D1",
 			"#E1E1E1",
 			"#A1A1A1",
@@ -179,7 +179,7 @@
 			"#fecc00",
 			"#c7042c"					  
 		],
-		"default" : [
+		"defaults" : [
 			"#E1E1E1",
 			"#F5F5F5",
 			"#E1E1E1"					  
@@ -199,7 +199,7 @@
 			"#FFFFFF",
 			"#FFFFFF"					  
 		],
-		"default" : [
+		"defaults" : [
 			"#D1D1D1",
 			"#E1E1E1",
 			"#C1C1C1",
@@ -219,7 +219,7 @@
 			"#009641",
 			"#DB1332"
 		],
-		"default" : [
+		"defaults" : [
 			"#D1D1D1",
 			"#C1C1C1",
 			"#B1B1B1"
@@ -236,7 +236,7 @@
 			"#CF071B",
 			"#F7D711"
 		],
-		"default" : [
+		"defaults" : [
 			"#D1D1D1",
 			"#C1C1C1",
 			"#E1E1E1",
@@ -254,7 +254,7 @@
 			"#6AB3E8",
 			"#D80C13"
 		],
-		"default" : [
+		"defaults" : [
 			"#D1D1D1",
 			"#C1C1C1",
 			"#E1E1E1",
@@ -272,7 +272,7 @@
 			"#FFFFFF",
 			"#F0C727"
 		],
-		"default" : [
+		"defaults" : [
 			"#D1D1D1",
 			"#C1C1C1",
 			"#B1B1B1",
@@ -294,7 +294,7 @@
 			"#464655",
 			"#FFE15A"
 		],
-		"default" : [
+		"defaults" : [
 			"#D1D1D1",
 			"#F1F1F1",
 			"#C1C1C1",
@@ -316,7 +316,7 @@
 			"#E50027",
 			"#FFE15A"
 		],
-		"default" : [
+		"defaults" : [
 			"#D1D1D1",
 			"#B1B1B1",
 			"#E1E1E1",
