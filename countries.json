@@ -582,5 +582,75 @@
 			"#C1C1C1",
 			"#A1A1A1"
 		]
+	},
+	{ 
+		"id": 30,
+		"continent_id" : 1,
+		"name_tag" : "txt_country_malawi",
+		"flag_tag" : "img_flag_guinea_malawi",
+		"colors" : [
+			"#2f9f32",
+			"#000000",
+			"#cf0921"
+		],
+		"defaults" : [
+			"#D1D1D1",
+			"#C1C1C1",
+			"#A1A1A1"
+		]
+	},
+	{ 
+		"id": 31,
+		"continent_id" : 1,
+		"name_tag" : "txt_country_mali",
+		"flag_tag" : "img_flag_guinea_mali",
+		"colors" : [
+			"#0cb637",
+			"#fcd20f",
+			"#cf0921"
+		],
+		"defaults" : [
+			"#D1D1D1",
+			"#C1C1C1",
+			"#A1A1A1"
+		]
+	},
+	{ 
+		"id": 32,
+		"continent_id" : 1,
+		"name_tag" : "txt_country_mali",
+		"flag_tag" : "img_flag_guinea_mali",
+		"colors" : [
+			"#00ab5c",
+			"#ffd800",
+			"#ffd800",
+			"#d11619",
+			"#d11619"
+		],
+		"defaults" : [
+			"#D1D1D1",
+			"#C1C1C1",
+			"#C1C1C1",
+			"#A1A1A1",
+			"#A1A1A1"
+		]
+	},
+	{ 
+		"id": 33,
+		"continent_id" : 1,
+		"name_tag" : "txt_country_mauritius",
+		"flag_tag" : "img_flag_guinea_mauritius",
+		"colors" : [
+			"#eb2336",
+			"#131a6d",
+			"#ffd600",
+			"#00a750"
+		],
+		"defaults" : [
+			"#D1D1D1",
+			"#C1C1C1",
+			"#A1A1A1",
+			"#EAEAEA"
+		]
 	}
 ]
