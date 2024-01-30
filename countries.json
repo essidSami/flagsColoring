@@ -484,6 +484,22 @@
 	{ 
 		"id": 25,
 		"continent_id" : 1,
+		"name_tag" : "txt_country_cote_de_ivor",
+		"flag_tag" : "img_flag_cote_de_ivor",
+		"colors" : [
+			"#f78000",
+			"#FFFFFF",
+			"#009f60"
+		],
+		"defaults" : [
+			"#D1D1D1",
+			"#B1B1B1",
+			"#C1C1C1"
+		]
+	},
+	{ 
+		"id": 26,
+		"continent_id" : 1,
 		"name_tag" : "txt_country_kenya",
 		"flag_tag" : "img_flag_guinea_kenya",
 		"colors" : [
@@ -512,7 +528,7 @@
 		]
 	},
 	{ 
-		"id": 26,
+		"id": 27,
 		"continent_id" : 1,
 		"name_tag" : "txt_country_lesotho",
 		"flag_tag" : "img_flag_guinea_lesotho",
@@ -530,7 +546,7 @@
 		]
 	},
 	{ 
-		"id": 27,
+		"id": 28,
 		"continent_id" : 1,
 		"name_tag" : "txt_country_liberia",
 		"flag_tag" : "img_flag_guinea_liberia",
@@ -548,7 +564,7 @@
 		]
 	},
 	{ 
-		"id": 28,
+		"id": 29,
 		"continent_id" : 1,
 		"name_tag" : "txt_country_libya",
 		"flag_tag" : "img_flag_guinea_libya",
@@ -568,7 +584,7 @@
 		]
 	},
 	{ 
-		"id": 29,
+		"id": 30,
 		"continent_id" : 1,
 		"name_tag" : "txt_country_madagascar",
 		"flag_tag" : "img_flag_guinea_madagascar",
@@ -584,7 +600,7 @@
 		]
 	},
 	{ 
-		"id": 30,
+		"id": 31,
 		"continent_id" : 1,
 		"name_tag" : "txt_country_malawi",
 		"flag_tag" : "img_flag_guinea_malawi",
@@ -600,7 +616,7 @@
 		]
 	},
 	{ 
-		"id": 31,
+		"id": 32,
 		"continent_id" : 1,
 		"name_tag" : "txt_country_mali",
 		"flag_tag" : "img_flag_guinea_mali",
@@ -616,7 +632,7 @@
 		]
 	},
 	{ 
-		"id": 32,
+		"id": 33,
 		"continent_id" : 1,
 		"name_tag" : "txt_country_mauritania",
 		"flag_tag" : "img_flag_guinea_mauritania",
@@ -636,7 +652,7 @@
 		]
 	},
 	{ 
-		"id": 33,
+		"id": 34,
 		"continent_id" : 1,
 		"name_tag" : "txt_country_mauritius",
 		"flag_tag" : "img_flag_guinea_mauritius",
