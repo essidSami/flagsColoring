@@ -2,6 +2,7 @@
 	{ 
 		"id": 1,
 		"continent_id" : 1,
+		"key" : "DZ",
 		"name_tag" : "txt_country_algeria",
 		"flag_tag" : "img_flag_algeria",
 		"colors" : [
@@ -20,6 +21,7 @@
 	{ 
 		"id": 2,
 		"continent_id" : 1,
+		"key" : "AO",
 		"name_tag" : "txt_country_angola",
 		"flag_tag" : "img_flag_angola",
 		"colors" : [
@@ -38,6 +40,7 @@
 	{ 
 		"id": 3,
 		"continent_id" : 1,
+		"key" : "BJ",
 		"name_tag" : "txt_country_benin",
 		"flag_tag" : "img_flag_benin",
 		"colors" : [
@@ -54,6 +57,7 @@
 	{ 
 		"id": 4,
 		"continent_id" : 1,
+		"key" : "BW",
 		"name_tag" : "txt_country_botswana",
 		"flag_tag" : "img_flag_botswana",
 		"colors" : [
@@ -70,6 +74,7 @@
 	{ 
 		"id": 5,
 		"continent_id" : 1,
+		"key" : "BF",
 		"name_tag" : "txt_country_burkina_faso",
 		"flag_tag" : "img_flag_burkina_faso",
 		"colors" : [
@@ -86,6 +91,7 @@
 	{ 
 		"id": 6,
 		"continent_id" : 1,
+		"key" : "BI",
 		"name_tag" : "txt_country_burundi",
 		"flag_tag" : "img_flag_burundi",
 		"colors" : [
@@ -114,6 +120,7 @@
 	{ 
 		"id": 7,
 		"continent_id" : 1,
+		"key" : "CM",
 		"name_tag" : "txt_country_cameroon",
 		"flag_tag" : "img_flag_cameroon",
 		"colors" : [
@@ -132,6 +139,7 @@
 	{ 
 		"id": 8,
 		"continent_id" : 1,
+		"key" : "CV",
 		"name_tag" : "txt_country_cape_verde",
 		"flag_tag" : "img_flag_cape_verde",
 		"colors" : [
@@ -150,6 +158,7 @@
 	{ 
 		"id": 9,
 		"continent_id" : 1,
+		"key" : "CF",
 		"name_tag" : "txt_country_central_african_republic",
 		"flag_tag" : "img_flag_central_african_republic",
 		"colors" : [
@@ -172,6 +181,7 @@
 	{ 
 		"id": 10,
 		"continent_id" : 1,
+		"key" : "TD",
 		"name_tag" : "txt_country_chad",
 		"flag_tag" : "img_flag_chad",
 		"colors" : [
@@ -188,6 +198,7 @@
 	{ 
 		"id": 11,
 		"continent_id" : 1,
+		"key" : "KM",
 		"name_tag" : "txt_country_comoros",
 		"flag_tag" : "img_flag_comoros",
 		"colors" : [
@@ -212,6 +223,7 @@
 	{ 
 		"id": 12,
 		"continent_id" : 1,
+		"key" : "CG",
 		"name_tag" : "txt_country_congo",
 		"flag_tag" : "img_flag_congo",
 		"colors" : [
@@ -228,6 +240,7 @@
 	{ 
 		"id": 13,
 		"continent_id" : 1,
+		"key" : "CD",
 		"name_tag" : "txt_country_democratic_congo",
 		"flag_tag" : "img_flag_democratic_congo",
 		"colors" : [
@@ -246,6 +259,7 @@
 	{ 
 		"id": 14,
 		"continent_id" : 1,
+		"key" : "DJ",
 		"name_tag" : "txt_country_djibouti",
 		"flag_tag" : "img_flag_djibouti",
 		"colors" : [
@@ -264,6 +278,7 @@
 	{ 
 		"id": 15,
 		"continent_id" : 1,
+		"key" : "EG",
 		"name_tag" : "txt_country_egypt",
 		"flag_tag" : "img_flag_egypt",
 		"colors" : [
@@ -282,6 +297,7 @@
 	{ 
 		"id": 16,
 		"continent_id" : 1,
+		"key" : "GQ",
 		"name_tag" : "txt_country_equatorial_guinea",
 		"flag_tag" : "img_flag_equatorial_guinea",
 		"colors" : [
@@ -308,6 +324,7 @@
 	{ 
 		"id": 17,
 		"continent_id" : 1,
+		"key" : "ER",
 		"name_tag" : "txt_country_eritrea",
 		"flag_tag" : "img_flag_eritrea",
 		"colors" : [
@@ -326,6 +343,7 @@
 	{ 
 		"id": 18,
 		"continent_id" : 1,
+		"key" : "SZ",
 		"name_tag" : "txt_country_eswatini",
 		"flag_tag" : "img_flag_eswatini",
 		"colors" : [
@@ -376,6 +394,7 @@
 	{ 
 		"id": 19,
 		"continent_id" : 1,
+		"key" : "ET",
 		"name_tag" : "txt_country_ethiopia",
 		"flag_tag" : "img_flag_ethiopia",
 		"colors" : [
@@ -398,6 +417,7 @@
 	{ 
 		"id": 20,
 		"continent_id" : 1,
+		"key" : "GA",
 		"name_tag" : "txt_country_gabon",
 		"flag_tag" : "img_flag_gabon",
 		"colors" : [
@@ -414,6 +434,7 @@
 	{ 
 		"id": 21,
 		"continent_id" : 1,
+		"key" : "GM",
 		"name_tag" : "txt_country_gambia",
 		"flag_tag" : "img_flag_gambia",
 		"colors" : [
@@ -432,6 +453,7 @@
 	{ 
 		"id": 22,
 		"continent_id" : 1,
+		"key" : "GH",
 		"name_tag" : "txt_country_ghana",
 		"flag_tag" : "img_flag_ghana",
 		"colors" : [
@@ -450,6 +472,7 @@
 	{ 
 		"id": 23,
 		"continent_id" : 1,
+		"key" : "GN",
 		"name_tag" : "txt_country_guinea",
 		"flag_tag" : "img_flag_guinea",
 		"colors" : [
@@ -466,6 +489,7 @@
 	{ 
 		"id": 24,
 		"continent_id" : 1,
+		"key" : "GW",
 		"name_tag" : "txt_country_guinea_bissau",
 		"flag_tag" : "img_flag_guinea_bissau",
 		"colors" : [
@@ -484,6 +508,7 @@
 	{ 
 		"id": 25,
 		"continent_id" : 1,
+		"key" : "CI",
 		"name_tag" : "txt_country_cote_de_ivor",
 		"flag_tag" : "img_flag_cote_de_ivor",
 		"colors" : [
@@ -500,6 +525,7 @@
 	{ 
 		"id": 26,
 		"continent_id" : 1,
+		"key" : "KE",
 		"name_tag" : "txt_country_kenya",
 		"flag_tag" : "img_flag_kenya",
 		"colors" : [
@@ -530,6 +556,7 @@
 	{ 
 		"id": 27,
 		"continent_id" : 1,
+		"key" : "LS",
 		"name_tag" : "txt_country_lesotho",
 		"flag_tag" : "img_flag_lesotho",
 		"colors" : [
@@ -548,6 +575,7 @@
 	{ 
 		"id": 28,
 		"continent_id" : 1,
+		"key" : "LR",
 		"name_tag" : "txt_country_liberia",
 		"flag_tag" : "img_flag_liberia",
 		"colors" : [
@@ -566,6 +594,7 @@
 	{ 
 		"id": 29,
 		"continent_id" : 1,
+		"key" : "LY",
 		"name_tag" : "txt_country_libya",
 		"flag_tag" : "img_flag_libya",
 		"colors" : [
@@ -586,6 +615,7 @@
 	{ 
 		"id": 30,
 		"continent_id" : 1,
+		"key" : "MG",
 		"name_tag" : "txt_country_madagascar",
 		"flag_tag" : "img_flag_madagascar",
 		"colors" : [
@@ -602,6 +632,7 @@
 	{ 
 		"id": 31,
 		"continent_id" : 1,
+		"key" : "MW",
 		"name_tag" : "txt_country_malawi",
 		"flag_tag" : "img_flag_malawi",
 		"colors" : [
@@ -618,6 +649,7 @@
 	{ 
 		"id": 32,
 		"continent_id" : 1,
+		"key" : "ML",
 		"name_tag" : "txt_country_mali",
 		"flag_tag" : "img_flag_mali",
 		"colors" : [
@@ -634,6 +666,7 @@
 	{ 
 		"id": 33,
 		"continent_id" : 1,
+		"key" : "MR",
 		"name_tag" : "txt_country_mauritania",
 		"flag_tag" : "img_flag_mauritania",
 		"colors" : [
@@ -654,6 +687,7 @@
 	{ 
 		"id": 34,
 		"continent_id" : 1,
+		"key" : "MU",
 		"name_tag" : "txt_country_mauritius",
 		"flag_tag" : "img_flag_mauritius",
 		"colors" : [
@@ -672,6 +706,7 @@
 	{ 
 		"id": 35,
 		"continent_id" : 1,
+		"key" : "MO",
 		"name_tag" : "txt_country_morocco",
 		"flag_tag" : "img_flag_morocco",
 		"colors" : [
@@ -686,6 +721,7 @@
 	{ 
 		"id": 36,
 		"continent_id" : 1,
+		"key" : "MZ",
 		"name_tag" : "txt_country_mozambique",
 		"flag_tag" : "img_flag_mozambique",
 		"colors" : [
@@ -714,6 +750,7 @@
 	{ 
 		"id": 37,
 		"continent_id" : 1,
+		"key" : "NA",
 		"name_tag" : "txt_country_namibia",
 		"flag_tag" : "img_flag_namibia",
 		"colors" : [
@@ -734,6 +771,7 @@
 	{ 
 		"id": 38,
 		"continent_id" : 1,
+		"key" : "NE",
 		"name_tag" : "txt_country_niger",
 		"flag_tag" : "img_flag_niger",
 		"colors" : [
@@ -752,6 +790,7 @@
 	{ 
 		"id": 39,
 		"continent_id" : 1,
+		"key" : "NG",
 		"name_tag" : "txt_country_nigeria",
 		"flag_tag" : "img_flag_nigeria",
 		"colors" : [
@@ -768,6 +807,7 @@
 	{ 
 		"id": 40,
 		"continent_id" : 1,
+		"key" : "RW",
 		"name_tag" : "txt_country_rwanda",
 		"flag_tag" : "img_flag_rwanda",
 		"colors" : [
@@ -786,6 +826,7 @@
 	{ 
 		"id": 41,
 		"continent_id" : 1,
+		"key" : "ST",
 		"name_tag" : "txt_country_sao_tome_and_principe",
 		"flag_tag" : "img_flag_sao_tome_and_principe",
 		"colors" : [
@@ -806,6 +847,7 @@
 	{ 
 		"id": 42,
 		"continent_id" : 1,
+		"key" : "SN",
 		"name_tag" : "txt_country_senegal",
 		"flag_tag" : "img_flag_senegal",
 		"colors" : [
@@ -824,6 +866,7 @@
 	{ 
 		"id": 43,
 		"continent_id" : 1,
+		"key" : "SC",
 		"name_tag" : "txt_country_seychelles",
 		"flag_tag" : "img_flag_seychelles",
 		"colors" : [
@@ -844,6 +887,7 @@
 	{ 
 		"id": 44,
 		"continent_id" : 1,
+		"key" : "SL",
 		"name_tag" : "txt_country_sierra_leone",
 		"flag_tag" : "img_flag_sierra_leone",
 		"colors" : [
@@ -860,6 +904,7 @@
 	{ 
 		"id": 45,
 		"continent_id" : 1,
+		"key" : "SO",
 		"name_tag" : "txt_country_somalia",
 		"flag_tag" : "img_flag_somalia",
 		"colors" : [
@@ -874,6 +919,7 @@
 	{ 
 		"id": 46,
 		"continent_id" : 1,
+		"key" : "ZA",
 		"name_tag" : "txt_country_south_africa",
 		"flag_tag" : "img_flag_south_africa",
 		"colors" : [
@@ -898,6 +944,7 @@
 	{ 
 		"id": 47,
 		"continent_id" : 1,
+		"key" : "SS",
 		"name_tag" : "txt_country_south_sudan",
 		"flag_tag" : "img_flag_south_sudan",
 		"colors" : [
