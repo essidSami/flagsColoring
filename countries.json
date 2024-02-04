@@ -963,5 +963,182 @@
 			"#BABABA",
 			"#E1E1E1"
 		]
+	},
+	{ 
+		"id": 48,
+		"continent_id" : 1,
+		"key" : "SD",
+		"name_tag" : "txt_country_sudan",
+		"flag_tag" : "img_flag_sudan",
+		"colors" : [
+			"#d30731",
+			"#000000",
+			"#FFFFFF",
+			"#007324"
+		],
+		"defaults" : [
+			"#D1D1D1",
+			"#C1C1C1",
+			"#A1A1A1",
+			"#EAEAEA"
+		]
+	},
+	{ 
+		"id": 49,
+		"continent_id" : 1,
+		"key" : "TZ",
+		"name_tag" : "txt_country_tanzania",
+		"flag_tag" : "img_flag_tanzania",
+		"colors" : [
+			"#18b637",
+			"#00a4de",
+			"#fcd20f",
+			"#000000"
+		],
+		"defaults" : [
+			"#D1D1D1",
+			"#C1C1C1",
+			"#A1A1A1",
+			"#EAEAEA"
+		]
+	},
+	{ 
+		"id": 50,
+		"continent_id" : 1,
+		"key" : "TG",
+		"name_tag" : "txt_country_togo",
+		"flag_tag" : "img_flag_south_togo",
+		"colors" : [
+			"#006a4d",
+			"#ffcf00",
+			"#006a4d",
+			"#ffcf00",
+			"#d30731",
+			"#FFFFFF"
+		],
+		"defaults" : [
+			"#D1D1D1",
+			"#C1C1C1",
+			"#D1D1D1",
+			"#C1C1C1",
+			"#A1A1A1",
+			"#E1E1E1"
+		]
+	},
+	{ 
+		"id": 51,
+		"continent_id" : 1,
+		"key" : "TN",
+		"name_tag" : "txt_country_tunisia",
+		"flag_tag" : "img_flag_tunisia",
+		"colors" : [
+			"#e8000b",
+			"#FFFFFF",
+			"#e8000b",
+			"#e8000b"
+		],
+		"defaults" : [
+			"#D1D1D1",
+			"#A1A1A1",
+			"#D1D1D1",
+			"#D1D1D1"
+		]
+	},
+	{ 
+		"id": 52,
+		"continent_id" : 1,
+		"key" : "UG",
+		"name_tag" : "txt_country_uganda",
+		"flag_tag" : "img_flag_uganda",
+		"colors" : [
+			"#000000",
+			"#fcdd00",
+			"#da0000",
+			"#000000",
+			"#fcdd00",
+			"#da0000",
+			"#FFFFFF",
+			"#da0000",
+			"#fcdd00",
+			"#000000",
+			"#696e7d",
+			"#FFFFFF",
+			"#da0000",
+			"#FFFFFF",
+			"#da0000"
+		],
+		"defaults" : [
+			"#D1D1D1",
+			"#C1C1C1",
+			"#A1A1A1",
+			"#D1D1D1",
+			"#C1C1C1",
+			"#A1A1A1",
+			"#EAEAEA",
+			"#A1A1A1",
+			"#C1C1C1",
+			"#D1D1D1",
+			"#CDCDCD",
+			"#EAEAEA",
+			"#A1A1A1",
+			"#EAEAEA",
+			"#A1A1A1"
+		]
+	},
+	{ 
+		"id": 53,
+		"continent_id" : 1,
+		"key" : "ZM",
+		"name_tag" : "txt_country_zambia",
+		"flag_tag" : "img_flag_zambia",
+		"colors" : [
+			"#128b00",
+			"#df1a07",
+			"#000000",
+			"#ef7e00",
+			"#ef7e00",
+			"#000000"
+		],
+		"defaults" : [
+			"#D1D1D1",
+			"#C1C1C1",
+			"#A1A1A1",
+			"#EAEAEA",
+			"#EAEAEA",
+			"#A1A1A1"
+		]
+	},
+	{ 
+		"id": 54,
+		"continent_id" : 1,
+		"key" : "ZW",
+		"name_tag" : "txt_country_zimbabwe",
+		"flag_tag" : "img_flag_zimbabwe",
+		"colors" : [
+			"#006400",
+			"#ffd300",
+			"#d50000",
+			"#006400",
+			"#ffd300",
+			"#d50000",
+			"#000000",
+			"#FFFFFF",
+			"#d50000",
+			"#ffd300",
+			"#000000"
+		],
+		"defaults" : [
+			"#D1D1D1",
+			"#C1C1C1",
+			"#A1A1A1",
+			"#D1D1D1",
+			"#C1C1C1",
+			"#A1A1A1",
+			"#CDCDCD",
+			"#EAEAEA",
+			"#A1A1A1",
+			"#C1C1C1",
+			"#CDCDCD"
+		]
 	}
 ]
