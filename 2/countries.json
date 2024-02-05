@@ -125,9 +125,9 @@
 		"name_tag" : "txt_country_cyprus",
 		"flag_tag" : "img_flag_cyprus",
 		"colors" : [
-			"#f2aa00",
-			"#da000a",
-			"#0030a1"
+			"#FFFFFF",
+			"#4d5b2d",
+			"#d67900"
 		],
 		"defaults" : [
 			"#E1E1E1",
