@@ -1,0 +1,213 @@
+[
+	{ 
+		"id": 103,
+		"continent_id" : 2,
+		"key" : "AL",
+		"name_tag" : "txt_country_albania",
+		"flag_tag" : "img_flag_albania",
+		"colors" : [
+			"#ff0000",
+			"#000000"
+		],
+		"defaults" : [
+			"#E1E1E1",
+			"#C1C1C1"
+		]
+	},
+{ 
+		"id": 104,
+		"continent_id" : 2,
+		"key" : "AD",
+		"name_tag" : "txt_country_andorra",
+		"flag_tag" : "img_flag_andorra",
+		"colors" : [
+			"#10069f",
+			"#fedd00",
+			"#d50032",
+			"#c6aa76",
+      "#d50032",
+      "#fedd00",
+      "#fedd00",
+      "#FFFFFF",
+      "#d50032",
+      "#4173cd"
+		],
+		"defaults" : [
+			"#E1E1E1",
+			"#C1C1C1",
+			"#D1D1D1",
+			"#A1A1A1",
+      "#d50032",
+      "#fedd00",
+      "#fedd00",
+      "#FFFFFF",
+      "#d50032",
+      "#4173cd"
+		]
+	},
+  { 
+		"id": 105,
+		"continent_id" : 2,
+		"key" : "AT",
+		"name_tag" : "txt_country_austria",
+		"flag_tag" : "img_flag_austria",
+		"colors" : [
+			"#c8102e",
+      "#FFFFFF"
+		],
+		"defaults" : [
+			"#E1E1E1",
+			"#C1C1C1"
+		]
+	},
+  { 
+		"id": 106,
+		"continent_id" : 2,
+		"key" : "BY",
+		"name_tag" : "txt_country_belarus",
+		"flag_tag" : "img_flag_belarus",
+		"colors" : [
+			"#009739",
+			"#d22730",
+			"#FFFFFF",
+			"#d22730"
+		],
+		"defaults" : [
+			"#E1E1E1",
+			"#C1C1C1",
+			"#D1D1D1",
+			"#C1C1C1"
+		]
+	},
+  { 
+		"id": 107,
+		"continent_id" : 2,
+		"key" : "BE",
+		"name_tag" : "txt_country_belgium",
+		"flag_tag" : "img_flag_belgium",
+		"colors" : [
+			"#fdda24",
+			"#000000",
+			"#ef3340"
+		],
+		"defaults" : [
+			"#E1E1E1",
+			"#C1C1C1",
+			"#D1D1D1"
+		]
+	},
+  { 
+		"id": 108,
+		"continent_id" : 2,
+		"key" : "BA",
+		"name_tag" : "txt_country_bosnia_and_herzegovina",
+		"flag_tag" : "img_flag_bosnia_and_herzegovina",
+		"colors" : [
+			"#001e96",
+			"#fecc00",
+			"#FFFFFF"
+		],
+		"defaults" : [
+			"#E1E1E1",
+			"#C1C1C1",
+			"#D1D1D1"
+		]
+	},
+  { 
+		"id": 109,
+		"continent_id" : 2,
+		"key" : "BG",
+		"name_tag" : "txt_country_bulgaria",
+		"flag_tag" : "img_flag_bulgaria",
+		"colors" : [
+			"#CC0000",
+			"#FFFFFF",
+			"#009900"
+		],
+		"defaults" : [
+			"#E1E1E1",
+			"#C1C1C1",
+			"#D1D1D1"
+		]
+	},
+  { 
+		"id": 110,
+		"continent_id" : 2,
+		"key" : "HR",
+		"name_tag" : "txt_country_croatia",
+		"flag_tag" : "img_flag_croatia",
+		"colors" : [
+			"#171796",
+			"#ff0000",
+			"#FFFFFF",
+			"#ff0000",
+      "#FFFFFF",
+      "#ff0000",
+      "#0093dd",
+      "#171796",
+      "#ff0000",
+      "#f7db17"
+		],
+		"defaults" : [
+			"#C1C1C1",
+			"#E1E1E1",
+			"#A1A1A1",
+			"#ff0000",
+      "#FFFFFF",
+      "#ff0000",
+      "#0093dd",
+      "#171796",
+      "#ff0000",
+      "#f7db17"
+		]
+	},
+  { 
+		"id": 111,
+		"continent_id" : 2,
+		"key" : "CZ",
+		"name_tag" : "txt_country_czech_republic",
+		"flag_tag" : "img_flag_czech_republic",
+		"colors" : [
+			"#11457e",
+			"#d7141a",
+			"#FFFFFF"
+		],
+		"defaults" : [
+			"#E1E1E1",
+			"#C1C1C1",
+			"#D1D1D1"
+		]
+	},
+  { 
+		"id": 112,
+		"continent_id" : 2,
+		"key" : "DK",
+		"name_tag" : "txt_country_denmark",
+		"flag_tag" : "img_flag_denmark",
+		"colors" : [
+			"#c9072a",
+			"#FFFFFF"
+		],
+		"defaults" : [
+			"#E1E1E1",
+			"#C1C1C1"
+		]
+	},
+  { 
+		"id": 113,
+		"continent_id" : 2,
+		"key" : "EE",
+		"name_tag" : "txt_country_estonia",
+		"flag_tag" : "img_flag_estonia",
+		"colors" : [
+			"#0072ce",
+			"#FFFFFF",
+			"#000000"
+		],
+		"defaults" : [
+			"#E1E1E1",
+			"#C1C1C1",
+			"#D1D1D1"
+		]
+	}
+]
