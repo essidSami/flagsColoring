@@ -1,0 +1,32 @@
+[
+	{ 
+		"id": 1,
+		"name_tag" : "txt_lang_english",
+    "image_tag" : "img_lang_english",
+		"key" : "en"
+	},
+{ 
+		"id": 2,
+		"name_tag" : "txt_lang_french",
+    "image_tag" : "img_lang_french",
+		"key" : "en"
+	},
+  { 
+		"id": 3,
+		"name_tag" : "txt_lang_italian",
+    "image_tag" : "img_lang_italian",
+		"key" : "en"
+	},
+  { 
+		"id": 4,
+		"name_tag" : "txt_lang_spanish",
+    "image_tag" : "img_lang_spanish",
+		"key" : "en"
+	},
+  { 
+		"id": 5,
+		"name_tag" : "txt_lang_arabic",
+    "image_tag" : "img_lang_arabic",
+		"key" : "en"
+	},
+]
