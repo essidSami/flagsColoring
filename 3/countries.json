@@ -1,7 +1,7 @@
 [
 	{ 
 		"id": 103,
-		"continent_id" : 2,
+		"continent_id" : 3,
 		"key" : "AL",
 		"name_tag" : "txt_country_albania",
 		"flag_tag" : "img_flag_albania",
@@ -16,7 +16,7 @@
 	},
 { 
 		"id": 104,
-		"continent_id" : 2,
+		"continent_id" : 3,
 		"key" : "AD",
 		"name_tag" : "txt_country_andorra",
 		"flag_tag" : "img_flag_andorra",
@@ -47,7 +47,7 @@
 	},
   { 
 		"id": 105,
-		"continent_id" : 2,
+		"continent_id" : 3,
 		"key" : "AT",
 		"name_tag" : "txt_country_austria",
 		"flag_tag" : "img_flag_austria",
@@ -62,7 +62,7 @@
 	},
   { 
 		"id": 106,
-		"continent_id" : 2,
+		"continent_id" : 3,
 		"key" : "BY",
 		"name_tag" : "txt_country_belarus",
 		"flag_tag" : "img_flag_belarus",
@@ -81,7 +81,7 @@
 	},
   { 
 		"id": 107,
-		"continent_id" : 2,
+		"continent_id" : 3,
 		"key" : "BE",
 		"name_tag" : "txt_country_belgium",
 		"flag_tag" : "img_flag_belgium",
@@ -98,7 +98,7 @@
 	},
   { 
 		"id": 108,
-		"continent_id" : 2,
+		"continent_id" : 3,
 		"key" : "BA",
 		"name_tag" : "txt_country_bosnia_and_herzegovina",
 		"flag_tag" : "img_flag_bosnia_and_herzegovina",
@@ -115,7 +115,7 @@
 	},
   { 
 		"id": 109,
-		"continent_id" : 2,
+		"continent_id" : 3,
 		"key" : "BG",
 		"name_tag" : "txt_country_bulgaria",
 		"flag_tag" : "img_flag_bulgaria",
@@ -132,7 +132,7 @@
 	},
   { 
 		"id": 110,
-		"continent_id" : 2,
+		"continent_id" : 3,
 		"key" : "HR",
 		"name_tag" : "txt_country_croatia",
 		"flag_tag" : "img_flag_croatia",
@@ -163,7 +163,7 @@
 	},
   { 
 		"id": 111,
-		"continent_id" : 2,
+		"continent_id" : 3,
 		"key" : "CZ",
 		"name_tag" : "txt_country_czech_republic",
 		"flag_tag" : "img_flag_czech_republic",
@@ -180,7 +180,7 @@
 	},
   { 
 		"id": 112,
-		"continent_id" : 2,
+		"continent_id" : 3,
 		"key" : "DK",
 		"name_tag" : "txt_country_denmark",
 		"flag_tag" : "img_flag_denmark",
@@ -195,7 +195,7 @@
 	},
   { 
 		"id": 113,
-		"continent_id" : 2,
+		"continent_id" : 3,
 		"key" : "EE",
 		"name_tag" : "txt_country_estonia",
 		"flag_tag" : "img_flag_estonia",
