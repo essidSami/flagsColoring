@@ -445,5 +445,201 @@
 			"#E1E1E1",
 			"#6e6e6e"
 		]
+	},
+	{ 
+		"id": 128,
+		"continent_id" : 3,
+		"key" : "MD",
+		"name_tag" : "txt_country_moldova",
+		"flag_tag" : "img_flag_moldova",
+		"colors" : [
+			"#cc092f",
+			"#ffd200",
+			"#0046ae",
+			"#000000",
+			"#cc092f",
+			"#0046ae",
+			"#ffd200",
+			"#ffd200",
+			"#b07e5b",
+			"#ffd200",
+			"#007a50",
+			"#cc092f"
+		],
+		"defaults" : [
+			"#C1C1C1",
+			"#E1E1E1",
+			"#D1D1D1",
+			"#000000",
+			"#cc092f",
+			"#0046ae",
+			"#ffd200",
+			"#ffd200",
+			"#b07e5b",
+			"#ffd200",
+			"#007a50",
+			"#cc092f"
+		]
+	},
+	{ 
+		"id": 129,
+		"continent_id" : 3,
+		"key" : "MC",
+		"name_tag" : "txt_country_monaco",
+		"flag_tag" : "img_flag_monaco",
+		"colors" : [
+			"#cf0921",
+			"#FFFFFF"
+		],
+		"defaults" : [
+			"#E1E1E1",
+			"#C1C1C1"
+		]
+	},
+	{ 
+		"id": 130,
+		"continent_id" : 3,
+		"key" : "ME",
+		"name_tag" : "txt_country_montenegro",
+		"flag_tag" : "img_flag_montenegro",
+		"colors" : [
+			"#e4010b",
+			"#eab623",
+			"#41479b",
+			"#eab623",
+			"#41479b",
+			"#73af00"
+		],
+		"defaults" : [
+			"#E1E1E1",
+			"#C1C1C1",
+			"#41479b",
+			"#D1D1D1",
+			"#41479b",
+			"#73af00"
+		]
+	},
+	{ 
+		"id": 131,
+		"continent_id" : 3,
+		"key" : "NL",
+		"name_tag" : "txt_country_netherlands",
+		"flag_tag" : "img_flag_netherlands",
+		"colors" : [
+			"#ad1d25",
+			"#1e4785",
+			"#FFFFFF"
+		],
+		"defaults" : [
+			"#E1E1E1",
+			"#C1C1C1",
+			"#E1E1E1"
+		]
+	},
+	{ 
+		"id": 132,
+		"continent_id" : 3,
+		"key" : "MK",
+		"name_tag" : "txt_country_north_macedonia",
+		"flag_tag" : "img_flag_north_macedonia",
+		"colors" : [
+			"#ce2028",
+			"#f9d616"
+		],
+		"defaults" : [
+			"#E1E1E1",
+			"#C1C1C1"
+		]
+	},
+	{ 
+		"id": 133,
+		"continent_id" : 3,
+		"key" : "NO",
+		"name_tag" : "txt_country_norway",
+		"flag_tag" : "img_flag_norway",
+		"colors" : [
+			"#ba0c2f",
+			"#FFFFFF",
+			"#00205b"
+		],
+		"defaults" : [
+			"#E1E1E1",
+			"#C1C1C1",
+			"#E1E1E1"
+		]
+	},
+	{ 
+		"id": 134,
+		"continent_id" : 3,
+		"key" : "PL",
+		"name_tag" : "txt_country_poland",
+		"flag_tag" : "img_flag_poland",
+		"colors" : [
+			"#dd0c39",
+			"#FFFFFF"
+		],
+		"defaults" : [
+			"#E1E1E1",
+			"#C1C1C1"
+		]
+	},
+	{ 
+		"id": 135,
+		"continent_id" : 3,
+		"key" : "PT",
+		"name_tag" : "txt_country_portugal",
+		"flag_tag" : "img_flag_portugal",
+		"colors" : [
+			"#ff0000",
+			"#006600",
+			"#FFFF00",
+			"#ff0000",
+			"#FFFFFF",
+			"#FFFF00",
+			"#003399"
+		],
+		"defaults" : [
+			"#E1E1E1",
+			"#C1C1C1",
+			"#E1E1E1",
+			"#ff0000",
+			"#FFFFFF",
+			"#FFFF00",
+			"#003399"
+		]
+	},
+	{ 
+		"id": 136,
+		"continent_id" : 3,
+		"key" : "RO",
+		"name_tag" : "txt_country_romania",
+		"flag_tag" : "img_flag_romania",
+		"colors" : [
+			"#002b7f",
+			"#fcd116",
+			"#ce1126"
+		],
+		"defaults" : [
+			"#E1E1E1",
+			"#C1C1C1",
+			"#E1E1E1"
+		]
+	},
+	{ 
+		"id": 137,
+		"continent_id" : 3,
+		"key" : "RU",
+		"name_tag" : "txt_country_russia",
+		"flag_tag" : "img_flag_russia",
+		"colors" : [
+			"#FFFFFF",
+			"#d62718",
+			"#0036a7"
+		],
+		"defaults" : [
+			"#E1E1E1",
+			"#C1C1C1",
+			"#E1E1E1"
+		]
 	}
 ]
