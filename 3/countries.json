@@ -209,5 +209,241 @@
 			"#C1C1C1",
 			"#D1D1D1"
 		]
+	},
+	{ 
+		"id": 114,
+		"continent_id" : 3,
+		"key" : "FI",
+		"name_tag" : "txt_country_finland",
+		"flag_tag" : "img_flag_finland",
+		"colors" : [
+			"#FFFFFF",
+			"#002b6c"
+		],
+		"defaults" : [
+			"#E1E1E1",
+			"#C1C1C1"
+		]
+	},
+	{ 
+		"id": 115,
+		"continent_id" : 3,
+		"key" : "FR",
+		"name_tag" : "txt_country_france",
+		"flag_tag" : "img_flag_france",
+		"colors" : [
+			"#0055a4",
+			"#FFFFFF",
+			"#ef4135"
+		],
+		"defaults" : [
+			"#E1E1E1",
+			"#C1C1C1",
+			"#D1D1D1"
+		]
+	},
+	{ 
+		"id": 116,
+		"continent_id" : 3,
+		"key" : "DE",
+		"name_tag" : "txt_country_germany",
+		"flag_tag" : "img_flag_germany",
+		"colors" : [
+			"#000000",
+			"#FFCC00",
+			"#ff0000"
+		],
+		"defaults" : [
+			"#E1E1E1",
+			"#C1C1C1",
+			"#D1D1D1"
+		]
+	},
+	{ 
+		"id": 117,
+		"continent_id" : 3,
+		"key" : "GR",
+		"name_tag" : "txt_country_greece",
+		"flag_tag" : "img_flag_greece",
+		"colors" : [
+			"#FFFFFF",
+			"#055eb1"
+		],
+		"defaults" : [
+			"#E1E1E1",
+			"#C1C1C1"
+		]
+	},
+	{ 
+		"id": 118,
+		"continent_id" : 3,
+		"key" : "HU",
+		"name_tag" : "txt_country_hungary",
+		"flag_tag" : "img_flag_hungary",
+		"colors" : [
+			"#ce2939",
+			"#477050",
+			"#FFFFFF"
+		],
+		"defaults" : [
+			"#E1E1E1",
+			"#C1C1C1",
+			"#D1D1D1"
+		]
+	},
+	{ 
+		"id": 119,
+		"continent_id" : 3,
+		"key" : "IS",
+		"name_tag" : "txt_country_iceland",
+		"flag_tag" : "img_flag_iceland",
+		"colors" : [
+			"#02529c",
+			"#FFFFFF",
+			"#dc1e35"
+		],
+		"defaults" : [
+			"#E1E1E1",
+			"#C1C1C1",
+			"#D1D1D1"
+		]
+	},
+	{ 
+		"id": 120,
+		"continent_id" : 3,
+		"key" : "IE",
+		"name_tag" : "txt_country_ireland",
+		"flag_tag" : "img_flag_ireland",
+		"colors" : [
+			"#169b62",
+			"#FFFFFF",
+			"#ff883e"
+		],
+		"defaults" : [
+			"#E1E1E1",
+			"#C1C1C1",
+			"#D1D1D1"
+		]
+	},
+	{ 
+		"id": 121,
+		"continent_id" : 3,
+		"key" : "IT",
+		"name_tag" : "txt_country_italian",
+		"flag_tag" : "img_flag_italian",
+		"colors" : [
+			"#009344",
+			"#FFFFFF",
+			"#cf2734"
+		],
+		"defaults" : [
+			"#E1E1E1",
+			"#C1C1C1",
+			"#D1D1D1"
+		]
+	},
+	{ 
+		"id": 122,
+		"continent_id" : 3,
+		"key" : "XK",
+		"name_tag" : "txt_country_kosovo",
+		"flag_tag" : "img_flag_kosovo",
+		"colors" : [
+			"#183884",
+			"#dbbb5b",
+			"#FFFFFF"
+		],
+		"defaults" : [
+			"#E1E1E1",
+			"#C1C1C1",
+			"#D1D1D1"
+		]
+	},
+	{ 
+		"id": 123,
+		"continent_id" : 3,
+		"key" : "LV",
+		"name_tag" : "txt_country_latvia",
+		"flag_tag" : "img_flag_latvia",
+		"colors" : [
+			"#9d2235",
+			"#FFFFFF"
+		],
+		"defaults" : [
+			"#E1E1E1",
+			"#C1C1C1"
+		]
+	},
+	{ 
+		"id": 124,
+		"continent_id" : 3,
+		"key" : "LI",
+		"name_tag" : "txt_country_liechtenstein",
+		"flag_tag" : "img_flag_liechtenstein",
+		"colors" : [
+			"#002780",
+			"#cf0921",
+			"#ffd93b",
+			"#000000"
+		],
+		"defaults" : [
+			"#E1E1E1",
+			"#C1C1C1",
+			"#D1D1D1",
+			"#000000"
+		]
+	},
+	{ 
+		"id": 125,
+		"continent_id" : 3,
+		"key" : "LT",
+		"name_tag" : "txt_country_lithuania",
+		"flag_tag" : "img_flag_lithuania",
+		"colors" : [
+			"#c1272d",
+			"#fdb913",
+			"#006a44"
+		],
+		"defaults" : [
+			"#E1E1E1",
+			"#C1C1C1",
+			"#D1D1D1"
+		]
+	},
+	{ 
+		"id": 126,
+		"continent_id" : 3,
+		"key" : "LU",
+		"name_tag" : "txt_country_luxembourg",
+		"flag_tag" : "img_flag_luxembourg",
+		"colors" : [
+			"#ef3340",
+			"#00a3e0",
+			"#FFFFFF"
+		],
+		"defaults" : [
+			"#E1E1E1",
+			"#C1C1C1",
+			"#D1D1D1"
+		]
+	},
+	{ 
+		"id": 127,
+		"continent_id" : 3,
+		"key" : "MT",
+		"name_tag" : "txt_country_malta",
+		"flag_tag" : "img_flag_malta",
+		"colors" : [
+			"#d00c27",
+			"#FFFFFF",
+			"#d00c27",
+			"#6e6e6e"
+		],
+		"defaults" : [
+			"#E1E1E1",
+			"#C1C1C1",
+			"#E1E1E1",
+			"#6e6e6e"
+		]
 	}
 ]
