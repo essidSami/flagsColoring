@@ -1,645 +1,865 @@
 [
-	{ 
-		"id": 103,
-		"continent_id" : 3,
-		"key" : "AL",
-		"name_tag" : "txt_country_albania",
-		"flag_tag" : "img_flag_albania",
-		"colors" : [
-			"#ff0000",
-			"#000000"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1"
-		]
-	},
-{ 
-		"id": 104,
-		"continent_id" : 3,
-		"key" : "AD",
-		"name_tag" : "txt_country_andorra",
-		"flag_tag" : "img_flag_andorra",
-		"colors" : [
-			"#10069f",
-			"#fedd00",
-			"#d50032",
-			"#c6aa76",
+  {
+    "id": 103,
+    "continent_id": 3,
+    "key": "AL",
+    "name_tag": "txt_country_albania",
+    "flag_tag": "img_flag_albania",
+    "colors": [
+      "#ff0000",
+      "#000000"
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1"
+    ]
+  },
+  {
+    "id": 104,
+    "continent_id": 3,
+    "key": "AD",
+    "name_tag": "txt_country_andorra",
+    "flag_tag": "img_flag_andorra",
+    "colors": [
+      "#10069f",
+      "#fedd00",
+      "#d50032",
+      "#c6aa76",
       "#d50032",
       "#fedd00",
       "#fedd00",
       "#FFFFFF",
       "#d50032",
       "#4173cd"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1",
-			"#D1D1D1",
-			"#A1A1A1",
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#D1D1D1",
+      "#A1A1A1",
       "#d50032",
       "#fedd00",
       "#fedd00",
       "#FFFFFF",
       "#d50032",
       "#4173cd"
-		]
-	},
-  { 
-		"id": 105,
-		"continent_id" : 3,
-		"key" : "AT",
-		"name_tag" : "txt_country_austria",
-		"flag_tag" : "img_flag_austria",
-		"colors" : [
-			"#c8102e",
+    ]
+  },
+  {
+    "id": 105,
+    "continent_id": 3,
+    "key": "AT",
+    "name_tag": "txt_country_austria",
+    "flag_tag": "img_flag_austria",
+    "colors": [
+      "#c8102e",
       "#FFFFFF"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1"
-		]
-	},
-  { 
-		"id": 106,
-		"continent_id" : 3,
-		"key" : "BY",
-		"name_tag" : "txt_country_belarus",
-		"flag_tag" : "img_flag_belarus",
-		"colors" : [
-			"#009739",
-			"#d22730",
-			"#FFFFFF",
-			"#d22730"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1",
-			"#D1D1D1",
-			"#C1C1C1"
-		]
-	},
-  { 
-		"id": 107,
-		"continent_id" : 3,
-		"key" : "BE",
-		"name_tag" : "txt_country_belgium",
-		"flag_tag" : "img_flag_belgium",
-		"colors" : [
-			"#fdda24",
-			"#000000",
-			"#ef3340"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1",
-			"#D1D1D1"
-		]
-	},
-  { 
-		"id": 108,
-		"continent_id" : 3,
-		"key" : "BA",
-		"name_tag" : "txt_country_bosnia_and_herzegovina",
-		"flag_tag" : "img_flag_bosnia_and_herzegovina",
-		"colors" : [
-			"#001e96",
-			"#fecc00",
-			"#FFFFFF"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1",
-			"#D1D1D1"
-		]
-	},
-  { 
-		"id": 109,
-		"continent_id" : 3,
-		"key" : "BG",
-		"name_tag" : "txt_country_bulgaria",
-		"flag_tag" : "img_flag_bulgaria",
-		"colors" : [
-			"#CC0000",
-			"#FFFFFF",
-			"#009900"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1",
-			"#D1D1D1"
-		]
-	},
-  { 
-		"id": 110,
-		"continent_id" : 3,
-		"key" : "HR",
-		"name_tag" : "txt_country_croatia",
-		"flag_tag" : "img_flag_croatia",
-		"colors" : [
-			"#171796",
-			"#ff0000",
-			"#FFFFFF",
-			"#ff0000",
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1"
+    ]
+  },
+  {
+    "id": 106,
+    "continent_id": 3,
+    "key": "BY",
+    "name_tag": "txt_country_belarus",
+    "flag_tag": "img_flag_belarus",
+    "colors": [
+      "#009739",
+      "#d22730",
+      "#FFFFFF",
+      "#d22730"
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#D1D1D1",
+      "#C1C1C1"
+    ]
+  },
+  {
+    "id": 107,
+    "continent_id": 3,
+    "key": "BE",
+    "name_tag": "txt_country_belgium",
+    "flag_tag": "img_flag_belgium",
+    "colors": [
+      "#fdda24",
+      "#000000",
+      "#ef3340"
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#D1D1D1"
+    ]
+  },
+  {
+    "id": 108,
+    "continent_id": 3,
+    "key": "BA",
+    "name_tag": "txt_country_bosnia_and_herzegovina",
+    "flag_tag": "img_flag_bosnia_and_herzegovina",
+    "colors": [
+      "#001e96",
+      "#fecc00",
+      "#FFFFFF"
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#D1D1D1"
+    ]
+  },
+  {
+    "id": 109,
+    "continent_id": 3,
+    "key": "BG",
+    "name_tag": "txt_country_bulgaria",
+    "flag_tag": "img_flag_bulgaria",
+    "colors": [
+      "#CC0000",
+      "#FFFFFF",
+      "#009900"
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#D1D1D1"
+    ]
+  },
+  {
+    "id": 110,
+    "continent_id": 3,
+    "key": "HR",
+    "name_tag": "txt_country_croatia",
+    "flag_tag": "img_flag_croatia",
+    "colors": [
+      "#171796",
+      "#ff0000",
+      "#FFFFFF",
+      "#ff0000",
       "#FFFFFF",
       "#ff0000",
       "#0093dd",
       "#171796",
       "#ff0000",
       "#f7db17"
-		],
-		"defaults" : [
-			"#C1C1C1",
-			"#E1E1E1",
-			"#A1A1A1",
-			"#ff0000",
+    ],
+    "defaults": [
+      "#C1C1C1",
+      "#E1E1E1",
+      "#A1A1A1",
+      "#ff0000",
       "#FFFFFF",
       "#ff0000",
       "#0093dd",
       "#171796",
       "#ff0000",
       "#f7db17"
-		]
-	},
-  { 
-		"id": 111,
-		"continent_id" : 3,
-		"key" : "CZ",
-		"name_tag" : "txt_country_czech_republic",
-		"flag_tag" : "img_flag_czech_republic",
-		"colors" : [
-			"#11457e",
-			"#d7141a",
-			"#FFFFFF"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1",
-			"#D1D1D1"
-		]
-	},
-  { 
-		"id": 112,
-		"continent_id" : 3,
-		"key" : "DK",
-		"name_tag" : "txt_country_denmark",
-		"flag_tag" : "img_flag_denmark",
-		"colors" : [
-			"#c9072a",
-			"#FFFFFF"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1"
-		]
-	},
-  { 
-		"id": 113,
-		"continent_id" : 3,
-		"key" : "EE",
-		"name_tag" : "txt_country_estonia",
-		"flag_tag" : "img_flag_estonia",
-		"colors" : [
-			"#0072ce",
-			"#FFFFFF",
-			"#000000"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1",
-			"#D1D1D1"
-		]
-	},
-	{ 
-		"id": 114,
-		"continent_id" : 3,
-		"key" : "FI",
-		"name_tag" : "txt_country_finland",
-		"flag_tag" : "img_flag_finland",
-		"colors" : [
-			"#FFFFFF",
-			"#002b6c"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1"
-		]
-	},
-	{ 
-		"id": 115,
-		"continent_id" : 3,
-		"key" : "FR",
-		"name_tag" : "txt_country_france",
-		"flag_tag" : "img_flag_france",
-		"colors" : [
-			"#0055a4",
-			"#FFFFFF",
-			"#ef4135"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1",
-			"#D1D1D1"
-		]
-	},
-	{ 
-		"id": 116,
-		"continent_id" : 3,
-		"key" : "DE",
-		"name_tag" : "txt_country_germany",
-		"flag_tag" : "img_flag_germany",
-		"colors" : [
-			"#000000",
-			"#FFCC00",
-			"#ff0000"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1",
-			"#D1D1D1"
-		]
-	},
-	{ 
-		"id": 117,
-		"continent_id" : 3,
-		"key" : "GR",
-		"name_tag" : "txt_country_greece",
-		"flag_tag" : "img_flag_greece",
-		"colors" : [
-			"#FFFFFF",
-			"#055eb1"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1"
-		]
-	},
-	{ 
-		"id": 118,
-		"continent_id" : 3,
-		"key" : "HU",
-		"name_tag" : "txt_country_hungary",
-		"flag_tag" : "img_flag_hungary",
-		"colors" : [
-			"#ce2939",
-			"#477050",
-			"#FFFFFF"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1",
-			"#D1D1D1"
-		]
-	},
-	{ 
-		"id": 119,
-		"continent_id" : 3,
-		"key" : "IS",
-		"name_tag" : "txt_country_iceland",
-		"flag_tag" : "img_flag_iceland",
-		"colors" : [
-			"#02529c",
-			"#FFFFFF",
-			"#dc1e35"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1",
-			"#D1D1D1"
-		]
-	},
-	{ 
-		"id": 120,
-		"continent_id" : 3,
-		"key" : "IE",
-		"name_tag" : "txt_country_ireland",
-		"flag_tag" : "img_flag_ireland",
-		"colors" : [
-			"#169b62",
-			"#FFFFFF",
-			"#ff883e"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1",
-			"#D1D1D1"
-		]
-	},
-	{ 
-		"id": 121,
-		"continent_id" : 3,
-		"key" : "IT",
-		"name_tag" : "txt_country_italian",
-		"flag_tag" : "img_flag_italian",
-		"colors" : [
-			"#009344",
-			"#FFFFFF",
-			"#cf2734"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1",
-			"#D1D1D1"
-		]
-	},
-	{ 
-		"id": 122,
-		"continent_id" : 3,
-		"key" : "XK",
-		"name_tag" : "txt_country_kosovo",
-		"flag_tag" : "img_flag_kosovo",
-		"colors" : [
-			"#183884",
-			"#dbbb5b",
-			"#FFFFFF"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1",
-			"#D1D1D1"
-		]
-	},
-	{ 
-		"id": 123,
-		"continent_id" : 3,
-		"key" : "LV",
-		"name_tag" : "txt_country_latvia",
-		"flag_tag" : "img_flag_latvia",
-		"colors" : [
-			"#9d2235",
-			"#FFFFFF"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1"
-		]
-	},
-	{ 
-		"id": 124,
-		"continent_id" : 3,
-		"key" : "LI",
-		"name_tag" : "txt_country_liechtenstein",
-		"flag_tag" : "img_flag_liechtenstein",
-		"colors" : [
-			"#002780",
-			"#cf0921",
-			"#ffd93b",
-			"#000000"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1",
-			"#D1D1D1",
-			"#000000"
-		]
-	},
-	{ 
-		"id": 125,
-		"continent_id" : 3,
-		"key" : "LT",
-		"name_tag" : "txt_country_lithuania",
-		"flag_tag" : "img_flag_lithuania",
-		"colors" : [
-			"#c1272d",
-			"#fdb913",
-			"#006a44"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1",
-			"#D1D1D1"
-		]
-	},
-	{ 
-		"id": 126,
-		"continent_id" : 3,
-		"key" : "LU",
-		"name_tag" : "txt_country_luxembourg",
-		"flag_tag" : "img_flag_luxembourg",
-		"colors" : [
-			"#ef3340",
-			"#00a3e0",
-			"#FFFFFF"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1",
-			"#D1D1D1"
-		]
-	},
-	{ 
-		"id": 127,
-		"continent_id" : 3,
-		"key" : "MT",
-		"name_tag" : "txt_country_malta",
-		"flag_tag" : "img_flag_malta",
-		"colors" : [
-			"#d00c27",
-			"#FFFFFF",
-			"#d00c27",
-			"#6e6e6e"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1",
-			"#E1E1E1",
-			"#6e6e6e"
-		]
-	},
-	{ 
-		"id": 128,
-		"continent_id" : 3,
-		"key" : "MD",
-		"name_tag" : "txt_country_moldova",
-		"flag_tag" : "img_flag_moldova",
-		"colors" : [
-			"#cc092f",
-			"#ffd200",
-			"#0046ae",
-			"#000000",
-			"#cc092f",
-			"#0046ae",
-			"#ffd200",
-			"#ffd200",
-			"#b07e5b",
-			"#ffd200",
-			"#007a50",
-			"#cc092f"
-		],
-		"defaults" : [
-			"#C1C1C1",
-			"#E1E1E1",
-			"#D1D1D1",
-			"#000000",
-			"#cc092f",
-			"#0046ae",
-			"#ffd200",
-			"#ffd200",
-			"#b07e5b",
-			"#ffd200",
-			"#007a50",
-			"#cc092f"
-		]
-	},
-	{ 
-		"id": 129,
-		"continent_id" : 3,
-		"key" : "MC",
-		"name_tag" : "txt_country_monaco",
-		"flag_tag" : "img_flag_monaco",
-		"colors" : [
-			"#cf0921",
-			"#FFFFFF"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1"
-		]
-	},
-	{ 
-		"id": 130,
-		"continent_id" : 3,
-		"key" : "ME",
-		"name_tag" : "txt_country_montenegro",
-		"flag_tag" : "img_flag_montenegro",
-		"colors" : [
-			"#e4010b",
-			"#eab623",
-			"#41479b",
-			"#eab623",
-			"#41479b",
-			"#73af00"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1",
-			"#41479b",
-			"#D1D1D1",
-			"#41479b",
-			"#73af00"
-		]
-	},
-	{ 
-		"id": 131,
-		"continent_id" : 3,
-		"key" : "NL",
-		"name_tag" : "txt_country_netherlands",
-		"flag_tag" : "img_flag_netherlands",
-		"colors" : [
-			"#ad1d25",
-			"#1e4785",
-			"#FFFFFF"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1",
-			"#E1E1E1"
-		]
-	},
-	{ 
-		"id": 132,
-		"continent_id" : 3,
-		"key" : "MK",
-		"name_tag" : "txt_country_north_macedonia",
-		"flag_tag" : "img_flag_north_macedonia",
-		"colors" : [
-			"#ce2028",
-			"#f9d616"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1"
-		]
-	},
-	{ 
-		"id": 133,
-		"continent_id" : 3,
-		"key" : "NO",
-		"name_tag" : "txt_country_norway",
-		"flag_tag" : "img_flag_norway",
-		"colors" : [
-			"#ba0c2f",
-			"#FFFFFF",
-			"#00205b"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1",
-			"#E1E1E1"
-		]
-	},
-	{ 
-		"id": 134,
-		"continent_id" : 3,
-		"key" : "PL",
-		"name_tag" : "txt_country_poland",
-		"flag_tag" : "img_flag_poland",
-		"colors" : [
-			"#dd0c39",
-			"#FFFFFF"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1"
-		]
-	},
-	{ 
-		"id": 135,
-		"continent_id" : 3,
-		"key" : "PT",
-		"name_tag" : "txt_country_portugal",
-		"flag_tag" : "img_flag_portugal",
-		"colors" : [
-			"#ff0000",
-			"#006600",
-			"#FFFF00",
-			"#ff0000",
-			"#FFFFFF",
-			"#FFFF00",
-			"#003399"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1",
-			"#E1E1E1",
-			"#ff0000",
-			"#FFFFFF",
-			"#FFFF00",
-			"#003399"
-		]
-	},
-	{ 
-		"id": 136,
-		"continent_id" : 3,
-		"key" : "RO",
-		"name_tag" : "txt_country_romania",
-		"flag_tag" : "img_flag_romania",
-		"colors" : [
-			"#002b7f",
-			"#fcd116",
-			"#ce1126"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1",
-			"#E1E1E1"
-		]
-	},
-	{ 
-		"id": 137,
-		"continent_id" : 3,
-		"key" : "RU",
-		"name_tag" : "txt_country_russia",
-		"flag_tag" : "img_flag_russia",
-		"colors" : [
-			"#FFFFFF",
-			"#d62718",
-			"#0036a7"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1",
-			"#E1E1E1"
-		]
-	}
+    ]
+  },
+  {
+    "id": 111,
+    "continent_id": 3,
+    "key": "CZ",
+    "name_tag": "txt_country_czech_republic",
+    "flag_tag": "img_flag_czech_republic",
+    "colors": [
+      "#11457e",
+      "#d7141a",
+      "#FFFFFF"
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#D1D1D1"
+    ]
+  },
+  {
+    "id": 112,
+    "continent_id": 3,
+    "key": "DK",
+    "name_tag": "txt_country_denmark",
+    "flag_tag": "img_flag_denmark",
+    "colors": [
+      "#c9072a",
+      "#FFFFFF"
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1"
+    ]
+  },
+  {
+    "id": 113,
+    "continent_id": 3,
+    "key": "EE",
+    "name_tag": "txt_country_estonia",
+    "flag_tag": "img_flag_estonia",
+    "colors": [
+      "#0072ce",
+      "#FFFFFF",
+      "#000000"
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#D1D1D1"
+    ]
+  },
+  {
+    "id": 114,
+    "continent_id": 3,
+    "key": "FI",
+    "name_tag": "txt_country_finland",
+    "flag_tag": "img_flag_finland",
+    "colors": [
+      "#FFFFFF",
+      "#002b6c"
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1"
+    ]
+  },
+  {
+    "id": 115,
+    "continent_id": 3,
+    "key": "FR",
+    "name_tag": "txt_country_france",
+    "flag_tag": "img_flag_france",
+    "colors": [
+      "#0055a4",
+      "#FFFFFF",
+      "#ef4135"
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#D1D1D1"
+    ]
+  },
+  {
+    "id": 116,
+    "continent_id": 3,
+    "key": "DE",
+    "name_tag": "txt_country_germany",
+    "flag_tag": "img_flag_germany",
+    "colors": [
+      "#000000",
+      "#FFCC00",
+      "#ff0000"
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#D1D1D1"
+    ]
+  },
+  {
+    "id": 117,
+    "continent_id": 3,
+    "key": "GR",
+    "name_tag": "txt_country_greece",
+    "flag_tag": "img_flag_greece",
+    "colors": [
+      "#FFFFFF",
+      "#055eb1"
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1"
+    ]
+  },
+  {
+    "id": 118,
+    "continent_id": 3,
+    "key": "HU",
+    "name_tag": "txt_country_hungary",
+    "flag_tag": "img_flag_hungary",
+    "colors": [
+      "#ce2939",
+      "#477050",
+      "#FFFFFF"
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#D1D1D1"
+    ]
+  },
+  {
+    "id": 119,
+    "continent_id": 3,
+    "key": "IS",
+    "name_tag": "txt_country_iceland",
+    "flag_tag": "img_flag_iceland",
+    "colors": [
+      "#02529c",
+      "#FFFFFF",
+      "#dc1e35"
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#D1D1D1"
+    ]
+  },
+  {
+    "id": 120,
+    "continent_id": 3,
+    "key": "IE",
+    "name_tag": "txt_country_ireland",
+    "flag_tag": "img_flag_ireland",
+    "colors": [
+      "#169b62",
+      "#FFFFFF",
+      "#ff883e"
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#D1D1D1"
+    ]
+  },
+  {
+    "id": 121,
+    "continent_id": 3,
+    "key": "IT",
+    "name_tag": "txt_country_italian",
+    "flag_tag": "img_flag_italian",
+    "colors": [
+      "#009344",
+      "#FFFFFF",
+      "#cf2734"
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#D1D1D1"
+    ]
+  },
+  {
+    "id": 122,
+    "continent_id": 3,
+    "key": "XK",
+    "name_tag": "txt_country_kosovo",
+    "flag_tag": "img_flag_kosovo",
+    "colors": [
+      "#183884",
+      "#dbbb5b",
+      "#FFFFFF"
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#D1D1D1"
+    ]
+  },
+  {
+    "id": 123,
+    "continent_id": 3,
+    "key": "LV",
+    "name_tag": "txt_country_latvia",
+    "flag_tag": "img_flag_latvia",
+    "colors": [
+      "#9d2235",
+      "#FFFFFF"
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1"
+    ]
+  },
+  {
+    "id": 124,
+    "continent_id": 3,
+    "key": "LI",
+    "name_tag": "txt_country_liechtenstein",
+    "flag_tag": "img_flag_liechtenstein",
+    "colors": [
+      "#002780",
+      "#cf0921",
+      "#ffd93b",
+      "#000000"
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#D1D1D1",
+      "#000000"
+    ]
+  },
+  {
+    "id": 125,
+    "continent_id": 3,
+    "key": "LT",
+    "name_tag": "txt_country_lithuania",
+    "flag_tag": "img_flag_lithuania",
+    "colors": [
+      "#c1272d",
+      "#fdb913",
+      "#006a44"
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#D1D1D1"
+    ]
+  },
+  {
+    "id": 126,
+    "continent_id": 3,
+    "key": "LU",
+    "name_tag": "txt_country_luxembourg",
+    "flag_tag": "img_flag_luxembourg",
+    "colors": [
+      "#ef3340",
+      "#00a3e0",
+      "#FFFFFF"
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#D1D1D1"
+    ]
+  },
+  {
+    "id": 127,
+    "continent_id": 3,
+    "key": "MT",
+    "name_tag": "txt_country_malta",
+    "flag_tag": "img_flag_malta",
+    "colors": [
+      "#d00c27",
+      "#FFFFFF",
+      "#d00c27",
+      "#6e6e6e"
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#E1E1E1",
+      "#6e6e6e"
+    ]
+  },
+  {
+    "id": 128,
+    "continent_id": 3,
+    "key": "MD",
+    "name_tag": "txt_country_moldova",
+    "flag_tag": "img_flag_moldova",
+    "colors": [
+      "#cc092f",
+      "#ffd200",
+      "#0046ae",
+      "#000000",
+      "#cc092f",
+      "#0046ae",
+      "#ffd200",
+      "#ffd200",
+      "#b07e5b",
+      "#ffd200",
+      "#007a50",
+      "#cc092f"
+    ],
+    "defaults": [
+      "#C1C1C1",
+      "#E1E1E1",
+      "#D1D1D1",
+      "#000000",
+      "#cc092f",
+      "#0046ae",
+      "#ffd200",
+      "#ffd200",
+      "#b07e5b",
+      "#ffd200",
+      "#007a50",
+      "#cc092f"
+    ]
+  },
+  {
+    "id": 129,
+    "continent_id": 3,
+    "key": "MC",
+    "name_tag": "txt_country_monaco",
+    "flag_tag": "img_flag_monaco",
+    "colors": [
+      "#cf0921",
+      "#FFFFFF"
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1"
+    ]
+  },
+  {
+    "id": 130,
+    "continent_id": 3,
+    "key": "ME",
+    "name_tag": "txt_country_montenegro",
+    "flag_tag": "img_flag_montenegro",
+    "colors": [
+      "#e4010b",
+      "#eab623",
+      "#41479b",
+      "#eab623",
+      "#41479b",
+      "#73af00"
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#41479b",
+      "#D1D1D1",
+      "#41479b",
+      "#73af00"
+    ]
+  },
+  {
+    "id": 131,
+    "continent_id": 3,
+    "key": "NL",
+    "name_tag": "txt_country_netherlands",
+    "flag_tag": "img_flag_netherlands",
+    "colors": [
+      "#ad1d25",
+      "#1e4785",
+      "#FFFFFF"
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#E1E1E1"
+    ]
+  },
+  {
+    "id": 132,
+    "continent_id": 3,
+    "key": "MK",
+    "name_tag": "txt_country_north_macedonia",
+    "flag_tag": "img_flag_north_macedonia",
+    "colors": [
+      "#ce2028",
+      "#f9d616"
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1"
+    ]
+  },
+  {
+    "id": 133,
+    "continent_id": 3,
+    "key": "NO",
+    "name_tag": "txt_country_norway",
+    "flag_tag": "img_flag_norway",
+    "colors": [
+      "#ba0c2f",
+      "#FFFFFF",
+      "#00205b"
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#E1E1E1"
+    ]
+  },
+  {
+    "id": 134,
+    "continent_id": 3,
+    "key": "PL",
+    "name_tag": "txt_country_poland",
+    "flag_tag": "img_flag_poland",
+    "colors": [
+      "#dd0c39",
+      "#FFFFFF"
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1"
+    ]
+  },
+  {
+    "id": 135,
+    "continent_id": 3,
+    "key": "PT",
+    "name_tag": "txt_country_portugal",
+    "flag_tag": "img_flag_portugal",
+    "colors": [
+      "#ff0000",
+      "#006600",
+      "#FFFF00",
+      "#ff0000",
+      "#FFFFFF",
+      "#FFFF00",
+      "#003399"
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#E1E1E1",
+      "#ff0000",
+      "#FFFFFF",
+      "#FFFF00",
+      "#003399"
+    ]
+  },
+  {
+    "id": 136,
+    "continent_id": 3,
+    "key": "RO",
+    "name_tag": "txt_country_romania",
+    "flag_tag": "img_flag_romania",
+    "colors": [
+      "#002b7f",
+      "#fcd116",
+      "#ce1126"
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#E1E1E1"
+    ]
+  },
+  {
+    "id": 137,
+    "continent_id": 3,
+    "key": "RU",
+    "name_tag": "txt_country_russia",
+    "flag_tag": "img_flag_russia",
+    "colors": [
+      "#FFFFFF",
+      "#d62718",
+      "#0036a7"
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#E1E1E1"
+    ]
+  },
+  {
+    "id": 138,
+    "continent_id": 3,
+    "key": "SM",
+    "name_tag": "txt_country_san_marino",
+    "flag_tag": "img_flag_san_marino",
+    "colors": [
+      "#FFFFFF",
+      "#5eb7e5",
+      "#b46446",
+      "#FFFFFF",
+      "#f1c02d",
+      "#da9500",
+      "#da9500",
+      "#638c5a",
+      "#f1c02d",
+      "#FFFFFF"
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#b46446",
+      "#FFFFFF",
+      "#f1c02d",
+      "#da9500",
+      "#da9500",
+      "#638c5a",
+      "#f1c02d",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "id": 139,
+    "continent_id": 3,
+    "key": "RS",
+    "name_tag": "txt_country_serbia",
+    "flag_tag": "img_flag_serbia",
+    "colors": [
+      "#FFFFFF",
+      "#0c4077",
+      "#c7363d",
+      "#edb92e",
+      "#FFFFFF",
+      "#c7363d",
+      "#FFFFFF",
+      "#edb92e",
+      "#0c4077",
+      "#c7363d"
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#E1E1E1",
+      "#edb92e",
+      "#FFFFFF",
+      "#c7363d",
+      "#FFFFFF",
+      "#edb92e",
+      "#0c4077",
+      "#c7363d"
+    ]
+  },
+  {
+    "id": 140,
+    "continent_id": 3,
+    "key": "SK",
+    "name_tag": "txt_country_slovakia",
+    "flag_tag": "img_flag_slovakia",
+    "colors": [
+      "#FFFFFF",
+      "#ee1620",
+      "#034da3",
+      "#ee1620",
+      "#034da3",
+      "#FFFFFF"
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#E1E1E1",
+      "#ee1620",
+      "#034da3",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "id": 141,
+    "continent_id": 3,
+    "key": "SI",
+    "name_tag": "txt_country_slovenia",
+    "flag_tag": "img_flag_slovenia",
+    "colors": [
+      "#FFFFFF",
+      "#ff0000",
+      "#0000ff",
+      "#0000ff",
+      "#FFFFFF",
+      "#FFFF00",
+      "#ff0000"
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#E1E1E1",
+      "#0000ff",
+      "#FFFFFF",
+      "#FFFF00",
+      "#ff0000"
+    ]
+  },
+  {
+    "id": 142,
+    "continent_id": 3,
+    "key": "ES",
+    "name_tag": "txt_country_spanish",
+    "flag_tag": "img_flag_spanish",
+    "colors": [
+      "#ad1519",
+      "#fabd00",
+      "#FFFFFF",
+      "#fabd00",
+      "#d95ab0",
+      "#ad1519",
+      "#003fa9",
+      "#fabd00"
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#FFFFFF",
+      "#fabd00",
+      "#d95ab0",
+      "#ad1519",
+      "#003fa9",
+      "#fabd00"
+    ]
+  },
+  {
+    "id": 143,
+    "continent_id": 3,
+    "key": "SE",
+    "name_tag": "txt_country_sweden",
+    "flag_tag": "img_flag_sweden",
+    "colors": [
+      "#006aa7",
+      "#ffcd00"
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1"
+    ]
+  },
+  {
+    "id": 144,
+    "continent_id": 3,
+    "key": "CH",
+    "name_tag": "txt_country_switzerland",
+    "flag_tag": "img_flag_switzerland",
+    "colors": [
+      "#db2416",
+      "#FFFFFF"
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1"
+    ]
+  },
+  {
+    "id": 145,
+    "continent_id": 3,
+    "key": "UA",
+    "name_tag": "txt_country_ukraine",
+    "flag_tag": "img_flag_ukraine",
+    "colors": [
+      "#ffd800",
+      "#0056b9"
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1"
+    ]
+  },
+  {
+    "id": 146,
+    "continent_id": 3,
+    "key": "UK",
+    "name_tag": "txt_country_united_kingdom",
+    "flag_tag": "img_flag_united_kingdom",
+    "colors": [
+      "#001b69",
+      "#FFFFFF",
+      "#001b69"
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#E1E1E1"
+    ]
+  },
+  {
+    "id": 147,
+    "continent_id": 3,
+    "key": "VA",
+    "name_tag": "txt_country_vatican_city",
+    "flag_tag": "img_flag_vatican_city",
+    "colors": [
+      "#FFFFFF",
+      "#fff200",
+      "#bebfc1",
+      "#bebfc1",
+      "#ce1f27"
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#bebfc1",
+      "#bebfc1",
+      "#ce1f27"
+    ]
+  }
 ]
