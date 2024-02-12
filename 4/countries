@@ -1,0 +1,1039 @@
+[
+  {
+    "id": 148,
+    "continent_id": 4,
+    "key": "AG",
+    "name_tag": "txt_country_antigua_and_barbuda",
+    "flag_tag": "img_flag_antigua_and_barbuda",
+    "colors": [
+      {
+        "code": "#000000",
+        "is_activated": true
+      },
+      {
+        "code": "#fcd20f",
+        "is_activated": true
+      },
+      {
+        "code": "#cf0921",
+        "is_activated": true
+      },
+      {
+        "code": "#0073c7",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#D1D1D1",
+      "#A1A1A1",
+      "#AEAEAE"
+    ]
+  },
+  {
+    "id": 149,
+    "continent_id": 4,
+    "key": "BS",
+    "name_tag": "txt_country_bahamas",
+    "flag_tag": "img_flag_bahamas",
+    "colors": [
+      {
+        "code": "#00778b",
+        "is_activated": true
+      },
+      {
+        "code": "#ffc72c",
+        "is_activated": true
+      },
+      {
+        "code": "#000000",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#D1D1D1"
+    ]
+  },
+  {
+    "id": 150,
+    "continent_id": 4,
+    "key": "BB",
+    "name_tag": "txt_country_barbados",
+    "flag_tag": "img_flag_barbados",
+    "colors": [
+      {
+        "code": "#00267f",
+        "is_activated": true
+      },
+      {
+        "code": "#ffc726",
+        "is_activated": true
+      },
+      {
+        "code": "#00267f",
+        "is_activated": true
+      },
+      {
+        "code": "#000000",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#D1D1D1",
+      "#A1A1A1"
+    ]
+  },
+  {
+    "id": 151,
+    "continent_id": 4,
+    "key": "BZ",
+    "name_tag": "txt_country_belize",
+    "flag_tag": "img_flag_belize",
+    "colors": [
+      {
+        "code": "#d90f19",
+        "is_activated": true
+      },
+      {
+        "code": "#171696",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      },
+      {
+        "code": "#9dc9e2",
+        "is_activated": false
+      },
+      {
+        "code": "#653024",
+        "is_activated": false
+      },
+      {
+        "code": "#338a00",
+        "is_activated": false
+      },
+      {
+        "code": "#eaf3f5",
+        "is_activated": false
+      },
+      {
+        "code": "#653024",
+        "is_activated": false
+      },
+      {
+        "code": "#ffe682",
+        "is_activated": false
+      },
+      {
+        "code": "#b68a6a",
+        "is_activated": false
+      },
+      {
+        "code": "#ffe682",
+        "is_activated": false
+      },
+      {
+        "code": "#653024",
+        "is_activated": false
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": false
+      },
+      {
+        "code": "#ff4b55",
+        "is_activated": false
+      },
+      {
+        "code": "#653024",
+        "is_activated": false
+      },
+      {
+        "code": "#eaf3f5",
+        "is_activated": false
+      },
+      {
+        "code": "#000000",
+        "is_activated": false
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#D1D1D1",
+      "#9dc9e2",
+      "#653024",
+      "#338a00",
+      "#eaf3f5",
+      "#653024",
+      "#ffe682",
+      "#b68a6a",
+      "#ffe682",
+      "#653024",
+      "#FFFFFF",
+      "#ff4b55",
+      "#653024",
+      "#eaf3f5",
+      "#000000"
+    ]
+  },
+  {
+    "id": 152,
+    "continent_id": 4,
+    "key": "CA",
+    "name_tag": "txt_country_canada",
+    "flag_tag": "img_flag_canada",
+    "colors": [
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      },
+      {
+        "code": "#d62718",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1"
+    ]
+  },
+  {
+    "id": 153,
+    "continent_id": 4,
+    "key": "CR",
+    "name_tag": "txt_country_costa_rica",
+    "flag_tag": "img_flag_costa_rica",
+    "colors": [
+      {
+        "code": "#da291c",
+        "is_activated": true
+      },
+      {
+        "code": "#001489",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#D1D1D1"
+    ]
+  },
+  {
+    "id": 154,
+    "continent_id": 4,
+    "key": "CU",
+    "name_tag": "txt_country_cuba",
+    "flag_tag": "img_flag_cuba",
+    "colors": [
+      {
+        "code": "#002590",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      },
+      {
+        "code": "#cc0d0d",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#D1D1D1",
+      "#C1C1C1"
+    ]
+  },
+  {
+    "id": 155,
+    "continent_id": 4,
+    "key": "DM",
+    "name_tag": "txt_country_dominica",
+    "flag_tag": "img_flag_dominica",
+    "colors": [
+      {
+        "code": "#006a35",
+        "is_activated": true
+      },
+      {
+        "code": "#ffce00",
+        "is_activated": true
+      },
+      {
+        "code": "#000000",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      },
+      {
+        "code": "#d6002e",
+        "is_activated": true
+      },
+      {
+        "code": "#9163ce",
+        "is_activated": false
+      },
+      {
+        "code": "#006a35",
+        "is_activated": false
+      },
+      {
+        "code": "#9d4900",
+        "is_activated": false
+      },
+      {
+        "code": "#ffce00",
+        "is_activated": false
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#D1D1D1",
+      "#A1A1A1",
+      "#BABABA",
+      "#9163ce",
+      "#006a35",
+      "#9d4900",
+      "#ffce00"
+    ]
+  },
+  {
+    "id": 156,
+    "continent_id": 4,
+    "key": "DO",
+    "name_tag": "txt_country_dominican_republic",
+    "flag_tag": "img_flag_dominican_republic",
+    "colors": [
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      },
+      {
+        "code": "#002d62",
+        "is_activated": true
+      },
+      {
+        "code": "#ce1126",
+        "is_activated": true
+      },
+      {
+        "code": "#006a35",
+        "is_activated": false
+      },
+      {
+        "code": "#002d62",
+        "is_activated": false
+      },
+      {
+        "code": "#ce1126",
+        "is_activated": false
+      },
+      {
+        "code": "#ce1126",
+        "is_activated": false
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": false
+      },
+      {
+        "code": "#ffce00",
+        "is_activated": false
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": false
+      },
+      {
+        "code": "#002d62",
+        "is_activated": false
+      },
+      {
+        "code": "#ce1126",
+        "is_activated": false
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": false
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#D1D1D1",
+      "#006a35",
+      "#002d62",
+      "#ce1126",
+      "#ce1126",
+      "#FFFFFF",
+      "#ffce00",
+      "#FFFFFF",
+      "#002d62",
+      "#ce1126",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "id": 157,
+    "continent_id": 4,
+    "key": "SV",
+    "name_tag": "txt_country_el_salvador",
+    "flag_tag": "img_flag_el_salvador",
+    "colors": [
+      {
+        "code": "#0045ad",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      },
+      {
+        "code": "#0045ad",
+        "is_activated": false
+      },
+      {
+        "code": "#009900",
+        "is_activated": false
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": false
+      },
+      {
+        "code": "#000000",
+        "is_activated": false
+      },
+      {
+        "code": "#f5f5f5",
+        "is_activated": false
+      },
+      {
+        "code": "#ffcd00",
+        "is_activated": false
+      },
+      {
+        "code": "#47abef",
+        "is_activated": false
+      },
+      {
+        "code": "#009900",
+        "is_activated": false
+      },
+      {
+        "code": "#a80000",
+        "is_activated": false
+      },
+      {
+        "code": "#41479b",
+        "is_activated": false
+      },
+      {
+        "code": "#5aa0e6",
+        "is_activated": false
+      },
+      {
+        "code": "#9bc800",
+        "is_activated": false
+      },
+      {
+        "code": "#ffe14e",
+        "is_activated": false
+      },
+      {
+        "code": "#ffb14e",
+        "is_activated": false
+      },
+      {
+        "code": "#ff4b55",
+        "is_activated": false
+      },
+      {
+        "code": "#ffcd00",
+        "is_activated": false
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#0045ad",
+      "#009900",
+      "#FFFFFF",
+      "#000000",
+      "#f5f5f5",
+      "#ffcd00",
+      "#47abef",
+      "#009900",
+      "#a80000",
+      "#41479b",
+      "#5aa0e6",
+      "#9bc800",
+      "#ffe14e",
+      "#ffb14e",
+      "#ff4b55",
+      "#ffcd00"
+    ]
+  },
+  {
+    "id": 158,
+    "continent_id": 4,
+    "key": "GD",
+    "name_tag": "txt_country_grenada",
+    "flag_tag": "img_flag_grenada",
+    "colors": [
+      {
+        "code": "#cf0921",
+        "is_activated": true
+      },
+      {
+        "code": "#fcd20f",
+        "is_activated": true
+      },
+      {
+        "code": "#007b5e",
+        "is_activated": true
+      },
+      {
+        "code": "#cf0921",
+        "is_activated": true
+      },
+      {
+        "code": "#fcd20f",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#D1D1D1",
+      "#A1A1A1",
+      "#BABABA"
+    ]
+  },
+  {
+    "id": 159,
+    "continent_id": 4,
+    "key": "GT",
+    "name_tag": "txt_country_guatemala",
+    "flag_tag": "img_flag_guatemala",
+    "colors": [
+      {
+        "code": "#4997d0",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      },
+      {
+        "code": "#4997d0",
+        "is_activated": true
+      },
+      {
+        "code": "#669239",
+        "is_activated": false
+      },
+      {
+        "code": "#b3b7bb",
+        "is_activated": false
+      },
+      {
+        "code": "#f0b016",
+        "is_activated": false
+      },
+      {
+        "code": "#6c2c18",
+        "is_activated": false
+      },
+      {
+        "code": "#669239",
+        "is_activated": false
+      },
+      {
+        "code": "#ecd077",
+        "is_activated": false
+      },
+      {
+        "code": "#ecd077",
+        "is_activated": false
+      },
+      {
+        "code": "#fcf0a8",
+        "is_activated": false
+      },
+      {
+        "code": "#f4e08f",
+        "is_activated": false
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#D1D1D1",
+      "#669239",
+      "#b3b7bb",
+      "#f0b016",
+      "#6c2c18",
+      "#669239",
+      "#ecd077",
+      "#ecd077",
+      "#fcf0a8",
+      "#f4e08f"
+    ]
+  },
+  {
+    "id": 160,
+    "continent_id": 4,
+    "key": "HT",
+    "name_tag": "txt_country_haiti",
+    "flag_tag": "img_flag_haiti",
+    "colors": [
+      {
+        "code": "#00209f",
+        "is_activated": true
+      },
+      {
+        "code": "#d21034",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      },
+      {
+        "code": "#f1b611",
+        "is_activated": false
+      },
+      {
+        "code": "#233e88",
+        "is_activated": false
+      },
+      {
+        "code": "#d52024",
+        "is_activated": false
+      },
+      {
+        "code": "#f1b611",
+        "is_activated": false
+      },
+      {
+        "code": "#106b36",
+        "is_activated": false
+      },
+      {
+        "code": "#f1b611",
+        "is_activated": false
+      },
+      {
+        "code": "#513615",
+        "is_activated": false
+      },
+      {
+        "code": "#f1b611",
+        "is_activated": false
+      },
+      {
+        "code": "#f1b611",
+        "is_activated": false
+      },
+      {
+        "code": "#233e88",
+        "is_activated": false
+      },
+      {
+        "code": "#f1b611",
+        "is_activated": false
+      },
+      {
+        "code": "#d51f27",
+        "is_activated": false
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": false
+      },
+      {
+        "code": "#000000",
+        "is_activated": false
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#D1D1D1",
+      "#f1b611",
+      "#233e88",
+      "#d52024",
+      "#f1b611",
+      "#106b36",
+      "#f1b611",
+      "#513615",
+      "#f1b611",
+      "#f1b611",
+      "#233e88",
+      "#f1b611",
+      "#d51f27",
+      "#FFFFFF",
+      "#000000"
+    ]
+  },
+  {
+    "id": 161,
+    "continent_id": 4,
+    "key": "HN",
+    "name_tag": "txt_country_honduras",
+    "flag_tag": "img_flag_honduras",
+    "colors": [
+      {
+        "code": "#00bce4",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      },
+      {
+        "code": "#00bce4",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#D1D1D1"
+    ]
+  },
+  {
+    "id": 162,
+    "continent_id": 4,
+    "key": "JM",
+    "name_tag": "txt_country_jamaica",
+    "flag_tag": "img_flag_jamaica",
+    "colors": [
+      {
+        "code": "#007847",
+        "is_activated": true
+      },
+      {
+        "code": "#ffb916",
+        "is_activated": true
+      },
+      {
+        "code": "#000000",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#D1D1D1"
+    ]
+  },
+  {
+    "id": 163,
+    "continent_id": 4,
+    "key": "MX",
+    "name_tag": "txt_country_mexico",
+    "flag_tag": "img_flag_mexico",
+    "colors": [
+      {
+        "code": "#006847",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      },
+      {
+        "code": "#ce1125",
+        "is_activated": true
+      },
+      {
+        "code": "#89bcbd",
+        "is_activated": false
+      },
+      {
+        "code": "#00aadc",
+        "is_activated": false
+      },
+      {
+        "code": "#9da268",
+        "is_activated": false
+      },
+      {
+        "code": "#f8c939",
+        "is_activated": false
+      },
+      {
+        "code": "#90441a",
+        "is_activated": false
+      },
+      {
+        "code": "#f9ac50",
+        "is_activated": false
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#D1D1D1",
+      "#89bcbd",
+      "#00aadc",
+      "#9da268",
+      "#f8c939",
+      "#90441a",
+      "#f9ac50"
+    ]
+  },
+  {
+    "id": 164,
+    "continent_id": 4,
+    "key": "NI",
+    "name_tag": "txt_country_nicaragua",
+    "flag_tag": "img_flag_nicaragua",
+    "colors": [
+      {
+        "code": "#0067c7",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      },
+      {
+        "code": "#6fd9f3",
+        "is_activated": false
+      },
+      {
+        "code": "#0067c7",
+        "is_activated": false
+      },
+      {
+        "code": "#98ca1f",
+        "is_activated": false
+      },
+      {
+        "code": "#c1b53a",
+        "is_activated": false
+      },
+      {
+        "code": "#41479b",
+        "is_activated": false
+      },
+      {
+        "code": "#5aa0e6",
+        "is_activated": false
+      },
+      {
+        "code": "#9bc800",
+        "is_activated": false
+      },
+      {
+        "code": "#ffe14e",
+        "is_activated": false
+      },
+      {
+        "code": "#ffb14e",
+        "is_activated": false
+      },
+      {
+        "code": "#ff4b55",
+        "is_activated": false
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#6fd9f3",
+      "#0067c7",
+      "#98ca1f",
+      "#c1b53a",
+      "#41479b",
+      "#5aa0e6",
+      "#9bc800",
+      "#ffe14e",
+      "#ffb14e",
+      "#ff4b55"
+    ]
+  },
+  {
+    "id": 165,
+    "continent_id": 4,
+    "key": "PA",
+    "name_tag": "txt_country_panama",
+    "flag_tag": "img_flag_panama",
+    "colors": [
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      },
+      {
+        "code": "#db0a13",
+        "is_activated": true
+      },
+      {
+        "code": "#011e56",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#D1D1D1"
+    ]
+  },
+  {
+    "id": 166,
+    "continent_id": 4,
+    "key": "KN",
+    "name_tag": "txt_country_saint_kitts_and_nevis",
+    "flag_tag": "img_flag_saint_kitts_and_nevis",
+    "colors": [
+      {
+        "code": "#009836",
+        "is_activated": true
+      },
+      {
+        "code": "#ffce00",
+        "is_activated": true
+      },
+      {
+        "code": "#000000",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      },
+      {
+        "code": "#c9072a",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#D1D1D1",
+      "#A1A1A1",
+      "#BABABA"
+    ]
+  },
+  {
+    "id": 167,
+    "continent_id": 4,
+    "key": "LC",
+    "name_tag": "txt_country_saint_lucia",
+    "flag_tag": "img_flag_saint_lucia",
+    "colors": [
+      {
+        "code": "#4da6ea",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      },
+      {
+        "code": "#000000",
+        "is_activated": true
+      },
+      {
+        "code": "#fcd20f",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#D1D1D1",
+      "#A1A1A1"
+    ]
+  },
+  {
+    "id": 168,
+    "continent_id": 4,
+    "key": "VC",
+    "name_tag": "txt_country_saint_vincent_and_the_grenadines",
+    "flag_tag": "img_flag_saint_vincent_and_the_grenadines",
+    "colors": [
+      {
+        "code": "#fcd11c",
+        "is_activated": true
+      },
+      {
+        "code": "#002175",
+        "is_activated": true
+      },
+      {
+        "code": "#007d2a",
+        "is_activated": true
+      },
+      {
+        "code": "#007d2a",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#D1D1D1",
+      "#D1D1D1"
+    ]
+  },
+  {
+    "id": 169,
+    "continent_id": 4,
+    "key": "US",
+    "name_tag": "txt_country_united_states",
+    "flag_tag": "img_flag_united_states",
+    "colors": [
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      },
+      {
+        "code": "#b31c31",
+        "is_activated": true
+      },
+      {
+        "code": "#39386e",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#D1D1D1",
+      "#E1E1E1"
+    ]
+  }
+]
