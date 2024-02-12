@@ -1,852 +1,1380 @@
 [
-	{ 
-		"id": 55,
-		"continent_id" : 2,
-		"key" : "AF",
-		"name_tag" : "txt_country_afghanistan",
-		"flag_tag" : "img_flag_afghanistan",
-		"colors" : [
-			"#000000",
-			"#d32011",
-			"#007a36",
-			"#FFFFFF"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1",
-			"#D1D1D1",
-			"#A1A1A1"
-		]
-	},
-	{ 
-		"id": 56,
-		"continent_id" : 2,
-		"key" : "AM",
-		"name_tag" : "txt_country_armenia",
-		"flag_tag" : "img_flag_armenia",
-		"colors" : [
-			"#f2aa00",
-			"#da000a",
-			"#0030a1"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1",
-			"#D1D1D1"
-		]
-	},
-  { 
-		"id": 57,
-		"continent_id" : 2,
-		"key" : "AZ",
-		"name_tag" : "txt_country_azerbaijan",
-		"flag_tag" : "img_flag_azerbaijan",
-		"colors" : [
-			"#4f9f2b",
-			"#00b6e3",
-			"#ef303e",
-      			"#FFFFFF",
-      			"#FFFFFF"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1",
-			"#D1D1D1",
-      			"#A1A1A1",
-      			"#A1A1A1"
-		]
-	},
-  { 
-		"id": 58,
-		"continent_id" : 2,
-		"key" : "BH",
-		"name_tag" : "txt_country_bahrain",
-		"flag_tag" : "img_flag_bahrain",
-		"colors" : [
-			"#FFFFFF",
-			"#db2416"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1"
-		]
-	},
-  { 
-		"id": 59,
-		"continent_id" : 2,
-		"key" : "BD",
-		"name_tag" : "txt_country_bangladesh",
-		"flag_tag" : "img_flag_bangladesh",
-		"colors" : [
-			"#006a4d",
-			"#f4263f"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1"
-		]
-	},
-  { 
-		"id": 60,
-		"continent_id" : 2,
-		"key" : "BT",
-		"name_tag" : "txt_country_bhutan",
-		"flag_tag" : "img_flag_bhutan",
-		"colors" : [
-			"#ff6719",
-			"#ffce00",
-			"#FFFFFF"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1",
-			"#D1D1D1"
-		]
-	},
-  { 
-		"id": 61,
-		"continent_id" : 2,
-		"key" : "KH",
-		"name_tag" : "txt_country_cambodia",
-		"flag_tag" : "img_flag_cambodia",
-		"colors" : [
-			"#002aa2",
-			"#e10020",
-			"#FFFFFF",
-      			"#000000"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1",
-			"#D1D1D1",
-      			"#000000"
-		]
-	},
-  { 
-		"id": 62,
-		"continent_id" : 2,
-		"key" : "CN",
-		"name_tag" : "txt_country_china",
-		"flag_tag" : "img_flag_china",
-		"colors" : [
-			"#ef1620",
-			"#FFFF00"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1"
-		]
-	},
-  { 
-		"id": 63,
-		"continent_id" : 2,
-		"key" : "CY",
-		"name_tag" : "txt_country_cyprus",
-		"flag_tag" : "img_flag_cyprus",
-		"colors" : [
-			"#FFFFFF",
-			"#4d5b2d",
-			"#d67900"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1",
-			"#D1D1D1"
-		]
-	},
-  { 
-		"id": 64,
-		"continent_id" : 2,
-		"key" : "TL",
-		"name_tag" : "txt_country_east_timor",
-		"flag_tag" : "img_flag_east_timor",
-		"colors" : [
-			"#db2416",
-			"#ffc828",
-			"#000000",
-      			"#FFFFFF"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1",
-			"#D1D1D1",
-      			"#A1A1A1"
-		]
-	},
-  { 
-		"id": 65,
-		"continent_id" : 2,
-		"key" : "GE",
-		"name_tag" : "txt_country_georgia",
-		"flag_tag" : "img_flag_georgia",
-		"colors" : [
-			"#FFFFFF",
-			"#ff0000",
-			"#ff0000"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1",
-			"#C1C1C1"
-		]
-	},
-  { 
-		"id": 66,
-		"continent_id" : 2,
-		"key" : "IN",
-		"name_tag" : "txt_country_india",
-		"flag_tag" : "img_flag_india",
-		"colors" : [
-			"#ff671f",
-			"#046a38",
-			"#FFFFFF",
-      			"#06038d"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1",
-			"#D1D1D1",
-      			"#A1A1A1"
-		]
-	},
-  { 
-		"id": 67,
-		"continent_id" : 2,
-		"key" : "ID",
-		"name_tag" : "txt_country_indonesia",
-		"flag_tag" : "img_flag_indonesia",
-		"colors" : [
-			"#ff0000",
-			"#FFFFFF"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1"
-		]
-	},
-  { 
-		"id": 68,
-		"continent_id" : 2,
-		"key" : "IR",
-		"name_tag" : "txt_country_iran",
-		"flag_tag" : "img_flag_iran",
-		"colors" : [
-			"#239f40",
-			"#da0000",
-			"#FFFFFF",
-			"#FFFFFF",
-      			"#da0000"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1",
-			"#D1D1D1",
-			"#D1D1D1",
-      			"#C1C1C1"
-		]
-	},
-  { 
-		"id": 69,
-		"continent_id" : 2,
-		"key" : "IQ",
-		"name_tag" : "txt_country_iraq",
-		"flag_tag" : "img_flag_iraq",
-		"colors" : [
-			"#cd1125",
-			"#000000",
-			"#FFFFFF",
-      			"#017b3d"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1",
-			"#D1D1D1",
-      			"#A1A1A1"
-		]
-	},
-  { 
-		"id": 70,
-		"continent_id" : 2,
-		"key" : "JP",
-		"name_tag" : "txt_country_japan",
-		"flag_tag" : "img_flag_japan",
-		"colors" : [
-			"#FFFFFF",
-			"#bd0029"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1"
-		]
-	},
-  { 
-		"id": 71,
-		"continent_id" : 2,
-		"key" : "JO",
-		"name_tag" : "txt_country_jordan",
-		"flag_tag" : "img_flag_jordan",
-		"colors" : [
-			"#000000",
-			"#007a3d",
-			"#FFFFFF",
-     			 "#ce1126",
-      			"#FFFFFF"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1",
-			"#D1D1D1",
-      			"#A1A1A1",
-      			"#D1D1D1"
-		]
-	},
-  { 
-		"id": 72,
-		"continent_id" : 2,
-		"key" : "KZ",
-		"name_tag" : "txt_country_kazakhstan",
-		"flag_tag" : "img_flag_kazakhstan",
-		"colors" : [
-			"#00abc2",
-			"#ffec2d"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1"
-		]
-	},
-	{ 
-		"id": 73,
-		"continent_id" : 2,
-		"key" : "KW",
-		"name_tag" : "txt_country_kuwait",
-		"flag_tag" : "img_flag_kuwait",
-		"colors" : [
-			"#007b3a",
-			"#cf0921",
-			"#FFFFFF",
-			"#000000"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1",
-			"#D1D1D1",
-			"#A1A1A1"
-		]
-	},
-	{ 
-		"id": 74,
-		"continent_id" : 2,
-		"key" : "KG",
-		"name_tag" : "txt_country_kyrgyzstan",
-		"flag_tag" : "img_flag_kyrgyzstan",
-		"colors" : [
-			"#ff0000",
-			"#FFFF00"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1"
-		]
-	},
-	{ 
-		"id": 75,
-		"continent_id" : 2,
-		"key" : "LA",
-		"name_tag" : "txt_country_laos",
-		"flag_tag" : "img_flag_laos",
-		"colors" : [
-			"#ce1126",
-			"#002868",
-			"#FFFFFF"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1",
-			"#D1D1D1"
-		]
-	},
-	{ 
-		"id": 76,
-		"continent_id" : 2,
-		"key" : "LB",
-		"name_tag" : "txt_country_lebanon",
-		"flag_tag" : "img_flag_lebanon",
-		"colors" : [
-			"#ee161f",
-			"#FFFFFF",
-			"#00a850"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1",
-			"#D1D1D1"
-		]
-	},
-	{ 
-		"id": 77,
-		"continent_id" : 2,
-		"key" : "MY",
-		"name_tag" : "txt_country_malaysia",
-		"flag_tag" : "img_flag_malaysia",
-		"colors" : [
-			"#FFFFFF",
-			"#cd0000",
-			"#000066",
-			"#ffcd00"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1",
-			"#D1D1D1",
-			"#A1A1A1"
-		]
-	},
-	{ 
-		"id": 78,
-		"continent_id" : 2,
-		"key" : "MV",
-		"name_tag" : "txt_country_maldives",
-		"flag_tag" : "img_flag_maldives",
-		"colors" : [
-			"#d30731",
-			"#007f37",
-			"#FFFFFF"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1",
-			"#D1D1D1"
-		]
-	},
-	{ 
-		"id": 79,
-		"continent_id" : 2,
-		"key" : "MN",
-		"name_tag" : "txt_country_mongolia",
-		"flag_tag" : "img_flag_mongolia",
-		"colors" : [
-			"#db1a2d",
-			"#0066b3",
-			"#db1a2d",
-			"#ffd400"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1",
-			"#D1D1D1",
-			"#A1A1A1"
-		]
-	},
-	{ 
-		"id": 80,
-		"continent_id" : 2,
-		"key" : "MM",
-		"name_tag" : "txt_country_myanmar",
-		"flag_tag" : "img_flag_myanmar",
-		"colors" : [
-			"#ea2839",
-			"#fecb00",
-			"#34b233",
-			"#FFFFFF"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1",
-			"#D1D1D1",
-			"#A1A1A1"
-		]
-	},
-	{ 
-		"id": 81,
-		"continent_id" : 2,
-		"key" : "NP",
-		"name_tag" : "txt_country_nepal",
-		"flag_tag" : "img_flag_nepal",
-		"colors" : [
-			"#003893",
-			"#dc143c",
-			"#FFFFFF"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1",
-			"#D1D1D1"
-		]
-	},
-	{ 
-		"id": 82,
-		"continent_id" : 2,
-		"key" : "KP",
-		"name_tag" : "txt_country_north_korea",
-		"flag_tag" : "img_flag_north_korea",
-		"colors" : [
-			"#004ea3",
-			"#FFFFFF",
-			"#ee1622",
-			"#FFFFFF",
-			"#ee1622"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1",
-			"#D1D1D1",
-			"#C1C1C1",
-			"#D1D1D1"
-		]
-	},
-	{ 
-		"id": 83,
-		"continent_id" : 2,
-		"key" : "OM",
-		"name_tag" : "txt_country_oman",
-		"flag_tag" : "img_flag_oman",
-		"colors" : [
-			"#FFFFFF",
-			"#007f39",
-			"#e0131e",
-			"#e0131e",
-			"#FFFFFF",
-			"#e0131e"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1",
-			"#D1D1D1",
-			"#D1D1D1",
-			"#E1E1E1",
-			"#D1D1D1"
-		]
-	},
-	{ 
-		"id": 84,
-		"continent_id" : 2,
-		"key" : "PK",
-		"name_tag" : "txt_country_pakistan",
-		"flag_tag" : "img_flag_pakistan",
-		"colors" : [
-			"#FFFFFF",
-			"#00401a",
-			"#FFFFFF"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1",
-			"#E1E1E1"
-		]
-	},
-	{ 
-		"id": 85,
-		"continent_id" : 2,
-		"key" : "PS",
-		"name_tag" : "txt_country_palestine",
-		"flag_tag" : "img_flag_palestine",
-		"colors" : [
-			"#000000",
-			"#009736",
-			"#FFFFFF",
-			"#ee2a35"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1",
-			"#D1D1D1",
-			"#A1A1A1"
-		]
-	},
-	{ 
-		"id": 86,
-		"continent_id" : 2,
-		"key" : "PH",
-		"name_tag" : "txt_country_philippines",
-		"flag_tag" : "img_flag_philippines",
-		"colors" : [
-			"#FFFFFF",
-			"#ce1126",
-			"#0038a8",
-			"#fcd116"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1",
-			"#D1D1D1",
-			"#A1A1A1"
-		]
-	},
-	{ 
-		"id": 87,
-		"continent_id" : 2,
-		"key" : "QA",
-		"name_tag" : "txt_country_qatar",
-		"flag_tag" : "img_flag_qatar",
-		"colors" : [
-			"#FFFFFF",
-			"#8a1538"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1"
-		]
-	},
-	{ 
-		"id": 89,
-		"continent_id" : 2,
-		"key" : "SA",
-		"name_tag" : "txt_country_saudi_arabia",
-		"flag_tag" : "img_flag_saudi_arabia",
-		"colors" : [
-			"#005430",
-			"#FFFFFF"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1"
-		]
-	},
-	{ 
-		"id": 90,
-		"continent_id" : 2,
-		"key" : "SG",
-		"name_tag" : "txt_country_singapore",
-		"flag_tag" : "img_flag_singapore",
-		"colors" : [
-			"#FFFFFF",
-			"#ee2536",
-			"#FFFFFF"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1",
-			"#E1E1E1"
-		]
-	},
-	{ 
-		"id": 91,
-		"continent_id" : 2,
-		"key" : "KR",
-		"name_tag" : "txt_country_south_korea",
-		"flag_tag" : "img_flag_south_korea",
-		"colors" : [
-			"#FFFFFF",
-			"#cd2e3a",
-			"#0047a0",
-			"#000000"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1",
-			"#D1D1D1",
-			"#A1A1A1"
-		]
-	},
-	{ 
-		"id": 92,
-		"continent_id" : 2,
-		"key" : "LK",
-		"name_tag" : "txt_country_sri_lanka",
-		"flag_tag" : "img_flag_sri_lanka",
-		"colors" : [
-			"#f7b718",
-			"#941e32",
-			"#005f56",
-			"#df7500",
-			"#f7b718",
-			"#000000"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1",
-			"#D1D1D1",
-			"#A1A1A1",
-			"#B1B1B1",
-			"#000000"
-			
-		]
-	},
-	{ 
-		"id": 93,
-		"continent_id" : 2,
-		"key" : "SY",
-		"name_tag" : "txt_country_syria",
-		"flag_tag" : "img_flag_syria",
-		"colors" : [
-			"#ce1126",
-			"#000000",
-			"#FFFFFF",
-			"#007a3d"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1",
-			"#D1D1D1",
-			"#A1A1A1"
-		]
-	},
-	{ 
-		"id": 94,
-		"continent_id" : 2,
-		"key" : "TW",
-		"name_tag" : "txt_country_taiwan",
-		"flag_tag" : "img_flag_taiwan",
-		"colors" : [
-			"#f20000",
-			"#0029cc",
-			"#FFFFFF"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1",
-			"#D1D1D1"
-		]
-	},
-	{ 
-		"id": 95,
-		"continent_id" : 2,
-		"key" : "TJ",
-		"name_tag" : "txt_country_tajikistan",
-		"flag_tag" : "img_flag_tajikistan",
-		"colors" : [
-			"#006600",
-			"#cd0000",
-			"#FFFFFF",
-			"#f8c400"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1",
-			"#D1D1D1",
-			"#A1A1A1"
-		]
-	},
-	{ 
-		"id": 96,
-		"continent_id" : 2,
-		"key" : "TH",
-		"name_tag" : "txt_country_thailand",
-		"flag_tag" : "img_flag_thailand",
-		"colors" : [
-			"#f4f5f8",
-			"#a51931",
-			"#2d2a4a"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1",
-			"#D1D1D1"
-		]
-	},
-	{ 
-		"id": 97,
-		"continent_id" : 2,
-		"key" : "TR",
-		"name_tag" : "txt_country_turkey",
-		"flag_tag" : "img_flag_turkey",
-		"colors" : [
-			"#e30a17",
-			"#FFFFFF"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1"
-		]
-	},
-	{ 
-		"id": 98,
-		"continent_id" : 2,
-		"key" : "TM",
-		"name_tag" : "txt_country_turkmenistan",
-		"flag_tag" : "img_flag_turkmenistan",
-		"colors" : [
-			"#00853a",
-			"#d22630",
-			"#FFFFFF",
-			"#00853a",
-			"#FFFFFF",
-			"#ffc72c",
-			"#d22630"
-			
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1",
-			"#D1D1D1",
-			"#E1E1E1",
-			"#D1D1D1",
-			"#A1A1A1",
-			"#C1C1C1"
-		]
-	},
-	{ 
-		"id": 99,
-		"continent_id" : 2,
-		"key" : "AE",
-		"name_tag" : "txt_country_united_arab_emirates",
-		"flag_tag" : "img_flag_united_arab_emirates",
-		"colors" : [
-			"#00843d",
-			"#000000",
-			"#FFFFFF",
-			"#ff0000"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1",
-			"#D1D1D1",
-			"#A1A1A1"
-		]
-	},
-	{ 
-		"id": 100,
-		"continent_id" : 2,
-		"key" : "UZ",
-		"name_tag" : "txt_country_uzbekistan",
-		"flag_tag" : "img_flag_uzbekistan",
-		"colors" : [
-			"#009ab6",
-			"#18b637",
-			"#FFFFFF",
-			"#c71121",
-			"#FFFFFF"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1",
-			"#D1D1D1",
-			"#A1A1A1",
-			"#D1D1D1"
-		]
-	},
-	{ 
-		"id": 101,
-		"continent_id" : 2,
-		"key" : "VN",
-		"name_tag" : "txt_country_vietnam",
-		"flag_tag" : "img_flag_vietnam",
-		"colors" : [
-			"#da251d",
-			"#FFFF00"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1"
-		]
-	},
-	{ 
-		"id": 102,
-		"continent_id" : 2,
-		"key" : "YE",
-		"name_tag" : "txt_country_yemen",
-		"flag_tag" : "img_flag_yemen",
-		"colors" : [
-			"#000000",
-			"#ce1126",
-			"#FFFFFF"
-		],
-		"defaults" : [
-			"#E1E1E1",
-			"#C1C1C1",
-			"#D1D1D1"
-		]
-	}
-  
+  {
+    "id": 55,
+    "continent_id": 2,
+    "key": "AF",
+    "name_tag": "txt_country_afghanistan",
+    "flag_tag": "img_flag_afghanistan",
+    "colors": [
+      {
+        "code": "#000000",
+        "is_activated": true
+      },
+      {
+        "code": "#d32011",
+        "is_activated": true
+      },
+      {
+        "code": "#007a36",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#D1D1D1",
+      "#A1A1A1"
+    ]
+  },
+  {
+    "id": 56,
+    "continent_id": 2,
+    "key": "AM",
+    "name_tag": "txt_country_armenia",
+    "flag_tag": "img_flag_armenia",
+    "colors": [
+      {
+        "code": "#f2aa00",
+        "is_activated": true
+      },
+      {
+        "code": "#da000a",
+        "is_activated": true
+      },
+      {
+        "code": "#0030a1",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#D1D1D1"
+    ]
+  },
+  {
+    "id": 57,
+    "continent_id": 2,
+    "key": "AZ",
+    "name_tag": "txt_country_azerbaijan",
+    "flag_tag": "img_flag_azerbaijan",
+    "colors": [
+      {
+        "code": "#4f9f2b",
+        "is_activated": true
+      },
+      {
+        "code": "#00b6e3",
+        "is_activated": true
+      },
+      {
+        "code": "#ef303e",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#D1D1D1",
+      "#A1A1A1",
+      "#A1A1A1"
+    ]
+  },
+  {
+    "id": 58,
+    "continent_id": 2,
+    "key": "BH",
+    "name_tag": "txt_country_bahrain",
+    "flag_tag": "img_flag_bahrain",
+    "colors": [
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      },
+      {
+        "code": "#db2416",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1"
+    ]
+  },
+  {
+    "id": 59,
+    "continent_id": 2,
+    "key": "BD",
+    "name_tag": "txt_country_bangladesh",
+    "flag_tag": "img_flag_bangladesh",
+    "colors": [
+      {
+        "code": "#006a4d",
+        "is_activated": true
+      },
+      {
+        "code": "#f4263f",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1"
+    ]
+  },
+  {
+    "id": 60,
+    "continent_id": 2,
+    "key": "BT",
+    "name_tag": "txt_country_bhutan",
+    "flag_tag": "img_flag_bhutan",
+    "colors": [
+      {
+        "code": "#ff6719",
+        "is_activated": true
+      },
+      {
+        "code": "#ffce00",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#D1D1D1"
+    ]
+  },
+  {
+    "id": 61,
+    "continent_id": 2,
+    "key": "BN",
+    "name_tag": "txt_country_brunei",
+    "flag_tag": "img_flag_brunei",
+    "colors": [
+      {
+        "code": "#f7e110",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      },
+      {
+        "code": "#000000",
+        "is_activated": true
+      },
+      {
+        "code": "#d00921",
+        "is_activated": true
+      },
+      {
+        "code": "#f7e110",
+        "is_activated": false
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#D1D1D1",
+      "#A1A1A1",
+      "#f7e110"
+    ]
+  },
+  {
+    "id": 62,
+    "continent_id": 2,
+    "key": "KH",
+    "name_tag": "txt_country_cambodia",
+    "flag_tag": "img_flag_cambodia",
+    "colors": [
+      {
+        "code": "#002aa2",
+        "is_activated": true
+      },
+      {
+        "code": "#e10020",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      },
+      {
+        "code": "#000000",
+        "is_activated": false
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#D1D1D1",
+      "#000000"
+    ]
+  },
+  {
+    "id": 63,
+    "continent_id": 2,
+    "key": "CN",
+    "name_tag": "txt_country_china",
+    "flag_tag": "img_flag_china",
+    "colors": [
+      {
+        "code": "#ef1620",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFF00",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1"
+    ]
+  },
+  {
+    "id": 64,
+    "continent_id": 2,
+    "key": "CY",
+    "name_tag": "txt_country_cyprus",
+    "flag_tag": "img_flag_cyprus",
+    "colors": [
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      },
+      {
+        "code": "#4d5b2d",
+        "is_activated": true
+      },
+      {
+        "code": "#d67900",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#D1D1D1"
+    ]
+  },
+  {
+    "id": 65,
+    "continent_id": 2,
+    "key": "TL",
+    "name_tag": "txt_country_east_timor",
+    "flag_tag": "img_flag_east_timor",
+    "colors": [
+      {
+        "code": "#db2416",
+        "is_activated": true
+      },
+      {
+        "code": "#ffc828",
+        "is_activated": true
+      },
+      {
+        "code": "#000000",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#D1D1D1",
+      "#A1A1A1"
+    ]
+  },
+  {
+    "id": 66,
+    "continent_id": 2,
+    "key": "GE",
+    "name_tag": "txt_country_georgia",
+    "flag_tag": "img_flag_georgia",
+    "colors": [
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      },
+      {
+        "code": "#ff0000",
+        "is_activated": true
+      },
+      {
+        "code": "#ff0000",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#C1C1C1"
+    ]
+  },
+  {
+    "id": 67,
+    "continent_id": 2,
+    "key": "IN",
+    "name_tag": "txt_country_india",
+    "flag_tag": "img_flag_india",
+    "colors": [
+      {
+        "code": "#ff671f",
+        "is_activated": true
+      },
+      {
+        "code": "#046a38",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      },
+      {
+        "code": "#06038d",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#D1D1D1",
+      "#A1A1A1"
+    ]
+  },
+  {
+    "id": 68,
+    "continent_id": 2,
+    "key": "ID",
+    "name_tag": "txt_country_indonesia",
+    "flag_tag": "img_flag_indonesia",
+    "colors": [
+      {
+        "code": "#ff0000",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1"
+    ]
+  },
+  {
+    "id": 69,
+    "continent_id": 2,
+    "key": "IR",
+    "name_tag": "txt_country_iran",
+    "flag_tag": "img_flag_iran",
+    "colors": [
+      {
+        "code": "#239f40",
+        "is_activated": true
+      },
+      {
+        "code": "#da0000",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      },
+      {
+        "code": "#da0000",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#D1D1D1",
+      "#D1D1D1",
+      "#C1C1C1"
+    ]
+  },
+  {
+    "id": 70,
+    "continent_id": 2,
+    "key": "IQ",
+    "name_tag": "txt_country_iraq",
+    "flag_tag": "img_flag_iraq",
+    "colors": [
+      {
+        "code": "#cd1125",
+        "is_activated": true
+      },
+      {
+        "code": "#000000",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      },
+      {
+        "code": "#017b3d",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#D1D1D1",
+      "#A1A1A1"
+    ]
+  },
+  {
+    "id": 71,
+    "continent_id": 2,
+    "key": "JP",
+    "name_tag": "txt_country_japan",
+    "flag_tag": "img_flag_japan",
+    "colors": [
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      },
+      {
+        "code": "#bd0029",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1"
+    ]
+  },
+  {
+    "id": 72,
+    "continent_id": 2,
+    "key": "JO",
+    "name_tag": "txt_country_jordan",
+    "flag_tag": "img_flag_jordan",
+    "colors": [
+      {
+        "code": "#000000",
+        "is_activated": true
+      },
+      {
+        "code": "#007a3d",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      },
+      {
+        "code": "#ce1126",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#D1D1D1",
+      "#A1A1A1",
+      "#D1D1D1"
+    ]
+  },
+  {
+    "id": 73,
+    "continent_id": 2,
+    "key": "KZ",
+    "name_tag": "txt_country_kazakhstan",
+    "flag_tag": "img_flag_kazakhstan",
+    "colors": [
+      {
+        "code": "#00abc2",
+        "is_activated": true
+      },
+      {
+        "code": "#ffec2d",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1"
+    ]
+  },
+  {
+    "id": 74,
+    "continent_id": 2,
+    "key": "KW",
+    "name_tag": "txt_country_kuwait",
+    "flag_tag": "img_flag_kuwait",
+    "colors": [
+      {
+        "code": "#007b3a",
+        "is_activated": true
+      },
+      {
+        "code": "#cf0921",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      },
+      {
+        "code": "#000000",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#D1D1D1",
+      "#A1A1A1"
+    ]
+  },
+  {
+    "id": 75,
+    "continent_id": 2,
+    "key": "KG",
+    "name_tag": "txt_country_kyrgyzstan",
+    "flag_tag": "img_flag_kyrgyzstan",
+    "colors": [
+      {
+        "code": "#ff0000",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFF00",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1"
+    ]
+  },
+  {
+    "id": 76,
+    "continent_id": 2,
+    "key": "LA",
+    "name_tag": "txt_country_laos",
+    "flag_tag": "img_flag_laos",
+    "colors": [
+      {
+        "code": "#ce1126",
+        "is_activated": true
+      },
+      {
+        "code": "#002868",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#D1D1D1"
+    ]
+  },
+  {
+    "id": 77,
+    "continent_id": 2,
+    "key": "LB",
+    "name_tag": "txt_country_lebanon",
+    "flag_tag": "img_flag_lebanon",
+    "colors": [
+      {
+        "code": "#ee161f",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      },
+      {
+        "code": "#00a850",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#D1D1D1"
+    ]
+  },
+  {
+    "id": 78,
+    "continent_id": 2,
+    "key": "MY",
+    "name_tag": "txt_country_malaysia",
+    "flag_tag": "img_flag_malaysia",
+    "colors": [
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      },
+      {
+        "code": "#cd0000",
+        "is_activated": true
+      },
+      {
+        "code": "#000066",
+        "is_activated": true
+      },
+      {
+        "code": "#ffcd00",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#D1D1D1",
+      "#A1A1A1"
+    ]
+  },
+  {
+    "id": 79,
+    "continent_id": 2,
+    "key": "MV",
+    "name_tag": "txt_country_maldives",
+    "flag_tag": "img_flag_maldives",
+    "colors": [
+      {
+        "code": "#d30731",
+        "is_activated": true
+      },
+      {
+        "code": "#007f37",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#D1D1D1"
+    ]
+  },
+  {
+    "id": 80,
+    "continent_id": 2,
+    "key": "MN",
+    "name_tag": "txt_country_mongolia",
+    "flag_tag": "img_flag_mongolia",
+    "colors": [
+      {
+        "code": "#db1a2d",
+        "is_activated": true
+      },
+      {
+        "code": "#0066b3",
+        "is_activated": true
+      },
+      {
+        "code": "#db1a2d",
+        "is_activated": true
+      },
+      {
+        "code": "#ffd400",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#D1D1D1",
+      "#A1A1A1"
+    ]
+  },
+  {
+    "id": 81,
+    "continent_id": 2,
+    "key": "MM",
+    "name_tag": "txt_country_myanmar",
+    "flag_tag": "img_flag_myanmar",
+    "colors": [
+      {
+        "code": "#ea2839",
+        "is_activated": true
+      },
+      {
+        "code": "#fecb00",
+        "is_activated": true
+      },
+      {
+        "code": "#34b233",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#D1D1D1",
+      "#A1A1A1"
+    ]
+  },
+  {
+    "id": 82,
+    "continent_id": 2,
+    "key": "NP",
+    "name_tag": "txt_country_nepal",
+    "flag_tag": "img_flag_nepal",
+    "colors": [
+      {
+        "code": "#003893",
+        "is_activated": true
+      },
+      {
+        "code": "#dc143c",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#D1D1D1"
+    ]
+  },
+  {
+    "id": 83,
+    "continent_id": 2,
+    "key": "KP",
+    "name_tag": "txt_country_north_korea",
+    "flag_tag": "img_flag_north_korea",
+    "colors": [
+      {
+        "code": "#004ea3",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      },
+      {
+        "code": "#ee1622",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      },
+      {
+        "code": "#ee1622",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#D1D1D1",
+      "#C1C1C1",
+      "#D1D1D1"
+    ]
+  },
+  {
+    "id": 84,
+    "continent_id": 2,
+    "key": "OM",
+    "name_tag": "txt_country_oman",
+    "flag_tag": "img_flag_oman",
+    "colors": [
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      },
+      {
+        "code": "#007f39",
+        "is_activated": true
+      },
+      {
+        "code": "#e0131e",
+        "is_activated": true
+      },
+      {
+        "code": "#e0131e",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      },
+      {
+        "code": "#e0131e",
+        "is_activated": false
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#D1D1D1",
+      "#D1D1D1",
+      "#E1E1E1",
+      "#D1D1D1"
+    ]
+  },
+  {
+    "id": 85,
+    "continent_id": 2,
+    "key": "PK",
+    "name_tag": "txt_country_pakistan",
+    "flag_tag": "img_flag_pakistan",
+    "colors": [
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      },
+      {
+        "code": "#00401a",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#E1E1E1"
+    ]
+  },
+  {
+    "id": 86,
+    "continent_id": 2,
+    "key": "PS",
+    "name_tag": "txt_country_palestine",
+    "flag_tag": "img_flag_palestine",
+    "colors": [
+      {
+        "code": "#000000",
+        "is_activated": true
+      },
+      {
+        "code": "#009736",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      },
+      {
+        "code": "#ee2a35",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#D1D1D1",
+      "#A1A1A1"
+    ]
+  },
+  {
+    "id": 87,
+    "continent_id": 2,
+    "key": "PH",
+    "name_tag": "txt_country_philippines",
+    "flag_tag": "img_flag_philippines",
+    "colors": [
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      },
+      {
+        "code": "#ce1126",
+        "is_activated": true
+      },
+      {
+        "code": "#0038a8",
+        "is_activated": true
+      },
+      {
+        "code": "#fcd116",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#D1D1D1",
+      "#A1A1A1"
+    ]
+  },
+  {
+    "id": 88,
+    "continent_id": 2,
+    "key": "QA",
+    "name_tag": "txt_country_qatar",
+    "flag_tag": "img_flag_qatar",
+    "colors": [
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      },
+      {
+        "code": "#8a1538",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1"
+    ]
+  },
+  {
+    "id": 89,
+    "continent_id": 2,
+    "key": "SA",
+    "name_tag": "txt_country_saudi_arabia",
+    "flag_tag": "img_flag_saudi_arabia",
+    "colors": [
+      {
+        "code": "#005430",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1"
+    ]
+  },
+  {
+    "id": 90,
+    "continent_id": 2,
+    "key": "SG",
+    "name_tag": "txt_country_singapore",
+    "flag_tag": "img_flag_singapore",
+    "colors": [
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      },
+      {
+        "code": "#ee2536",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#E1E1E1"
+    ]
+  },
+  {
+    "id": 91,
+    "continent_id": 2,
+    "key": "KR",
+    "name_tag": "txt_country_south_korea",
+    "flag_tag": "img_flag_south_korea",
+    "colors": [
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      },
+      {
+        "code": "#cd2e3a",
+        "is_activated": true
+      },
+      {
+        "code": "#0047a0",
+        "is_activated": true
+      },
+      {
+        "code": "#000000",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#D1D1D1",
+      "#A1A1A1"
+    ]
+  },
+  {
+    "id": 92,
+    "continent_id": 2,
+    "key": "LK",
+    "name_tag": "txt_country_sri_lanka",
+    "flag_tag": "img_flag_sri_lanka",
+    "colors": [
+      {
+        "code": "#f7b718",
+        "is_activated": true
+      },
+      {
+        "code": "#941e32",
+        "is_activated": true
+      },
+      {
+        "code": "#005f56",
+        "is_activated": true
+      },
+      {
+        "code": "#df7500",
+        "is_activated": true
+      },
+      {
+        "code": "#f7b718",
+        "is_activated": true
+      },
+      {
+        "code": "#000000",
+        "is_activated": false
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#D1D1D1",
+      "#A1A1A1",
+      "#B1B1B1",
+      "#000000"
+    ]
+  },
+  {
+    "id": 93,
+    "continent_id": 2,
+    "key": "SY",
+    "name_tag": "txt_country_syria",
+    "flag_tag": "img_flag_syria",
+    "colors": [
+      {
+        "code": "#ce1126",
+        "is_activated": true
+      },
+      {
+        "code": "#000000",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      },
+      {
+        "code": "#007a3d",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#D1D1D1",
+      "#A1A1A1"
+    ]
+  },
+  {
+    "id": 94,
+    "continent_id": 2,
+    "key": "TW",
+    "name_tag": "txt_country_taiwan",
+    "flag_tag": "img_flag_taiwan",
+    "colors": [
+      {
+        "code": "#f20000",
+        "is_activated": true
+      },
+      {
+        "code": "#0029cc",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#D1D1D1"
+    ]
+  },
+  {
+    "id": 95,
+    "continent_id": 2,
+    "key": "TJ",
+    "name_tag": "txt_country_tajikistan",
+    "flag_tag": "img_flag_tajikistan",
+    "colors": [
+      {
+        "code": "#006600",
+        "is_activated": true
+      },
+      {
+        "code": "#cd0000",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      },
+      {
+        "code": "#f8c400",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#D1D1D1",
+      "#A1A1A1"
+    ]
+  },
+  {
+    "id": 96,
+    "continent_id": 2,
+    "key": "TH",
+    "name_tag": "txt_country_thailand",
+    "flag_tag": "img_flag_thailand",
+    "colors": [
+      {
+        "code": "#f4f5f8",
+        "is_activated": true
+      },
+      {
+        "code": "#a51931",
+        "is_activated": true
+      },
+      {
+        "code": "#2d2a4a",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#D1D1D1"
+    ]
+  },
+  {
+    "id": 97,
+    "continent_id": 2,
+    "key": "TR",
+    "name_tag": "txt_country_turkey",
+    "flag_tag": "img_flag_turkey",
+    "colors": [
+      {
+        "code": "#e30a17",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1"
+    ]
+  },
+  {
+    "id": 98,
+    "continent_id": 2,
+    "key": "TM",
+    "name_tag": "txt_country_turkmenistan",
+    "flag_tag": "img_flag_turkmenistan",
+    "colors": [
+      {
+        "code": "#00853a",
+        "is_activated": true
+      },
+      {
+        "code": "#d22630",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      },
+      {
+        "code": "#00853a",
+        "is_activated": false
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": false
+      },
+      {
+        "code": "#ffc72c",
+        "is_activated": false
+      },
+      {
+        "code": "#d22630",
+        "is_activated": false
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#D1D1D1",
+      "#E1E1E1",
+      "#D1D1D1",
+      "#A1A1A1",
+      "#C1C1C1"
+    ]
+  },
+  {
+    "id": 99,
+    "continent_id": 2,
+    "key": "AE",
+    "name_tag": "txt_country_united_arab_emirates",
+    "flag_tag": "img_flag_united_arab_emirates",
+    "colors": [
+      {
+        "code": "#00843d",
+        "is_activated": true
+      },
+      {
+        "code": "#000000",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      },
+      {
+        "code": "#ff0000",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#D1D1D1",
+      "#A1A1A1"
+    ]
+  },
+  {
+    "id": 100,
+    "continent_id": 2,
+    "key": "UZ",
+    "name_tag": "txt_country_uzbekistan",
+    "flag_tag": "img_flag_uzbekistan",
+    "colors": [
+      {
+        "code": "#009ab6",
+        "is_activated": true
+      },
+      {
+        "code": "#18b637",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      },
+      {
+        "code": "#c71121",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#D1D1D1",
+      "#A1A1A1",
+      "#D1D1D1"
+    ]
+  },
+  {
+    "id": 101,
+    "continent_id": 2,
+    "key": "VN",
+    "name_tag": "txt_country_vietnam",
+    "flag_tag": "img_flag_vietnam",
+    "colors": [
+      {
+        "code": "#da251d",
+        "is_activated": true
+      },
+      {
+        "code": "#da251d",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1"
+    ]
+  },
+  {
+    "id": 102,
+    "continent_id": 2,
+    "key": "YE",
+    "name_tag": "txt_country_yemen",
+    "flag_tag": "img_flag_yemen",
+    "colors": [
+      {
+        "code": "#000000",
+        "is_activated": true
+      },
+      {
+        "code": "#ce1126",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#D1D1D1"
+    ]
+  }
 ]
