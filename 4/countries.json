@@ -575,6 +575,10 @@
         "is_activated": false
       },
       {
+        "code": "#f4e08f",
+        "is_activated": false
+      },
+      {
         "code": "#ecd077",
         "is_activated": false
       },
@@ -600,6 +604,7 @@
       "#f0b016",
       "#6c2c18",
       "#669239",
+      "#f4e08f",
       "#ecd077",
       "#ecd077",
       "#fcf0a8",
