@@ -102,7 +102,7 @@
       "capital_tag" : "txt_capital_benin",
       "population_tag" : "12,996,895 <i>(2021)</i>",
       "area_tag" : "112,622 km2 (43,484 sq mi)",
-      "currency_tag" : "txt_currency_benin"
+      "currency_tag" : "txt_currency_cfa_franc"
     }
   },
   {
@@ -166,7 +166,7 @@
       "capital_tag" : "txt_capital_burkina_faso",
       "population_tag" : "22,100,683 <i>(2021)</i>",
       "area_tag" : "274,000 km2 (105,792 sq mi)",
-      "currency_tag" : "txt_currency_burkina_faso"
+      "currency_tag" : "txt_currency_cfa_franc"
     }
   },
   {
@@ -246,7 +246,7 @@
       "capital_tag" : "txt_capital_cameroon",
       "population_tag" : "27,198,628 <i>(2021)</i>",
       "area_tag" : "475,442 km2 (183,569 sq mi)",
-      "currency_tag" : "txt_currency_cameroon"
+      "currency_tag" : "txt_currency_cfa_franc"
     }
   },
   {
@@ -330,7 +330,7 @@
       "capital_tag" : "txt_capital_central_african_republic",
       "population_tag" : "5,457,154 <i>(2021)</i>",
       "area_tag" : "622,984 km2 (240,535 sq mi)",
-      "currency_tag" : "txt_currency_central_african_republic"
+      "currency_tag" : "txt_currency_cfa_franc"
     }
   },
   {
@@ -362,7 +362,7 @@
       "capital_tag" : "txt_capital_chad",
       "population_tag" : "17,179,740 <i>(2021)</i>",
       "area_tag" : "1,284,000 km2 (495,755 sq mi)",
-      "currency_tag" : "txt_currency_chad"
+      "currency_tag" : "txt_currency_cfa_franc"
     }
   },
   {
@@ -446,7 +446,7 @@
       "capital_tag" : "txt_capital_congo",
       "population_tag" : "5,835,806 <i>(2021)</i>",
       "area_tag" : "342,000 km2 (132,047 sq mi)",
-      "currency_tag" : "txt_currency_congo"
+      "currency_tag" : "txt_currency_cfa_franc"
     }
   },
   {
@@ -615,7 +615,7 @@
       "capital_tag" : "txt_capital_equatorial_guinea",
       "population_tag" : "1,634,466 <i>(2021)</i>",
       "area_tag" : "28,051 km2 (10,831 sq mi)",
-      "currency_tag" : "txt_currency_equatorial_guinea"
+      "currency_tag" : "txt_currency_cfa_franc"
     }
   },
   {
@@ -848,7 +848,7 @@
       "capital_tag" : "txt_capital_gabon",
       "population_tag" : "2,341,179 <i>(2021)</i>",
       "area_tag" : "267,668 km2 (103,347 sq mi)",
-      "currency_tag" : "txt_currency_gabon"
+      "currency_tag" : "txt_currency_cfa_franc"
     }
   },
   {
@@ -991,7 +991,7 @@
       "capital_tag" : "txt_capital_guinea_bissau",
       "population_tag" : "2,060,721 <i>(2021)</i>",
       "area_tag" : "36,125 km2 (13,948 sq mi)",
-      "currency_tag" : "txt_currency_guinea_bissau"
+      "currency_tag" : "txt_currency_cfa_franc"
     }
   },
   {
@@ -1023,7 +1023,7 @@
       "capital_tag" : "txt_capital_cote_de_ivor",
       "population_tag" : "27,478,249 <i>(2021)</i>",
       "area_tag" : "322,460 km2 (124,503 sq mi)",
-      "currency_tag" : "txt_currency_cote_de_ivor"
+      "currency_tag" : "txt_currency_cfa_franc"
     }
   },
   {
@@ -1302,7 +1302,7 @@
       "capital_tag" : "txt_capital_mali",
       "population_tag" : "21,904,983 <i>(2021)</i>",
       "area_tag" : "1,240,192 km2 (478,841 sq mi)",
-      "currency_tag" : "txt_currency_mali"
+      "currency_tag" : "txt_currency_cfa_franc"
     }
   },
   {
@@ -1549,7 +1549,7 @@
       "capital_tag" : "txt_capital_niger",
       "population_tag" : "25,252,722 <i>(2021)</i>",
       "area_tag" : "1,267,000 km2 (489,191 sq mi)",
-      "currency_tag" : "txt_currency_niger"
+      "currency_tag" : "txt_currency_cfa_franc"
     }
   },
   {
@@ -1697,7 +1697,7 @@
       "capital_tag" : "txt_capital_senegal",
       "population_tag" : "16,876,720 <i>(2021)</i>",
       "area_tag" : "196,723 km2 (75,955 sq mi)",
-      "currency_tag" : "txt_currency_senegal"
+      "currency_tag" : "txt_currency_cfa_franc"
     }
   },
   {
@@ -2018,7 +2018,7 @@
       "capital_tag" : "txt_capital_togo",
       "population_tag" : "8,644,829 <i>(2021)</i>",
       "area_tag" : "56,785 km2 (21,925 sq mi)",
-      "currency_tag" : "txt_currency_togo"
+      "currency_tag" : "txt_currency_cfa_franc"
     }
   },
   {
