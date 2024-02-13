@@ -28,7 +28,13 @@
       "#C1C1C1",
       "#D1D1D1",
       "#D1D1D1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_algeria",
+      "population_tag" : "44,177,969 <i>(2021)</i>",
+      "area_tag" : "2,381,740 km2 (919,595 sq mi)",
+      "currency_tag" : "txt_currency_algeria"
+    }
   },
   {
     "id": 2,
@@ -59,7 +65,13 @@
       "#C1C1C1",
       "#B1B1B1",
       "#B1B1B1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_angola",
+      "population_tag" : "34,503,774 <i>(2021)</i>",
+      "area_tag" : "1,246,700 km2 (481,354 sq mi)",
+      "currency_tag" : "txt_currency_angola"
+    }
   },
   {
     "id": 3,
@@ -85,7 +97,13 @@
       "#D1D1D1",
       "#E1E1E1",
       "#C1C1C1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_benin",
+      "population_tag" : "12,996,895 <i>(2021)</i>",
+      "area_tag" : "112,622 km2 (43,484 sq mi)",
+      "currency_tag" : "txt_currency_benin"
+    }
   },
   {
     "id": 4,
@@ -111,7 +129,13 @@
       "#D1D1D1",
       "#E1E1E1",
       "#C1C1C1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_botswana",
+      "population_tag" : "2,588,423 <i>(2021)</i>",
+      "area_tag" : "581,726 km2 (224,606 sq mi)",
+      "currency_tag" : "txt_currency_botswana"
+    }
   },
   {
     "id": 5,
@@ -137,7 +161,13 @@
       "#D1D1D1",
       "#E1E1E1",
       "#C1C1C1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_burkina_faso",
+      "population_tag" : "22,100,683 <i>(2021)</i>",
+      "area_tag" : "274,000 km2 (105,792 sq mi)",
+      "currency_tag" : "txt_currency_burkina_faso"
+    }
   },
   {
     "id": 6,
@@ -173,7 +203,14 @@
       "#FFFFFF",
       "#F1F1F1",
       "#41B225"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_burundi",
+      "population_tag" : "12,551,213 <i>(2021)</i>",
+      "area_tag" : "27,830 km2 (10,745 sq mi)",
+      "currency_tag" : "txt_currency_burundi",
+      "languages_tag" : "txt_languages_burundi"
+    }
   },
   {
     "id": 7,
@@ -204,7 +241,13 @@
       "#E1E1E1",
       "#B1B1B1",
       "#C1C1C1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_cameroon",
+      "population_tag" : "27,198,628 <i>(2021)</i>",
+      "area_tag" : "475,442 km2 (183,569 sq mi)",
+      "currency_tag" : "txt_currency_cameroon"
+    }
   },
   {
     "id": 8,
@@ -235,7 +278,13 @@
       "#C1C1C1",
       "#E1E1E1",
       "#A1A1A1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_cape_verde",
+      "population_tag" : "txt_population_cape_verde",
+      "area_tag" : "4,033 km2 (1,557 sq mi)",
+      "currency_tag" : "587,925 <i>(2021)</i>"
+    }
   },
   {
     "id": 9,
@@ -276,7 +325,13 @@
       "#C1C1C1",
       "#B1B1B1",
       "#F1F1F1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_central_african_republic",
+      "population_tag" : "5,457,154 <i>(2021)</i>",
+      "area_tag" : "622,984 km2 (240,535 sq mi)",
+      "currency_tag" : "txt_currency_central_african_republic"
+    }
   },
   {
     "id": 10,
@@ -302,7 +357,13 @@
       "#E1E1E1",
       "#F5F5F5",
       "#E1E1E1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_chad",
+      "population_tag" : "17,179,740 <i>(2021)</i>",
+      "area_tag" : "1,284,000 km2 (495,755 sq mi)",
+      "currency_tag" : "txt_currency_chad"
+    }
   },
   {
     "id": 11,
@@ -348,7 +409,13 @@
       "#A1A1A1",
       "#C1C1C1",
       "#C1C1C1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_comoros",
+      "population_tag" : "821,625 <i>(2021)</i>",
+      "area_tag" : "2,235 km2 (863 sq mi)",
+      "currency_tag" : "txt_currency_comoros"
+    }
   },
   {
     "id": 12,
@@ -374,7 +441,13 @@
       "#D1D1D1",
       "#C1C1C1",
       "#B1B1B1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_congo",
+      "population_tag" : "5,835,806 <i>(2021)</i>",
+      "area_tag" : "342,000 km2 (132,047 sq mi)",
+      "currency_tag" : "txt_currency_congo"
+    }
   },
   {
     "id": 13,
@@ -405,7 +478,13 @@
       "#C1C1C1",
       "#E1E1E1",
       "#B1B1B1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_democratic_congo",
+      "population_tag" : "95,894,118 <i>(2021)</i>",
+      "area_tag" : "2,344,858 km2 (905,355 sq mi)",
+      "currency_tag" : "txt_currency_democratic_congo"
+    }
   },
   {
     "id": 14,
@@ -436,7 +515,13 @@
       "#C1C1C1",
       "#E1E1E1",
       "#B1B1B1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_djibouti",
+      "population_tag" : "1,105,557 <i>(2021)</i>",
+      "area_tag" : "23,200 km2 (8,958 sq mi)",
+      "currency_tag" : "txt_currency_djibouti"
+    }
   },
   {
     "id": 15,
@@ -467,7 +552,14 @@
       "#C1C1C1",
       "#B1B1B1",
       "#E1E1E1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_egypt",
+      "population_tag" : "109,262,178 <i>(2021)</i>",
+      "area_tag" : "1,001,449 km2 (386,662 sq mi)",
+      "currency_tag" : "txt_currency_egypt",
+      "languages_tag" : "txt_languages_egypt"
+    }
   },
   {
     "id": 16,
@@ -518,7 +610,13 @@
       "#73AF00",
       "#464655",
       "#FFE15A"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_equatorial_guinea",
+      "population_tag" : "1,634,466 <i>(2021)</i>",
+      "area_tag" : "28,051 km2 (10,831 sq mi)",
+      "currency_tag" : "txt_currency_equatorial_guinea"
+    }
   },
   {
     "id": 17,
@@ -549,7 +647,13 @@
       "#B1B1B1",
       "#E1E1E1",
       "#A1A1A1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_eritrea",
+      "population_tag" : "3,620,312 <i>(2021)</i>",
+      "area_tag" : "117,600 km2 (45,406 sq mi)",
+      "currency_tag" : "txt_currency_eritrea"
+    }
   },
   {
     "id": 18,
@@ -660,7 +764,13 @@
       "#b3b3b3",
       "#000000",
       "#000000"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_eswatini",
+      "population_tag" : "1,192,271 <i>(2021)</i>",
+      "area_tag" : "17,364 km2 (6,704 sq mi)",
+      "currency_tag" : "txt_currency_eswatini"
+    }
   },
   {
     "id": 19,
@@ -701,7 +811,13 @@
       "#E1E1E1",
       "#C1C1C1",
       "#C1C1C1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_ethiopia",
+      "population_tag" : "120,283,026 <i>(2021)</i>",
+      "area_tag" : "1,104,300 km2 (426,373 sq mi)",
+      "currency_tag" : "txt_currency_ethiopia"
+    }
   },
   {
     "id": 20,
@@ -727,7 +843,13 @@
       "#D1D1D1",
       "#C1C1C1",
       "#B1B1B1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_gabon",
+      "population_tag" : "2,341,179 <i>(2021)</i>",
+      "area_tag" : "267,668 km2 (103,347 sq mi)",
+      "currency_tag" : "txt_currency_gabon"
+    }
   },
   {
     "id": 21,
@@ -758,7 +880,13 @@
       "#C1C1C1",
       "#B1B1B1",
       "#A1A1A1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_gambia",
+      "population_tag" : "2,639,916 <i>(2021)</i>",
+      "area_tag" : "10,380 km2 (4,008 sq mi)",
+      "currency_tag" : "txt_currency_gambia"
+    }
   },
   {
     "id": 22,
@@ -789,7 +917,13 @@
       "#C1C1C1",
       "#B1B1B1",
       "#E1E1E1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_ghana",
+      "population_tag" : "32,833,031 <i>(2021)</i>",
+      "area_tag" : "238,534 km2 (92,098 sq mi)",
+      "currency_tag" : "txt_currency_ghana"
+    }
   },
   {
     "id": 23,
@@ -815,7 +949,13 @@
       "#D1D1D1",
       "#C1C1C1",
       "#B1B1B1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_guinea",
+      "population_tag" : "13,531,906 <i>(2021)</i>",
+      "area_tag" : "245,857 km2 (94,926 sq mi)",
+      "currency_tag" : "txt_currency_guinea"
+    }
   },
   {
     "id": 24,
@@ -846,7 +986,13 @@
       "#C1C1C1",
       "#B1B1B1",
       "#E1E1E1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_guinea_bissau",
+      "population_tag" : "2,060,721 <i>(2021)</i>",
+      "area_tag" : "36,125 km2 (13,948 sq mi)",
+      "currency_tag" : "txt_currency_guinea_bissau"
+    }
   },
   {
     "id": 25,
@@ -872,7 +1018,13 @@
       "#D1D1D1",
       "#B1B1B1",
       "#C1C1C1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_cote_de_ivor",
+      "population_tag" : "27,478,249 <i>(2021)</i>",
+      "area_tag" : "322,460 km2 (124,503 sq mi)",
+      "currency_tag" : "txt_currency_cote_de_ivor"
+    }
   },
   {
     "id": 26,
@@ -933,7 +1085,13 @@
       "#000000",
       "#FFFFFF",
       "#FFFFFF"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_kenya",
+      "population_tag" : "53,005,614 <i>(2021)</i>",
+      "area_tag" : "580,367 km2 (224,081 sq mi)",
+      "currency_tag" : "txt_currency_kenya"
+    }
   },
   {
     "id": 27,
@@ -964,7 +1122,13 @@
       "#E1E1E1",
       "#A1A1A1",
       "#EAEAEA"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_lesotho",
+      "population_tag" : "2,281,454 <i>(2021)</i>",
+      "area_tag" : "30,355 km2 (11,720 sq mi)",
+      "currency_tag" : "txt_currency_lesotho"
+    }
   },
   {
     "id": 28,
@@ -995,7 +1159,13 @@
       "#E1E1E1",
       "#A1A1A1",
       "#E1E1E1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_liberia",
+      "population_tag" : "5,193,416 <i>(2021)</i>",
+      "area_tag" : "111,369 km2 (43,000 sq mi)",
+      "currency_tag" : "txt_currency_liberia"
+    }
   },
   {
     "id": 29,
@@ -1031,7 +1201,13 @@
       "#A1A1A1",
       "#E1E1E1",
       "#E1E1E1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_libya",
+      "population_tag" : "6,735,277 <i>(2021)</i>",
+      "area_tag" : "1,759,540 km2 (679,362 sq mi)",
+      "currency_tag" : "txt_currency_libya"
+    }
   },
   {
     "id": 30,
@@ -1057,7 +1233,13 @@
       "#D1D1D1",
       "#C1C1C1",
       "#A1A1A1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_madagascar",
+      "population_tag" : "28,915,653 <i>(2021)</i>",
+      "area_tag" : "587,041 km2 (226,658 sq mi)",
+      "currency_tag" : "txt_currency_madagascar"
+    }
   },
   {
     "id": 31,
@@ -1083,7 +1265,13 @@
       "#D1D1D1",
       "#C1C1C1",
       "#A1A1A1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_malawi",
+      "population_tag" : "19,889,742 <i>(2021)</i>",
+      "area_tag" : "118,484 km2 (45,747 sq mi)",
+      "currency_tag" : "txt_currency_malawi"
+    }
   },
   {
     "id": 32,
@@ -1109,7 +1297,13 @@
       "#D1D1D1",
       "#C1C1C1",
       "#A1A1A1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_mali",
+      "population_tag" : "21,904,983 <i>(2021)</i>",
+      "area_tag" : "1,240,192 km2 (478,841 sq mi)",
+      "currency_tag" : "txt_currency_mali"
+    }
   },
   {
     "id": 33,
@@ -1145,7 +1339,13 @@
       "#C1C1C1",
       "#A1A1A1",
       "#A1A1A1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_mauritania",
+      "population_tag" : "4,614,974 <i>(2021)</i>",
+      "area_tag" : "1,030,700 km2 (397,955 sq mi)",
+      "currency_tag" : "txt_currency_mauritania"
+    }
   },
   {
     "id": 34,
@@ -1176,7 +1376,13 @@
       "#C1C1C1",
       "#A1A1A1",
       "#EAEAEA"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_mauritius",
+      "population_tag" : "1,298,915 <i>(2021)</i>",
+      "area_tag" : "2,040 km2 (788 sq mi)",
+      "currency_tag" : "txt_currency_mauritius"
+    }
   },
   {
     "id": 35,
@@ -1197,7 +1403,13 @@
     "defaults": [
       "#D1D1D1",
       "#A1A1A1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_morocco",
+      "population_tag" : "37,076,584 <i>(2021)</i>",
+      "area_tag" : "710,850 km2 (274,461 sq mi)",
+      "currency_tag" : "txt_currency_morocco"
+    }
   },
   {
     "id": 36,
@@ -1253,7 +1465,13 @@
       "#FFFFFF",
       "#FFFFFF",
       "#000000"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_mozambique",
+      "population_tag" : "32,077,072 <i>(2021)</i>",
+      "area_tag" : "801,590 km2 (309,496 sq mi)",
+      "currency_tag" : "txt_currency_mozambique"
+    }
   },
   {
     "id": 37,
@@ -1289,7 +1507,13 @@
       "#B1B1B1",
       "#EAEAEA",
       "#A1A1A1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_namibia",
+      "population_tag" : "2,530,151 <i>(2021)</i>",
+      "area_tag" : "825,418 km2 (318,696 sq mi)",
+      "currency_tag" : "txt_currency_namibia"
+    }
   },
   {
     "id": 38,
@@ -1320,7 +1544,13 @@
       "#C1C1C1",
       "#A1A1A1",
       "#EAEAEA"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_niger",
+      "population_tag" : "25,252,722 <i>(2021)</i>",
+      "area_tag" : "1,267,000 km2 (489,191 sq mi)",
+      "currency_tag" : "txt_currency_niger"
+    }
   },
   {
     "id": 39,
@@ -1346,7 +1576,13 @@
       "#D1D1D1",
       "#C1C1C1",
       "#A1A1A1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_nigeria",
+      "population_tag" : "213,401,323 <i>(2021)</i>",
+      "area_tag" : "923,768 km2 (356,669 sq mi)",
+      "currency_tag" : "txt_currency_nigeria"
+    }
   },
   {
     "id": 40,
@@ -1377,7 +1613,13 @@
       "#C1C1C1",
       "#A1A1A1",
       "#EAEAEA"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_rwanda",
+      "population_tag" : "13,461,888 <i>(2021)</i>",
+      "area_tag" : "26,798 km2 (10,347 sq mi)",
+      "currency_tag" : "txt_currency_rwanda"
+    }
   },
   {
     "id": 41,
@@ -1413,7 +1655,13 @@
       "#A1A1A1",
       "#EAEAEA",
       "#B1B1B1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_sao_tome_and_principe",
+      "population_tag" : "223,107 <i>(2021)</i>",
+      "area_tag" : "964 km2 (372 sq mi)",
+      "currency_tag" : "txt_currency_sao_tome_and_principe"
+    }
   },
   {
     "id": 42,
@@ -1444,7 +1692,13 @@
       "#C1C1C1",
       "#A1A1A1",
       "#EAEAEA"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_senegal",
+      "population_tag" : "16,876,720 <i>(2021)</i>",
+      "area_tag" : "196,723 km2 (75,955 sq mi)",
+      "currency_tag" : "txt_currency_senegal"
+    }
   },
   {
     "id": 43,
@@ -1480,7 +1734,13 @@
       "#A1A1A1",
       "#EAEAEA",
       "#B1B1B1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_seychelles",
+      "population_tag" : "106,471 <i>(2021)</i>",
+      "area_tag" : "451 km2 (174 sq mi)",
+      "currency_tag" : "txt_currency_seychelles"
+    }
   },
   {
     "id": 44,
@@ -1506,7 +1766,13 @@
       "#D1D1D1",
       "#C1C1C1",
       "#A1A1A1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_sierra_leone",
+      "population_tag" : "8,420,641 <i>(2021)</i>",
+      "area_tag" : "71,740 km2 (27,699 sq mi)",
+      "currency_tag" : "txt_currency_sierra_leone"
+    }
   },
   {
     "id": 45,
@@ -1527,7 +1793,13 @@
     "defaults": [
       "#D1D1D1",
       "#C1C1C1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_somalia",
+      "population_tag" : "17,065,581 <i>(2021)</i>",
+      "area_tag" : "637,657 km2 (246,201 sq mi)",
+      "currency_tag" : "txt_currency_somalia"
+    }
   },
   {
     "id": 46,
@@ -1573,7 +1845,13 @@
       "#B1B1B1",
       "#BABABA",
       "#B1B1B1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_south_africa",
+      "population_tag" : "59,392,255 <i>(2021)</i>",
+      "area_tag" : "1,221,037 km2 (471,445 sq mi)",
+      "currency_tag" : "txt_currency_south_africa"
+    }
   },
   {
     "id": 47,
@@ -1614,7 +1892,13 @@
       "#EAEAEA",
       "#BABABA",
       "#E1E1E1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_south_sudan",
+      "population_tag" : "10,748,272 <i>(2021)</i>",
+      "area_tag" : "644,329 km2 (248,777 sq mi)",
+      "currency_tag" : "txt_currency_south_sudan"
+    }
   },
   {
     "id": 48,
@@ -1645,7 +1929,13 @@
       "#C1C1C1",
       "#A1A1A1",
       "#EAEAEA"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_sudan",
+      "population_tag" : "45,657,202 <i>(2021)</i>",
+      "area_tag" : "1,861,484 km2 (718,723 sq mi)",
+      "currency_tag" : "txt_currency_sudan"
+    }
   },
   {
     "id": 49,
@@ -1676,7 +1966,13 @@
       "#C1C1C1",
       "#A1A1A1",
       "#EAEAEA"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_tanzania",
+      "population_tag" : "63,588,334 <i>(2021)</i>",
+      "area_tag" : "945,203 km2 (364,945 sq mi)",
+      "currency_tag" : "txt_currency_tanzania"
+    }
   },
   {
     "id": 50,
@@ -1717,7 +2013,13 @@
       "#C1C1C1",
       "#A1A1A1",
       "#E1E1E1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_togo",
+      "population_tag" : "8,644,829 <i>(2021)</i>",
+      "area_tag" : "56,785 km2 (21,925 sq mi)",
+      "currency_tag" : "txt_currency_togo"
+    }
   },
   {
     "id": 51,
@@ -1748,7 +2050,13 @@
       "#A1A1A1",
       "#D1D1D1",
       "#D1D1D1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_tunisia",
+      "population_tag" : "12,262,946 <i>(2021)</i>",
+      "area_tag" : "163,610 km2 (63,170 sq mi)",
+      "currency_tag" : "txt_currency_tunisia"
+    }
   },
   {
     "id": 52,
@@ -1819,7 +2127,13 @@
       "#da0000",
       "#FFFFFF",
       "#da0000"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_uganda",
+      "population_tag" : "45,853,778 <i>(2021)</i>",
+      "area_tag" : "236,040 km2 (91,136 sq mi)",
+      "currency_tag" : "txt_currency_uganda"
+    }
   },
   {
     "id": 53,
@@ -1860,7 +2174,13 @@
       "#EAEAEA",
       "#EAEAEA",
       "#000000"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_zambia",
+      "population_tag" : "19,473,125 <i>(2021)</i>",
+      "area_tag" : "752,614 km2 (290,586 sq mi)",
+      "currency_tag" : "txt_currency_zambia"
+    }
   },
   {
     "id": 54,
@@ -1911,6 +2231,12 @@
       "#A1A1A1",
       "#CDCDCD",
       "#000000"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_zimbabwe",
+      "population_tag" : "15,993,524 <i>(2021)</i>",
+      "area_tag" : "390,757 km2 (150,872 sq mi)",
+      "currency_tag" : "txt_currency_zimbabwe"
+    }
   }
 ]
