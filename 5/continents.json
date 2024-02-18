@@ -1,0 +1,552 @@
+[
+  {
+    "id": 1,
+    "continent_id": 5,
+    "key": "AR",
+    "name_tag": "txt_country_argentina",
+    "flag_tag": "img_flag_argentina",
+    "colors": [
+      {
+        "code": "#74acdf",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      },
+      {
+        "code": "#85340a",
+        "is_activated": false
+      },
+      {
+        "code": "#ffe15a",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#85340a",
+      "#D1D1D1"
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_argentina",
+      "population_tag" : "44,012,000 (2021)",
+      "area_tag" : "2,780,000 km²",
+      "currency_tag" : "txt_currency_argentina"
+    }
+  },
+  {
+    "id": 2,
+    "continent_id": 5,
+    "key": "BO",
+    "name_tag": "txt_country_bolivia",
+    "flag_tag": "img_flag_bolivia",
+    "colors": [
+      {
+        "code": "#007934",
+        "is_activated": true
+      },
+      {
+        "code": "#d52b1e",
+        "is_activated": true
+      },
+      {
+        "code": "#f9e300",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#D1D1D1",
+      "#C1C1C1",
+      "#B1B1B1"
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_bolivia",
+      "population_tag" : "11,748,292 (2021)",
+      "area_tag" : "1,088,000 km²",
+      "currency_tag" : "txt_currency_bolivia"
+    }
+  },
+  {
+    "id": 3,
+    "continent_id": 5,
+    "key": "BR",
+    "name_tag": "txt_country_brazil",
+    "flag_tag": "img_flag_brazil",
+    "colors": [
+      {
+        "code": "#009c37",
+        "is_activated": true
+      },
+      {
+        "code": "#fee000",
+        "is_activated": true
+      },
+      {
+        "code": "#002277",
+        "is_activated": true
+      },
+      {
+        "code": "#0c9c35",
+        "is_activated": false
+      }
+    ],
+    "defaults": [
+      "#D1D1D1",
+      "#E1E1E1",
+      "#C1C1C1",
+      "#0c9c35"
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_brazil",
+      "population_tag" : "206,376,100",
+      "area_tag" : "8,515,370 km²",
+      "currency_tag" : "txt_currency_brazil"
+    }
+  },
+  {
+    "id": 4,
+    "continent_id": 5,
+    "key": "CL",
+    "name_tag": "txt_country_chile",
+    "flag_tag": "img_flag_chile",
+    "colors": [
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      },
+      {
+        "code": "#db2314",
+        "is_activated": true
+      },
+      {
+        "code": "#0030a1",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#D1D1D1",
+      "#E1E1E1",
+      "#C1C1C1",
+      "#D1D1D1"
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_chile",
+      "population_tag" : "17,858,000 (2021)",
+      "area_tag" : "756,000 km²",
+      "currency_tag" : "txt_currency_chile"
+    }
+  },
+  {
+    "id": 5,
+    "continent_id": 5,
+    "key": "CO",
+    "name_tag": "txt_country_colombia",
+    "flag_tag": "img_flag_colombia",
+    "colors": [
+      {
+        "code": "#c8102e",
+        "is_activated": true
+      },
+      {
+        "code": "#ffcd00",
+        "is_activated": true
+      },
+      {
+        "code": "#003087",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#D1D1D1",
+      "#E1E1E1",
+      "#C1C1C1"
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_burkina_faso",
+      "population_tag" : "22,100,683 (2021)",
+      "area_tag" : "274,000 km2 (105,792 sq mi)",
+      "currency_tag" : "txt_currency_burkina_faso"
+    }
+  },
+  {
+    "id": 6,
+    "continent_id": 5,
+    "key": "EC",
+    "name_tag": "txt_country_ecuador",
+    "flag_tag": "img_flag_ecuador",
+    "colors": [
+      {
+        "code": "#ee161f",
+        "is_activated": true
+      },
+      {
+        "code": "#ffde00",
+        "is_activated": true
+      },
+      {
+        "code": "#004da3",
+        "is_activated": true
+      },
+      {
+        "code": "#ee161f",
+        "is_activated": false
+      },
+      {
+        "code": "#004da3",
+        "is_activated": false
+      },
+      {
+        "code": "#432820",
+        "is_activated": false
+      },
+      {
+        "code": "#e6e1cd",
+        "is_activated": false
+      },
+      {
+        "code": "#ffd0af",
+        "is_activated": false
+      },
+      {
+        "code": "#ffaf94",
+        "is_activated": false
+      },
+      {
+        "code": "#ffde00",
+        "is_activated": false
+      },
+      {
+        "code": "#004da3",
+        "is_activated": false
+      },
+      {
+        "code": "#ee161f",
+        "is_activated": false
+      },
+      {
+        "code": "#69c3ff",
+        "is_activated": false
+      },
+      {
+        "code": "#004da3",
+        "is_activated": false
+      },
+      {
+        "code": "#00964a",
+        "is_activated": false
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": false
+      },
+      {
+        "code": "#5aa0e6",
+        "is_activated": false
+      },
+      {
+        "code": "#966446",
+        "is_activated": false
+      },
+      {
+        "code": "#b9b9b9",
+        "is_activated": false
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#A1A1A1",
+      "#D1D1D1",
+      "#ee161f",
+      "#004da3",
+      "#432820",
+      "#e6e1cd",
+      "#ffd0af",
+      "#ffaf94",
+      "#ffde00",
+      "#004da3",
+      "#ee161f",
+      "#69c3ff",
+      "#004da3",
+      "#00964a",
+      "#FFFFFF",
+      "#5aa0e6",
+      "#966446",
+      "#b9b9b9"
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_ecuador",
+      "population_tag" : "16,476,000 (2021)",
+      "area_tag" : "276,000 km²",
+      "currency_tag" : "txt_currency_ecuador"
+    }
+  },
+  {
+    "id": 7,
+    "continent_id": 5,
+    "key": "GY",
+    "name_tag": "txt_country_guyana",
+    "flag_tag": "img_flag_guyana",
+    "colors": [
+      {
+        "code": "#00AA44",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      },
+      {
+        "code": "#ffc306",
+        "is_activated": true
+      },
+      {
+        "code": "#000000",
+        "is_activated": true
+      },
+      {
+        "code": "#bf1829",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#D1D1D1",
+      "#E1E1E1",
+      "#B1B1B1",
+      "#C1C1C1",
+      "#A1A1A1"
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_guyana",
+      "population_tag" : "747,000 (2021)",
+      "area_tag" : "214,970 km²",
+      "currency_tag" : "txt_currency_guyana"
+    }
+  },
+  {
+    "id": 8,
+    "continent_id": 5,
+    "key": "PY",
+    "name_tag": "txt_country_paraguay",
+    "flag_tag": "img_flag_paraguay",
+    "colors": [
+      {
+        "code": "#d52b1e",
+        "is_activated": true
+      },
+      {
+        "code": "#0038a8",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      },
+      {
+        "code": "#d52b1e",
+        "is_activated": false
+      },
+      {
+        "code": "#0038a8",
+        "is_activated": false
+      },
+      {
+        "code": "#fee000",
+        "is_activated": false
+      },
+      {
+        "code": "#009a36",
+        "is_activated": false
+      }
+    ],
+    "defaults": [
+      "#D1D1D1",
+      "#C1C1C1",
+      "#E1E1E1",
+      "#d52b1e",
+      "#0038a8",
+      "#009a36"
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_paraguay",
+      "population_tag" : "6,363,000 (2021)",
+      "area_tag" : "406,000 km²",
+      "currency_tag" : "txt_currency_paraguay"
+    }
+  },
+  {
+    "id": 9,
+    "continent_id": 5,
+    "key": "CF",
+    "name_tag": "txt_country_peru",
+    "flag_tag": "img_flag_peru",
+    "colors": [
+      {
+        "code": "#d91023",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      },
+      {
+        "code": "#d91023",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#D1D1D1",
+      "#E1E1E1",
+      "#A1A1A1"
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_peru",
+      "population_tag" : "33,376,476 (2021)",
+      "area_tag" : "1,285,000 km²",
+      "currency_tag" : "txt_currency_peru"
+    }
+  },
+  {
+    "id": 10,
+    "continent_id": 5,
+    "key": "SR",
+    "name_tag": "txt_country_suriname",
+    "flag_tag": "img_flag_suriname",
+    "colors": [
+      {
+        "code": "#377e3f",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      },
+      {
+        "code": "#b40a2d",
+        "is_activated": true
+      },
+      {
+        "code": "#ecc81d",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#D1D1D1",
+      "#B1B1B1",
+      "#C1C1C1"
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_suriname",
+      "population_tag" : "577,000 (2021)",
+      "area_tag" : "163,820 km²",
+      "currency_tag" : "txt_currency_suriname"
+    }
+  },
+  {
+    "id": 11,
+    "continent_id": 5,
+    "key": "TT",
+    "name_tag": "txt_country_trinidad_and_tobago",
+    "flag_tag": "img_flag_trinidad_and_tobago",
+    "colors": [
+      {
+        "code": "#db1332",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      },
+      {
+        "code": "#000000",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#D1D1D1",
+      "#E1E1E1",
+      "#C1C1C1"
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_trinidad_and_tobago",
+      "population_tag" : "1,422,000 (2021)",
+      "area_tag" : "5,130 km²",
+      "currency_tag" : "txt_currency_trinidad_and_tobago"
+    }
+  },
+  {
+    "id": 12,
+    "continent_id": 5,
+    "key": "UY",
+    "name_tag": "txt_country_uruguay",
+    "flag_tag": "img_flag_uruguay",
+    "colors": [
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      },
+      {
+        "code": "#ffda44",
+        "is_activated": true
+      },
+      {
+        "code": "#338af3",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#D1D1D1",
+      "#C1C1C1",
+      "#B1B1B1"
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_uruguay",
+      "population_tag" : "5,835,806 (2021)",
+      "area_tag" : "342,000 km2 (132,047 sq mi)",
+      "currency_tag" : "txt_currency_uruguay"
+    }
+  },
+  {
+    "id": 13,
+    "continent_id": 5,
+    "key": "VE",
+    "name_tag": "txt_country_venezuela",
+    "flag_tag": "img_flag_venezuela",
+    "colors": [
+      {
+        "code": "#FFCC00",
+        "is_activated": true
+      },
+      {
+        "code": "#cf142b",
+        "is_activated": true
+      },
+      {
+        "code": "#00247d",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#D1D1D1",
+      "#C1C1C1",
+      "#E1E1E1",
+      "#B1B1B1"
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_venezuela",
+      "population_tag" : "27,466,364 (2021)",
+      "area_tag" : "916,000 km²",
+      "currency_tag" : "txt_currency_venezuela"
+    }
+  }
+]
