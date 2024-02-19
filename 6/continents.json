@@ -1,0 +1,624 @@
+[
+  {
+    "id": 1,
+    "continent_id": 6,
+    "key": "AU",
+    "name_tag": "txt_country_australia",
+    "flag_tag": "img_flag_australia",
+    "colors": [
+      {
+        "code": "#00008b",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      },
+      {
+        "code": "#ff0000",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#A1A1A1",
+      "#D1D1D1"
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_australia",
+      "population_tag" : "23,342,000 (2021)",
+      "area_tag" : "7,700,000 km²",
+      "currency_tag" : "txt_currency_australia"
+    }
+  },
+  {
+    "id": 2,
+    "continent_id": 6,
+    "key": "CK",
+    "name_tag": "txt_country_cook_islands",
+    "flag_tag": "img_flag_cook_islands",
+    "colors": [
+      {
+        "code": "#001b69",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      },
+      {
+        "code": "#c9072a",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      },
+      {
+        "code": "#f5f5f5",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#D1D1D1",
+      "#C1C1C1",
+      "#B1B1B1",
+      "#E1E1E1",
+      "#A1A1A1"
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_cook_islands",
+      "population_tag" : "8,820 (2021)",
+      "area_tag" : "236 km²",
+      "currency_tag" : "txt_currency_cook_islands"
+    }
+  },
+  {
+    "id": 3,
+    "continent_id": 6,
+    "key": "BR",
+    "name_tag": "txt_country_federated_states_of_micronesia",
+    "flag_tag": "img_flag_federated_states_of_micronesia",
+    "colors": [
+      {
+        "code": "#76b3de",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#D1D1D1",
+      "#E1E1E1"
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_federated_states_of_micronesia",
+      "population_tag" : "128,032",
+      "area_tag" : "702 km²",
+      "currency_tag" : "txt_currency_federated_states_of_micronesia"
+    }
+  },
+  {
+    "id": 4,
+    "continent_id": 6,
+    "key": "FJ",
+    "name_tag": "txt_country_fiji",
+    "flag_tag": "img_flag_fiji",
+    "colors": [
+      {
+        "code": "#62b6e6",
+        "is_activated": true
+      },
+      {
+        "code": "#001b69",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      },
+      {
+        "code": "#c9072a",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": false
+      },
+      {
+        "code": "#c9072a",
+        "is_activated": false
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": false
+      },
+      {
+        "code": "#872130",
+        "is_activated": false
+      },
+      {
+        "code": "#00af4f",
+        "is_activated": false
+      },
+      {
+        "code": "#fede00",
+        "is_activated": false
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": false
+      },
+      {
+        "code": "#000000",
+        "is_activated": false
+      }
+    ],
+    "defaults": [
+      "#D1D1D1",
+      "#E1E1E1",
+      "#C1C1C1",
+      "#D1D1D1",
+      "#FFFFFF",
+      "#c9072a",
+      "#FFFFFF",
+      "#872130",
+      "#00af4f",
+      "#fede00",
+      "#FFFFFF",
+      "#000000"
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_fiji",
+      "population_tag" : "851,300 (2021)",
+      "area_tag" : "18,275 km²",
+      "currency_tag" : "txt_currency_fiji"
+    }
+  },
+  {
+    "id": 5,
+    "continent_id": 6,
+    "key": "KI",
+    "name_tag": "txt_country_kiribati",
+    "flag_tag": "img_flag_kiribati",
+    "colors": [
+      {
+        "code": "#c90707",
+        "is_activated": true
+      },
+      {
+        "code": "#f8d100",
+        "is_activated": true
+      },
+      {
+        "code": "#112c71",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#D1D1D1",
+      "#E1E1E1",
+      "#C1C1C1",
+      "#A1A1A1"
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_kiribati",
+      "population_tag" : "141,362 (2021)",
+      "area_tag" : "811 km²",
+      "currency_tag" : "txt_currency_kiribati"
+    }
+  },
+  {
+    "id": 6,
+    "continent_id": 6,
+    "key": "MH",
+    "name_tag": "txt_country_marshall_islands",
+    "flag_tag": "img_flag_marshall_islands",
+    "colors": [
+      {
+        "code": "#003594",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      },
+      {
+        "code": "#de7600",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": false
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#A1A1A1",
+      "#D1D1D1",
+      "#C1C1C1"
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_marshall_islands",
+      "population_tag" : "82,252 (2021)",
+      "area_tag" : "181 km²",
+      "currency_tag" : "txt_currency_marshall_islands"
+    }
+  },
+  {
+    "id": 7,
+    "continent_id": 6,
+    "key": "NR",
+    "name_tag": "txt_country_nauru",
+    "flag_tag": "img_flag_nauru",
+    "colors": [
+      {
+        "code": "#001b69",
+        "is_activated": true
+      },
+      {
+        "code": "#ffc828",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#D1D1D1",
+      "#E1E1E1",
+      "#B1B1B1"
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_nauru",
+      "population_tag" : "9,122 (2021)",
+      "area_tag" : "21 km²",
+      "currency_tag" : "txt_currency_nauru"
+    }
+  },
+  {
+    "id": 8,
+    "continent_id": 6,
+    "key": "NZ",
+    "name_tag": "txt_country_new_zealand",
+    "flag_tag": "img_flag_new_zealand",
+    "colors": [
+      {
+        "code": "#012169",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      },
+      {
+        "code": "#c8102e",
+        "is_activated": true
+      },
+      {
+        "code": "#c8102e",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": false
+      }
+    ],
+    "defaults": [
+      "#D1D1D1",
+      "#C1C1C1",
+      "#E1E1E1",
+      "#A1A1A1",
+      "#FFFFFF"
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_new_zealand",
+      "population_tag" : "4,404,252 (2021)",
+      "area_tag" : "270,000 km²",
+      "currency_tag" : "txt_currency_new_zealand"
+    }
+  },
+  {
+    "id": 9,
+    "continent_id": 6,
+    "key": "NU",
+    "name_tag": "txt_country_niue",
+    "flag_tag": "img_flag_niue",
+    "colors": [
+      {
+        "code": "#fedd00",
+        "is_activated": true
+      },
+      {
+        "code": "#012169",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      },
+      {
+        "code": "#c8102e",
+        "is_activated": true
+      },
+      {
+        "code": "#012169",
+        "is_activated": true
+      },
+      {
+        "code": "#fedd00",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#D1D1D1",
+      "#E1E1E1",
+      "#A1A1A1",
+      "#C1C1C1",
+      "#BABABA",
+      "#D1D1D1"
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_niue",
+      "population_tag" : "1,242 (2021)",
+      "area_tag" : "261 km²",
+      "currency_tag" : "txt_currency_niue"
+    }
+  },
+  {
+    "id": 10,
+    "continent_id": 6,
+    "key": "PW",
+    "name_tag": "txt_country_palau",
+    "flag_tag": "img_flag_palau",
+    "colors": [
+      {
+        "code": "#009aff",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFF00",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#D1D1D1"
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_palau",
+      "population_tag" : "22,000 (2021)",
+      "area_tag" : "460 km²",
+      "currency_tag" : "txt_currency_palau"
+    }
+  },
+  {
+    "id": 11,
+    "continent_id": 6,
+    "key": "PG",
+    "name_tag": "txt_country_papua_new_guinea",
+    "flag_tag": "img_flag_papua_new_guinea",
+    "colors": [
+      {
+        "code": "#cf0921",
+        "is_activated": true
+      },
+      {
+        "code": "#000000",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      },
+      {
+        "code": "#fcd20f",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#D1D1D1",
+      "#E1E1E1",
+      "#C1C1C1",
+      "#A1A1A1"
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_papua_new_guinea",
+      "population_tag" : "8,262,505 (2021)",
+      "area_tag" : "462,000 km²",
+      "currency_tag" : "txt_currency_papua_new_guinea"
+    }
+  },
+  {
+    "id": 12,
+    "continent_id": 6,
+    "key": "WS",
+    "name_tag": "txt_country_samoa",
+    "flag_tag": "img_flag_samoa",
+    "colors": [
+      {
+        "code": "#cf0921",
+        "is_activated": true
+      },
+      {
+        "code": "#002780",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#D1D1D1",
+      "#C1C1C1",
+      "#B1B1B1"
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_samoa",
+      "population_tag" : "188,033 (2021)",
+      "area_tag" : "2830 km²",
+      "currency_tag" : "txt_currency_samoa"
+    }
+  },
+  {
+    "id": 13,
+    "continent_id": 6,
+    "key": "SB",
+    "name_tag": "txt_country_solomon_islands",
+    "flag_tag": "img_flag_solomon_islands",
+    "colors": [
+      {
+        "code": "#0050bb",
+        "is_activated": true
+      },
+      {
+        "code": "#1b5b30",
+        "is_activated": true
+      },
+      {
+        "code": "#fcd20f",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#D1D1D1",
+      "#C1C1C1",
+      "#E1E1E1",
+      "#B1B1B1"
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_solomon_islands",
+      "population_tag" : "566,323 (2021)",
+      "area_tag" : "28900 km²",
+      "currency_tag" : "txt_currency_solomon_islands"
+    }
+  },
+  {
+    "id": 14,
+    "continent_id": 6,
+    "key": "TO",
+    "name_tag": "txt_country_tonga",
+    "flag_tag": "img_flag_tonga",
+    "colors": [
+      {
+        "code": "#c20000",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      },
+      {
+        "code": "#c20000",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#D1D1D1",
+      "#C1C1C1",
+      "#E1E1E1"
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_tonga",
+      "population_tag" : "111,363 (2021)",
+      "area_tag" : "747 km²",
+      "currency_tag" : "txt_currency_tonga"
+    }
+  },
+  {
+    "id": 15,
+    "continent_id": 6,
+    "key": "VE",
+    "name_tag": "txt_country_tuvalu",
+    "flag_tag": "img_flag_tuvalu",
+    "colors": [
+      {
+        "code": "#009ddf",
+        "is_activated": true
+      },
+      {
+        "code": "#001b69",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      },
+      {
+        "code": "#c9072a",
+        "is_activated": true
+      },
+      {
+        "code": "#fede00",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#D1D1D1",
+      "#C1C1C1",
+      "#E1E1E1",
+      "#B1B1B1",
+      "#BABABA"
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_tuvalu",
+      "population_tag" : "128,032 (2021)",
+      "area_tag" : "702 km²",
+      "currency_tag" : "txt_currency_tuvalu"
+    }
+  },
+  {
+    "id": 16,
+    "continent_id": 6,
+    "key": "VE",
+    "name_tag": "txt_country_vanuatu",
+    "flag_tag": "img_flag_vanuatu",
+    "colors": [
+      {
+        "code": "#000000",
+        "is_activated": true
+      },
+      {
+        "code": "#fdcf0a",
+        "is_activated": true
+      },
+      {
+        "code": "#009641",
+        "is_activated": true
+      },
+      {
+        "code": "#d30731",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#D1D1D1",
+      "#C1C1C1",
+      "#E1E1E1",
+      "#B1B1B1"
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_vanuatu",
+      "population_tag" : "266,374 (2021)",
+      "area_tag" : "12200 km²",
+      "currency_tag" : "txt_currency_vanuatu"
+    }
+  }
+]
