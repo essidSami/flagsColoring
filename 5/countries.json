@@ -173,10 +173,10 @@
       "#C1C1C1"
     ],
     "info": {
-      "capital_tag" : "txt_capital_burkina_faso",
-      "population_tag" : "22,100,683 (2021)",
-      "area_tag" : "274,000 km2 (105,792 sq mi)",
-      "currency_tag" : "txt_currency_burkina_faso"
+      "capital_tag" : "txt_capital_colombia",
+      "population_tag" : "48,476,000 (2021)",
+      "area_tag" : "1,148,000 km²",
+      "currency_tag" : "txt_currency_colombia"
     }
   },
   {
@@ -375,6 +375,7 @@
       "#E1E1E1",
       "#d52b1e",
       "#0038a8",
+      "#fee000",
       "#009a36"
     ],
     "info": {
