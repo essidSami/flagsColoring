@@ -28,7 +28,13 @@
       "#C1C1C1",
       "#D1D1D1",
       "#A1A1A1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_afghanistan",
+      "population_tag" : "40,099,462 (2021)",
+      "area_tag" : "652,230 km2 (251,827 sq mi)",
+      "currency_tag" : "txt_currency_afghanistan"
+    }
   },
   {
     "id": 56,
@@ -54,7 +60,13 @@
       "#E1E1E1",
       "#C1C1C1",
       "#D1D1D1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_armenia",
+      "population_tag" : "2,790,974 (2021)",
+      "area_tag" : "29,743 km2 (11,484 sq mi)",
+      "currency_tag" : "txt_currency_armenia"
+    }
   },
   {
     "id": 57,
@@ -90,7 +102,13 @@
       "#D1D1D1",
       "#A1A1A1",
       "#A1A1A1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_azerbaijan",
+      "population_tag" : "10,312,992 (2021)",
+      "area_tag" : "86,600 km2 (33,436 sq mi)",
+      "currency_tag" : "txt_currency_azerbaijan"
+    }
   },
   {
     "id": 58,
@@ -111,7 +129,13 @@
     "defaults": [
       "#E1E1E1",
       "#C1C1C1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_bahrain",
+      "population_tag" : "1,463,265 (2021)",
+      "area_tag" : "760 km2 (293 sq mi)",
+      "currency_tag" : "txt_currency_bahrain"
+    }
   },
   {
     "id": 59,
@@ -132,7 +156,13 @@
     "defaults": [
       "#E1E1E1",
       "#C1C1C1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_bangladesh",
+      "population_tag" : "169,356,251 (2021)",
+      "area_tag" : "147,570 km2 (56,977 sq mi)",
+      "currency_tag" : "txt_currency_bangladesh"
+    }
   },
   {
     "id": 60,
@@ -158,7 +188,13 @@
       "#E1E1E1",
       "#C1C1C1",
       "#D1D1D1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_bhutan",
+      "population_tag" : "777,486 (2021)",
+      "area_tag" : "38,394 km2 (14,824 sq mi)",
+      "currency_tag" : "txt_currency_bhutan"
+    }
   },
   {
     "id": 61,
@@ -194,7 +230,13 @@
       "#D1D1D1",
       "#A1A1A1",
       "#f7e110"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_",
+      "population_tag" : "460,356 (2021)",
+      "area_tag" : "5,765 km2 (2,226 sq mi)",
+      "currency_tag" : "txt_currency_"
+    }
   },
   {
     "id": 62,
@@ -225,7 +267,13 @@
       "#C1C1C1",
       "#D1D1D1",
       "#000000"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_cambodia",
+      "population_tag" : "16,589,023 (2021)",
+      "area_tag" : "181,035 km2 (69,898 sq mi)",
+      "currency_tag" : "txt_currency_cambodia"
+    }
   },
   {
     "id": 63,
@@ -246,7 +294,13 @@
     "defaults": [
       "#E1E1E1",
       "#C1C1C1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_china",
+      "population_tag" : "1,425,893,465 (2021)",
+      "area_tag" : "9,596,961 km2 (3,705,407 sq mi)",
+      "currency_tag" : "txt_currency_china"
+    }
   },
   {
     "id": 64,
@@ -272,7 +326,13 @@
       "#E1E1E1",
       "#C1C1C1",
       "#D1D1D1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_cyprus",
+      "population_tag" : "1,244,188 (2021)",
+      "area_tag" : "9,251 km2 (3,572 sq mi)",
+      "currency_tag" : "txt_currency_cyprus"
+    }
   },
   {
     "id": 65,
@@ -303,7 +363,13 @@
       "#C1C1C1",
       "#D1D1D1",
       "#A1A1A1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_east_timor",
+      "population_tag" : "1,320,942 (2021)",
+      "area_tag" : "14,874 km2 (5,743 sq mi)",
+      "currency_tag" : "txt_currency_east_timor"
+    }
   },
   {
     "id": 66,
@@ -329,7 +395,13 @@
       "#E1E1E1",
       "#C1C1C1",
       "#C1C1C1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_georgia",
+      "population_tag" : "3,757,980 (2021)",
+      "area_tag" : "69,700 km2 (26,911 sq mi)",
+      "currency_tag" : "txt_currency_georgia"
+    }
   },
   {
     "id": 67,
@@ -360,7 +432,13 @@
       "#C1C1C1",
       "#D1D1D1",
       "#A1A1A1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_india",
+      "population_tag" : "1,407,563,842 (2021)",
+      "area_tag" : "3,287,263 km2 (1,269,219 sq mi)",
+      "currency_tag" : "txt_currency_india"
+    }
   },
   {
     "id": 68,
@@ -381,7 +459,13 @@
     "defaults": [
       "#E1E1E1",
       "#C1C1C1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_indonesia",
+      "population_tag" : "273,753,191 (2021)",
+      "area_tag" : "1,904,569 km2 (735,358 sq mi)",
+      "currency_tag" : "txt_currency_indonesia"
+    }
   },
   {
     "id": 69,
@@ -417,7 +501,13 @@
       "#D1D1D1",
       "#D1D1D1",
       "#C1C1C1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_iran",
+      "population_tag" : "87,923,432 (2021)",
+      "area_tag" : "1,648,195 km2 (636,372 sq mi)",
+      "currency_tag" : "txt_currency_iran"
+    }
   },
   {
     "id": 70,
@@ -448,7 +538,13 @@
       "#C1C1C1",
       "#D1D1D1",
       "#A1A1A1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_iraq",
+      "population_tag" : "43,533,592 (2021)",
+      "area_tag" : "438,317 km2 (169,235 sq mi)",
+      "currency_tag" : "txt_currency_iraq"
+    }
   },
   {
     "id": 71,
@@ -469,7 +565,13 @@
     "defaults": [
       "#E1E1E1",
       "#C1C1C1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_japan",
+      "population_tag" : "124,612,530 (2021)",
+      "area_tag" : "377,915 km2 (145,914 sq mi)",
+      "currency_tag" : "txt_currency_japan"
+    }
   },
   {
     "id": 72,
@@ -505,7 +607,13 @@
       "#D1D1D1",
       "#A1A1A1",
       "#D1D1D1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_jordan",
+      "population_tag" : "11,148,278 (2021)",
+      "area_tag" : "89,342 km2 (34,495 sq mi)",
+      "currency_tag" : "txt_currency_jordan"
+    }
   },
   {
     "id": 73,
@@ -526,7 +634,13 @@
     "defaults": [
       "#E1E1E1",
       "#C1C1C1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_kazakhstan",
+      "population_tag" : "19,196,465 (2021)",
+      "area_tag" : "2,724,900 km2 (1,052,090 sq mi)",
+      "currency_tag" : "txt_currency_kazakhstan"
+    }
   },
   {
     "id": 74,
@@ -557,7 +671,13 @@
       "#C1C1C1",
       "#D1D1D1",
       "#A1A1A1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_kuwait",
+      "population_tag" : "4,250,114 (2021)",
+      "area_tag" : "17,818 km2 (6,880 sq mi)",
+      "currency_tag" : "txt_currency_kuwait"
+    }
   },
   {
     "id": 75,
@@ -578,7 +698,13 @@
     "defaults": [
       "#E1E1E1",
       "#C1C1C1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_kyrgyzstan",
+      "population_tag" : "6,527,743 (2021)",
+      "area_tag" : "199,951 km2 (77,202 sq mi)",
+      "currency_tag" : "txt_currency_kyrgyzstan"
+    }
   },
   {
     "id": 76,
@@ -604,7 +730,13 @@
       "#E1E1E1",
       "#C1C1C1",
       "#D1D1D1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_laos",
+      "population_tag" : "7,425,057 (2021)",
+      "area_tag" : "236,800 km2 (91,429 sq mi)",
+      "currency_tag" : "txt_currency_laos"
+    }
   },
   {
     "id": 77,
@@ -630,7 +762,13 @@
       "#E1E1E1",
       "#C1C1C1",
       "#D1D1D1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_lebanon",
+      "population_tag" : "5,592,631 (2021)",
+      "area_tag" : "10,452 km2 (4,036 sq mi)",
+      "currency_tag" : "txt_currency_lebanon"
+    }
   },
   {
     "id": 78,
@@ -661,7 +799,13 @@
       "#C1C1C1",
       "#D1D1D1",
       "#A1A1A1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_malaysia",
+      "population_tag" : "33,573,874 (2021)",
+      "area_tag" : "329,847 km2 (127,355 sq mi)",
+      "currency_tag" : "txt_currency_malaysia"
+    }
   },
   {
     "id": 79,
@@ -687,7 +831,13 @@
       "#E1E1E1",
       "#C1C1C1",
       "#D1D1D1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_maldives",
+      "population_tag" : "521,457 (2021)",
+      "area_tag" : "298 km2 (115 sq mi)",
+      "currency_tag" : "txt_currency_maldives"
+    }
   },
   {
     "id": 80,
@@ -718,7 +868,13 @@
       "#C1C1C1",
       "#D1D1D1",
       "#A1A1A1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_mongolia",
+      "population_tag" : "3,347,782 (2021)",
+      "area_tag" : "1,564,116 km2 (603,909 sq mi)",
+      "currency_tag" : "txt_currency_mongolia"
+    }
   },
   {
     "id": 81,
@@ -749,7 +905,13 @@
       "#C1C1C1",
       "#D1D1D1",
       "#A1A1A1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_myanmar",
+      "population_tag" : "53,798,084 (2021)",
+      "area_tag" : "676,578 km2 (261,228 sq mi)",
+      "currency_tag" : "txt_currency_myanmar"
+    }
   },
   {
     "id": 82,
@@ -775,7 +937,13 @@
       "#E1E1E1",
       "#C1C1C1",
       "#D1D1D1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_nepal",
+      "population_tag" : "30,034,989 (2021)",
+      "area_tag" : "147,516 km2 (56,956 sq mi)",
+      "currency_tag" : "txt_currency_nepal"
+    }
   },
   {
     "id": 83,
@@ -811,7 +979,13 @@
       "#D1D1D1",
       "#C1C1C1",
       "#D1D1D1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_north_korea",
+      "population_tag" : "25,971,909 (2021)",
+      "area_tag" : "120,538 km2 (46,540 sq mi)",
+      "currency_tag" : "txt_currency_north_korea"
+    }
   },
   {
     "id": 84,
@@ -852,7 +1026,13 @@
       "#D1D1D1",
       "#E1E1E1",
       "#D1D1D1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_oman",
+      "population_tag" : "4,520,471 (2021)",
+      "area_tag" : "309,500 km2 (119,499 sq mi)",
+      "currency_tag" : "txt_currency_oman"
+    }
   },
   {
     "id": 85,
@@ -878,7 +1058,13 @@
       "#E1E1E1",
       "#C1C1C1",
       "#E1E1E1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_pakistan",
+      "population_tag" : "231,402,117 (2021)",
+      "area_tag" : "881,913 km2 (340,509 sq mi)",
+      "currency_tag" : "txt_currency_pakistan"
+    }
   },
   {
     "id": 86,
@@ -909,7 +1095,13 @@
       "#C1C1C1",
       "#D1D1D1",
       "#A1A1A1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_palestine",
+      "population_tag" : "5,483450 (2021)",
+      "area_tag" : "26,990 km2",
+      "currency_tag" : "txt_currency_palestine"
+    }
   },
   {
     "id": 87,
@@ -940,7 +1132,13 @@
       "#C1C1C1",
       "#D1D1D1",
       "#A1A1A1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_philippines",
+      "population_tag" : "113,880,328 (2021)",
+      "area_tag" : "343,448 km2 (132,606 sq mi)",
+      "currency_tag" : "txt_currency_philippines"
+    }
   },
   {
     "id": 88,
@@ -961,7 +1159,13 @@
     "defaults": [
       "#E1E1E1",
       "#C1C1C1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_qatar",
+      "population_tag" : "2,688,235 (2021)",
+      "area_tag" : "11,586 km2 (4,473 sq mi)",
+      "currency_tag" : "txt_currency_qatar"
+    }
   },
   {
     "id": 89,
@@ -982,7 +1186,13 @@
     "defaults": [
       "#E1E1E1",
       "#C1C1C1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_saudi_arabia",
+      "population_tag" : "35,950,396 (2021)",
+      "area_tag" : "2,149,690 km2 (830,000 sq mi)",
+      "currency_tag" : "txt_currency_saudi_arabia"
+    }
   },
   {
     "id": 90,
@@ -1008,7 +1218,13 @@
       "#E1E1E1",
       "#C1C1C1",
       "#E1E1E1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_singapore",
+      "population_tag" : "5,941,060 (2021)",
+      "area_tag" : "697 km2 (269 sq mi)",
+      "currency_tag" : "txt_currency_singapore"
+    }
   },
   {
     "id": 91,
@@ -1039,7 +1255,13 @@
       "#C1C1C1",
       "#D1D1D1",
       "#A1A1A1"
-    ]
+    ],
+    "info": {
+    "capital_tag" : "txt_capital_south_korea",
+    "population_tag" : "51,830,139 (2021)",
+    "area_tag" : "99,720 km2 (38,502 sq mi)",
+    "currency_tag" : "txt_currency_south_korea"
+  }
   },
   {
     "id": 92,
@@ -1080,7 +1302,13 @@
       "#A1A1A1",
       "#B1B1B1",
       "#000000"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_sri_lanka",
+      "population_tag" : "21,773,441 (2021)",
+      "area_tag" : "65,610 km2 (25,332 sq mi)",
+      "currency_tag" : "txt_currency_sri_lanka"
+    }
   },
   {
     "id": 93,
@@ -1111,7 +1339,13 @@
       "#C1C1C1",
       "#D1D1D1",
       "#A1A1A1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_syria",
+      "population_tag" : "21,324,367 (2021)",
+      "area_tag" : "185,180 km2 (71,498 sq mi)",
+      "currency_tag" : "txt_currency_syria"
+    }
   },
   {
     "id": 94,
@@ -1137,7 +1371,13 @@
       "#E1E1E1",
       "#C1C1C1",
       "#D1D1D1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_taiwan",
+      "population_tag" : "23,859,912 (2021)",
+      "area_tag" : "35,980 km2 (13,892 sq mi)",
+      "currency_tag" : "txt_currency_taiwan"
+    }
   },
   {
     "id": 95,
@@ -1168,7 +1408,13 @@
       "#C1C1C1",
       "#D1D1D1",
       "#A1A1A1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_tajikistan",
+      "population_tag" : "9,750,064 (2021)",
+      "area_tag" : "143,100 km2 (55,251 sq mi)",
+      "currency_tag" : "txt_currency_tajikistan"
+    }
   },
   {
     "id": 96,
@@ -1194,7 +1440,13 @@
       "#E1E1E1",
       "#C1C1C1",
       "#D1D1D1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_thailand",
+      "population_tag" : "71,601,103 (2021)",
+      "area_tag" : "513,120 km2 (198,117 sq mi)",
+      "currency_tag" : "txt_currency_thailand"
+    }
   },
   {
     "id": 97,
@@ -1215,7 +1467,13 @@
     "defaults": [
       "#E1E1E1",
       "#C1C1C1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_turkey",
+      "population_tag" : "84,775,404 (2021)",
+      "area_tag" : "783,562 km2 (302,535 sq mi)",
+      "currency_tag" : "txt_currency_turkey"
+    }
   },
   {
     "id": 98,
@@ -1261,7 +1519,13 @@
       "#D1D1D1",
       "#A1A1A1",
       "#C1C1C1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_turkmenistan",
+      "population_tag" : "6,341,855 (2021)",
+      "area_tag" : "488,100 km2 (188,456 sq mi)",
+      "currency_tag" : "txt_currency_turkmenistan"
+    }
   },
   {
     "id": 99,
@@ -1292,7 +1556,13 @@
       "#C1C1C1",
       "#D1D1D1",
       "#A1A1A1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_united_arab_emirates",
+      "population_tag" : "9,365,145 (2021)",
+      "area_tag" : "83,600 km2 (32,278 sq mi)",
+      "currency_tag" : "txt_currency_united_arab_emirates"
+    }
   },
   {
     "id": 100,
@@ -1328,7 +1598,13 @@
       "#D1D1D1",
       "#A1A1A1",
       "#D1D1D1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_uzbekistan",
+      "population_tag" : "34,081,449 (2021)",
+      "area_tag" : "447,400 km2 (172,742 sq mi)",
+      "currency_tag" : "txt_currency_uzbekistan"
+    }
   },
   {
     "id": 101,
@@ -1349,7 +1625,13 @@
     "defaults": [
       "#E1E1E1",
       "#C1C1C1"
-    ]
+    ],
+    "info": {
+    "capital_tag" : "txt_capital_vietnam",
+    "population_tag" : "97,468,029 (2021)",
+    "area_tag" : "332,698 km2 (128,455 sq mi)",
+    "currency_tag" : "txt_currency_vietnam"
+  }
   },
   {
     "id": 102,
@@ -1375,6 +1657,12 @@
       "#E1E1E1",
       "#C1C1C1",
       "#D1D1D1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_yemen",
+      "population_tag" : "32,981,641 (2021)",
+      "area_tag" : "527,968 km2 (203,850 sq mi)",
+      "currency_tag" : "txt_currency_yemen"
+    }
   }
 ]
