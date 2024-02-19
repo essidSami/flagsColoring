@@ -88,6 +88,10 @@
         "is_activated": true
       },
       {
+        "code": "#FFFFFF",
+        "is_activated": false
+      },
+      {
         "code": "#0c9c35",
         "is_activated": false
       }
@@ -96,6 +100,7 @@
       "#D1D1D1",
       "#E1E1E1",
       "#C1C1C1",
+      "#FFFFFF",
       "#0c9c35"
     ],
     "info": {
