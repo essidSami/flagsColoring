@@ -18,7 +18,13 @@
     "defaults": [
       "#E1E1E1",
       "#C1C1C1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_albania",
+      "population_tag" : "2,854,710 (2021)",
+      "area_tag" : "28,748 km2 (11,100 sq mi)",
+      "currency_tag" : "txt_currency_albania"
+    }
   },
   {
     "id": 104,
@@ -79,7 +85,13 @@
       "#FFFFFF",
       "#d50032",
       "#4173cd"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_andorra",
+      "population_tag" : "79,034 (2021)",
+      "area_tag" : "468 km2 (181 sq mi)",
+      "currency_tag" : "txt_currency_andorra"
+    }
   },
   {
     "id": 105,
@@ -100,7 +112,13 @@
     "defaults": [
       "#E1E1E1",
       "#C1C1C1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_austria",
+      "population_tag" : "8,922,082 (2021)",
+      "area_tag" : "83,871 km2 (32,383 sq mi)",
+      "currency_tag" : "txt_currency_austria"
+    }
   },
   {
     "id": 106,
@@ -131,7 +149,13 @@
       "#C1C1C1",
       "#D1D1D1",
       "#d22730"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_belarus",
+      "population_tag" : "9,578,167 (2021)",
+      "area_tag" : "207,600 km2 (80,155 sq mi)",
+      "currency_tag" : "txt_currency_belarus"
+    }
   },
   {
     "id": 107,
@@ -157,7 +181,13 @@
       "#E1E1E1",
       "#C1C1C1",
       "#D1D1D1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_belgium",
+      "population_tag" : "11,611,419 (2021)",
+      "area_tag" : "30,528 km2 (11,787 sq mi)",
+      "currency_tag" : "txt_currency_belgium"
+    }
   },
   {
     "id": 108,
@@ -183,7 +213,13 @@
       "#E1E1E1",
       "#C1C1C1",
       "#D1D1D1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_bosnia_and_herzegovina",
+      "population_tag" : "3,270,943 (2021)",
+      "area_tag" : "51,197 km2 (19,767 sq mi)",
+      "currency_tag" : "txt_currency_bosnia_and_herzegovina"
+    }
   },
   {
     "id": 109,
@@ -209,7 +245,13 @@
       "#E1E1E1",
       "#C1C1C1",
       "#D1D1D1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_bulgaria",
+      "population_tag" : "6,885,868 (2021)",
+      "area_tag" : "110,879 km2 (42,811 sq mi)",
+      "currency_tag" : "txt_currency_bulgaria"
+    }
   },
   {
     "id": 110,
@@ -270,7 +312,13 @@
       "#171796",
       "#ff0000",
       "#f7db17"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_croatia",
+      "population_tag" : "4,060,135 (2021)",
+      "area_tag" : "56,594 km2 (21,851 sq mi)",
+      "currency_tag" : "txt_currency_croatia"
+    }
   },
   {
     "id": 111,
@@ -296,7 +344,13 @@
       "#E1E1E1",
       "#C1C1C1",
       "#D1D1D1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_czech_republic",
+      "population_tag" : "10,510,751 (2021)",
+      "area_tag" : "78,867 km2 (30,451 sq mi)",
+      "currency_tag" : "txt_currency_czech_republic"
+    }
   },
   {
     "id": 112,
@@ -317,7 +371,13 @@
     "defaults": [
       "#E1E1E1",
       "#C1C1C1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_denmark",
+      "population_tag" : "5,854,240 (2021)",
+      "area_tag" : "2,210,573 km2 (853,507 sq mi)",
+      "currency_tag" : "txt_currency_denmark"
+    }
   },
   {
     "id": 113,
@@ -343,7 +403,13 @@
       "#E1E1E1",
       "#C1C1C1",
       "#D1D1D1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_estonia",
+      "population_tag" : "1,328,701 (2021)",
+      "area_tag" : "45,228 km2 (17,463 sq mi)",
+      "currency_tag" : "txt_currency_estonia"
+    }
   },
   {
     "id": 114,
@@ -364,7 +430,13 @@
     "defaults": [
       "#E1E1E1",
       "#C1C1C1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_finland",
+      "population_tag" : "5,535,992 (2021)",
+      "area_tag" : "338,145 km2 (130,559 sq mi)",
+      "currency_tag" : "txt_currency_finland"
+    }
   },
   {
     "id": 115,
@@ -390,7 +462,13 @@
       "#E1E1E1",
       "#C1C1C1",
       "#D1D1D1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_france",
+      "population_tag" : "64,531,444 (2021)",
+      "area_tag" : "643,427 km2 (248,429 sq mi)",
+      "currency_tag" : "txt_currency_france"
+    }
   },
   {
     "id": 116,
@@ -416,7 +494,13 @@
       "#E1E1E1",
       "#C1C1C1",
       "#D1D1D1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_germany",
+      "population_tag" : "83,408,554 (2021)",
+      "area_tag" : "357,022 km2 (137,847 sq mi)",
+      "currency_tag" : "txt_currency_germany"
+    }
   },
   {
     "id": 117,
@@ -437,7 +521,13 @@
     "defaults": [
       "#E1E1E1",
       "#C1C1C1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_greece",
+      "population_tag" : "10,445,365 (2021)",
+      "area_tag" : "131,957 km2 (50,949 sq mi)",
+      "currency_tag" : "txt_currency_greece"
+    }
   },
   {
     "id": 118,
@@ -463,7 +553,13 @@
       "#E1E1E1",
       "#C1C1C1",
       "#D1D1D1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_hungary",
+      "population_tag" : "9,709,786 (2021)",
+      "area_tag" : "93,028 km2 (35,918 sq mi)",
+      "currency_tag" : "txt_currency_hungary"
+    }
   },
   {
     "id": 119,
@@ -489,7 +585,13 @@
       "#E1E1E1",
       "#C1C1C1",
       "#D1D1D1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_iceland",
+      "population_tag" : "370,335 (2021)",
+      "area_tag" : "103,000 km2 (39,769 sq mi)",
+      "currency_tag" : "txt_currency_iceland"
+    }
   },
   {
     "id": 120,
@@ -515,7 +617,13 @@
       "#E1E1E1",
       "#C1C1C1",
       "#D1D1D1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_ireland",
+      "population_tag" : "4,986,526 (2021)",
+      "area_tag" : "70,273 km2 (27,133 sq mi)",
+      "currency_tag" : "txt_currency_ireland"
+    }
   },
   {
     "id": 121,
@@ -541,7 +649,13 @@
       "#E1E1E1",
       "#C1C1C1",
       "#D1D1D1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_italian",
+      "population_tag" : "59,240,329 (2021)",
+      "area_tag" : "302,068 km2 (116,629 sq mi)",
+      "currency_tag" : "txt_currency_italian"
+    }
   },
   {
     "id": 122,
@@ -567,7 +681,13 @@
       "#E1E1E1",
       "#C1C1C1",
       "#D1D1D1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_kosovo",
+      "population_tag" : "1,836,529 (2021)",
+      "area_tag" : "10,887 km2 (4,203 sq mi)",
+      "currency_tag" : "txt_currency_kosovo"
+    }
   },
   {
     "id": 123,
@@ -588,7 +708,13 @@
     "defaults": [
       "#E1E1E1",
       "#C1C1C1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_latvia",
+      "population_tag" : "1,873,919 (2021)",
+      "area_tag" : "64,589 km2 (24,938 sq mi)",
+      "currency_tag" : "txt_currency_latvia"
+    }
   },
   {
     "id": 124,
@@ -619,7 +745,13 @@
       "#C1C1C1",
       "#D1D1D1",
       "#000000"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_liechtenstein",
+      "population_tag" : "39,039 (2021)",
+      "area_tag" : "160 km2 (62 sq mi)",
+      "currency_tag" : "txt_currency_liechtenstein"
+    }
   },
   {
     "id": 125,
@@ -645,7 +777,13 @@
       "#E1E1E1",
       "#C1C1C1",
       "#D1D1D1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_lithuania",
+      "population_tag" : "2,786,651 (2021)",
+      "area_tag" : "65,300 km2 (25,212 sq mi)",
+      "currency_tag" : "txt_currency_lithuania"
+    }
   },
   {
     "id": 126,
@@ -671,7 +809,13 @@
       "#E1E1E1",
       "#C1C1C1",
       "#D1D1D1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_luxembourg",
+      "population_tag" : "639,321",
+      "area_tag" : "2,586 km2 (998 sq mi)",
+      "currency_tag" : "txt_currency_luxembourg"
+    }
   },
   {
     "id": 127,
@@ -702,7 +846,13 @@
       "#C1C1C1",
       "#E1E1E1",
       "#6e6e6e"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_malta",
+      "population_tag" : "526,748 (2021)",
+      "area_tag" : "316 km2 (122 sq mi)",
+      "currency_tag" : "txt_currency_malta"
+    }
   },
   {
     "id": 128,
@@ -773,7 +923,13 @@
       "#ffd200",
       "#007a50",
       "#cc092f"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_moldova",
+      "population_tag" : "3,061,506 (2021)",
+      "area_tag" : "33,851 km2 (13,070 sq mi)",
+      "currency_tag" : "txt_currency_moldova"
+    }
   },
   {
     "id": 129,
@@ -794,7 +950,13 @@
     "defaults": [
       "#E1E1E1",
       "#C1C1C1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_monaco",
+      "population_tag" : "36,686 (2021)",
+      "area_tag" : "2 km2 (0.8 sq mi)",
+      "currency_tag" : "txt_currency_monaco"
+    }
   },
   {
     "id": 130,
@@ -835,7 +997,13 @@
       "#D1D1D1",
       "#41479b",
       "#73af00"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_montenegro",
+      "population_tag" : "627,859 (2021)",
+      "area_tag" : "13,812 km2 (5,333 sq mi)",
+      "currency_tag" : "txt_currency_montenegro"
+    }
   },
   {
     "id": 131,
@@ -861,7 +1029,13 @@
       "#E1E1E1",
       "#C1C1C1",
       "#E1E1E1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_netherlands",
+      "population_tag" : "17,501,696 (2021)",
+      "area_tag" : "41,543 km2 (16,040 sq mi)",
+      "currency_tag" : "txt_currency_netherlands"
+    }
   },
   {
     "id": 132,
@@ -882,7 +1056,13 @@
     "defaults": [
       "#E1E1E1",
       "#C1C1C1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_north_macedonia",
+      "population_tag" : "2,103,330 (2021)",
+      "area_tag" : "25,713 km2 (9,928 sq mi)",
+      "currency_tag" : "txt_currency_north_macedonia"
+    }
   },
   {
     "id": 133,
@@ -908,7 +1088,13 @@
       "#E1E1E1",
       "#C1C1C1",
       "#E1E1E1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_norway",
+      "population_tag" : "5,403,021 (2021)",
+      "area_tag" : "386,324 km2 (149,161 sq mi)",
+      "currency_tag" : "txt_currency_norway"
+    }
   },
   {
     "id": 134,
@@ -929,7 +1115,13 @@
     "defaults": [
       "#E1E1E1",
       "#C1C1C1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_poland",
+      "population_tag" : "38,307,726 (2021)",
+      "area_tag" : "312,685 km2 (120,728 sq mi)",
+      "currency_tag" : "txt_currency_poland"
+    }
   },
   {
     "id": 135,
@@ -975,7 +1167,13 @@
       "#FFFFFF",
       "#FFFF00",
       "#003399"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_portugal",
+      "population_tag" : "10,290,103 (2021)",
+      "area_tag" : "92,090 km2 (35,556 sq mi)",
+      "currency_tag" : "txt_currency_portugal"
+    }
   },
   {
     "id": 136,
@@ -1001,7 +1199,13 @@
       "#E1E1E1",
       "#C1C1C1",
       "#E1E1E1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_romania",
+      "population_tag" : "19,328,560 (2021)",
+      "area_tag" : "238,391 km2 (92,043 sq mi)",
+      "currency_tag" : "txt_currency_romania"
+    }
   },
   {
     "id": 137,
@@ -1027,7 +1231,13 @@
       "#E1E1E1",
       "#C1C1C1",
       "#E1E1E1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_russia",
+      "population_tag" : "145,102,755 (2021)",
+      "area_tag" : "17,125,242 km2 (6,612,093 sq mi)",
+      "currency_tag" : "txt_currency_russia"
+    }
   },
   {
     "id": 138,
@@ -1088,7 +1298,13 @@
       "#638c5a",
       "#f1c02d",
       "#FFFFFF"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_san_marino",
+      "population_tag" : "33,745 (2021)",
+      "area_tag" : "61 km2 (24 sq mi)",
+      "currency_tag" : "txt_currency_san_marino"
+    }
   },
   {
     "id": 139,
@@ -1149,7 +1365,13 @@
       "#edb92e",
       "#0c4077",
       "#c7363d"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_serbia",
+      "population_tag" : "7,296,769 (2021)",
+      "area_tag" : "77,474 km2 (29,913 sq mi)",
+      "currency_tag" : "txt_currency_serbia"
+    }
   },
   {
     "id": 140,
@@ -1190,7 +1412,13 @@
       "#ee1620",
       "#034da3",
       "#FFFFFF"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_slovakia",
+      "population_tag" : "5,447,622 (2021)",
+      "area_tag" : "49,035 km2 (18,933 sq mi)",
+      "currency_tag" : "txt_currency_slovakia"
+    }
   },
   {
     "id": 141,
@@ -1236,7 +1464,13 @@
       "#FFFFFF",
       "#FFFF00",
       "#ff0000"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_slovenia",
+      "population_tag" : "2,119,410 (2021)",
+      "area_tag" : "20,273 km2 (7,827 sq mi)",
+      "currency_tag" : "txt_currency_slovenia"
+    }
   },
   {
     "id": 142,
@@ -1287,7 +1521,13 @@
       "#ad1519",
       "#003fa9",
       "#fabd00"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_spanish",
+      "population_tag" : "47,486,935 (2021)",
+      "area_tag" : "506,009 km2 (195,371 sq mi)",
+      "currency_tag" : "txt_currency_spanish"
+    }
   },
   {
     "id": 143,
@@ -1308,7 +1548,13 @@
     "defaults": [
       "#E1E1E1",
       "#C1C1C1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_sweden",
+      "population_tag" : "10,467,097 (2021)",
+      "area_tag" : "450,295 km2 (173,860 sq mi)",
+      "currency_tag" : "txt_currency_sweden"
+    }
   },
   {
     "id": 144,
@@ -1329,7 +1575,13 @@
     "defaults": [
       "#E1E1E1",
       "#C1C1C1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_switzerland",
+      "population_tag" : "8,691,406 (2021)",
+      "area_tag" : "41,277 km2 (15,937 sq mi)",
+      "currency_tag" : "txt_currency_switzerland"
+    }
   },
   {
     "id": 145,
@@ -1350,7 +1602,13 @@
     "defaults": [
       "#E1E1E1",
       "#C1C1C1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_ukraine",
+      "population_tag" : "43,531,422 (2021)",
+      "area_tag" : "576,550 km2 (222,607 sq mi)",
+      "currency_tag" : "txt_currency_ukraine"
+    }
   },
   {
     "id": 146,
@@ -1376,7 +1634,13 @@
       "#E1E1E1",
       "#C1C1C1",
       "#E1E1E1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_united_kingdom",
+      "population_tag" : "67,281,039 (2021)",
+      "area_tag" : "266,702 km2 (102,974 sq mi)",
+      "currency_tag" : "txt_currency_united_kingdom"
+    }
   },
   {
     "id": 147,
@@ -1412,6 +1676,12 @@
       "#bebfc1",
       "#bebfc1",
       "#ce1f27"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_vatican_city",
+      "population_tag" : "511 (2021)",
+      "area_tag" : "0.44 km2 (0.17 sq mi)",
+      "currency_tag" : "txt_currency_vatican_city"
+    }
   }
 ]
