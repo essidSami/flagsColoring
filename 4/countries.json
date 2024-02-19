@@ -33,7 +33,13 @@
       "#D1D1D1",
       "#A1A1A1",
       "#AEAEAE"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_antigua_and_barbuda",
+      "population_tag" : "93,219 (2021)",
+      "area_tag" : "442.6 km2 (171 sq mi)",
+      "currency_tag" : "txt_currency_antigua_and_barbuda"
+    }
   },
   {
     "id": 149,
@@ -59,7 +65,13 @@
       "#E1E1E1",
       "#C1C1C1",
       "#D1D1D1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_the_bahamas",
+      "population_tag" : "407,906 (2021)",
+      "area_tag" : "13,940 km2 (5,382 sq mi)",
+      "currency_tag" : "txt_currency_the_bahamas"
+    }
   },
   {
     "id": 150,
@@ -90,7 +102,13 @@
       "#C1C1C1",
       "#D1D1D1",
       "#A1A1A1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_barbados",
+      "population_tag" : "281,200 (2021)",
+      "area_tag" : "431 km2 (166 sq mi)",
+      "currency_tag" : "txt_currency_barbados"
+    }
   },
   {
     "id": 151,
@@ -186,7 +204,13 @@
       "#653024",
       "#eaf3f5",
       "#000000"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_belize",
+      "population_tag" : "400,031 (2021)",
+      "area_tag" : "22,966 km2 (8,867 sq mi)",
+      "currency_tag" : "txt_currency_belize"
+    }
   },
   {
     "id": 152,
@@ -207,7 +231,13 @@
     "defaults": [
       "#E1E1E1",
       "#C1C1C1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_canada",
+      "population_tag" : "38,155,012 (2021)",
+      "area_tag" : "9,984,670 km2 (3,855,103 sq mi)",
+      "currency_tag" : "txt_currency_canada"
+    }
   },
   {
     "id": 153,
@@ -233,7 +263,13 @@
       "#E1E1E1",
       "#C1C1C1",
       "#D1D1D1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_costa_rica",
+      "population_tag" : "5,153,957 (2021)",
+      "area_tag" : "51,100 km2 (19,730 sq mi)",
+      "currency_tag" : "txt_currency_costa_rica"
+    }
   },
   {
     "id": 154,
@@ -264,7 +300,13 @@
       "#C1C1C1",
       "#D1D1D1",
       "#C1C1C1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_cuba",
+      "population_tag" : "11,256,372 (2021)",
+      "area_tag" : "110,860 km2 (42,803 sq mi) km²",
+      "currency_tag" : "txt_currency_cuba"
+    }
   },
   {
     "id": 155,
@@ -320,7 +362,13 @@
       "#006a35",
       "#9d4900",
       "#ffce00"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_dominica",
+      "population_tag" : "72,412 (2021)",
+      "area_tag" : "754 km2 (291 sq mi)",
+      "currency_tag" : "txt_currency_dominica"
+    }
   },
   {
     "id": 156,
@@ -396,7 +444,13 @@
       "#002d62",
       "#ce1126",
       "#FFFFFF"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_dominican_republic",
+      "population_tag" : "11,117,873 (2021)",
+      "area_tag" : "48,730 km2 (18,815 sq mi)",
+      "currency_tag" : "txt_currency_dominican_republic"
+    }
   },
   {
     "id": 157,
@@ -497,7 +551,13 @@
       "#ffb14e",
       "#ff4b55",
       "#ffcd00"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_el_salvador",
+      "population_tag" : "6,314,167 (2021)",
+      "area_tag" : "21,040 km2 (8,124 sq mi)",
+      "currency_tag" : "txt_currency_el_salvador"
+    }
   },
   {
     "id": 158,
@@ -533,7 +593,13 @@
       "#D1D1D1",
       "#A1A1A1",
       "#BABABA"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_grenada",
+      "population_tag" : "124,610 (2021)",
+      "area_tag" : "344 km2 (133 sq mi)",
+      "currency_tag" : "txt_currency_grenada"
+    }
   },
   {
     "id": 159,
@@ -609,7 +675,13 @@
       "#ecd077",
       "#fcf0a8",
       "#f4e08f"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_guatemala",
+      "population_tag" : "17,608,483 (2021)",
+      "area_tag" : "108,890 km2 (42,043 sq mi)",
+      "currency_tag" : "txt_currency_guatemala"
+    }
   },
   {
     "id": 160,
@@ -705,7 +777,13 @@
       "#d51f27",
       "#FFFFFF",
       "#000000"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_haiti",
+      "population_tag" : "11,447,569 (2021)",
+      "area_tag" : "27,750 km2 (10,714 sq mi)",
+      "currency_tag" : "txt_currency_haiti"
+    }
   },
   {
     "id": 161,
@@ -731,7 +809,13 @@
       "#E1E1E1",
       "#C1C1C1",
       "#D1D1D1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_honduras",
+      "population_tag" : "10,278,345 (2021)",
+      "area_tag" : "112,090 km2 (43,278 sq mi)",
+      "currency_tag" : "txt_currency_honduras"
+    }
   },
   {
     "id": 162,
@@ -757,7 +841,13 @@
       "#E1E1E1",
       "#C1C1C1",
       "#D1D1D1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_jamaica",
+      "population_tag" : "2,827,695 (2021)",
+      "area_tag" : "10,991 km2 (4,244 sq mi)",
+      "currency_tag" : "txt_currency_jamaica"
+    }
   },
   {
     "id": 163,
@@ -813,7 +903,13 @@
       "#f8c939",
       "#90441a",
       "#f9ac50"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_mexico",
+      "population_tag" : "126,705,138 (2021)",
+      "area_tag" : "1,972,550 km2 (761,606 sq mi)",
+      "currency_tag" : "txt_currency_mexico"
+    }
   },
   {
     "id": 164,
@@ -884,7 +980,13 @@
       "#ffe14e",
       "#ffb14e",
       "#ff4b55"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_nicaragua",
+      "population_tag" : "6,850,540 (2021)",
+      "area_tag" : "129,494 km2 (49,998 sq mi)",
+      "currency_tag" : "txt_currency_nicaragua"
+    }
   },
   {
     "id": 165,
@@ -910,7 +1012,13 @@
       "#E1E1E1",
       "#C1C1C1",
       "#D1D1D1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_panama",
+      "population_tag" : "4,351,267 (2021)",
+      "area_tag" : "78,200 km2 (30,193 sq mi)",
+      "currency_tag" : "txt_currency_panama"
+    }
   },
   {
     "id": 166,
@@ -946,7 +1054,13 @@
       "#D1D1D1",
       "#A1A1A1",
       "#BABABA"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_saint_kitts_and_nevis",
+      "population_tag" : "47,606 (2021)",
+      "area_tag" : "261 km2 (101 sq mi)",
+      "currency_tag" : "txt_currency_saint_kitts_and_nevis"
+    }
   },
   {
     "id": 167,
@@ -977,7 +1091,13 @@
       "#C1C1C1",
       "#D1D1D1",
       "#A1A1A1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_saint_lucia",
+      "population_tag" : "179,651 (2021)",
+      "area_tag" : "616 km2 (238 sq mi)",
+      "currency_tag" : "txt_currency_saint_lucia"
+    }
   },
   {
     "id": 168,
@@ -1008,7 +1128,13 @@
       "#C1C1C1",
       "#D1D1D1",
       "#D1D1D1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_saint_vincent_and_the_grenadines",
+      "population_tag" : "104,332 (2021)",
+      "area_tag" : "389 km2 (150 sq mi)",
+      "currency_tag" : "txt_currency_saint_vincent_and_the_grenadines"
+    }
   },
   {
     "id": 169,
@@ -1039,6 +1165,12 @@
       "#C1C1C1",
       "#D1D1D1",
       "#E1E1E1"
-    ]
+    ],
+    "info": {
+      "capital_tag" : "txt_capital__united_states",
+      "population_tag" : "336,997,624 (2021)",
+      "area_tag" : "9,826,630 km2 (3,794,083 sq mi)",
+      "currency_tag" : "txt_currency__united_states"
+    }
   }
 ]
