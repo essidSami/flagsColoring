@@ -1025,7 +1025,7 @@
       "#D1D1D1",
       "#D1D1D1",
       "#E1E1E1",
-      "#D1D1D1"
+      "#e0131e"
     ],
     "info": {
       "capital_tag" : "txt_capital_oman",
@@ -1515,10 +1515,10 @@
       "#E1E1E1",
       "#C1C1C1",
       "#D1D1D1",
-      "#E1E1E1",
-      "#D1D1D1",
-      "#A1A1A1",
-      "#C1C1C1"
+      "#00853a",
+      "#FFFFFF",
+      "#ffc72c",
+      "#d22630"
     ],
     "info": {
       "capital_tag" : "txt_capital_turkmenistan",
@@ -1614,11 +1614,11 @@
     "flag_tag": "img_flag_vietnam",
     "colors": [
       {
-        "code": "#da251d",
+        "code": "#DA251D",
         "is_activated": true
       },
       {
-        "code": "#da251d",
+        "code": "#FFFF00",
         "is_activated": true
       }
     ],
