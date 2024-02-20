@@ -11,7 +11,7 @@
         "is_activated": true
       },
       {
-        "code": "#ff0000",
+        "code": "#000000",
         "is_activated": true
       }
     ],
@@ -844,7 +844,7 @@
     "defaults": [
       "#E1E1E1",
       "#C1C1C1",
-      "#E1E1E1",
+      "#d00c27",
       "#6e6e6e"
     ],
     "info": {
@@ -919,7 +919,7 @@
       "#0046ae",
       "#ffd200",
       "#ffd200",
-      "#b07e5b",
+      "#A1A1A1",
       "#ffd200",
       "#007a50",
       "#cc092f"
@@ -1626,7 +1626,7 @@
         "is_activated": true
       },
       {
-        "code": "#001b69",
+        "code": "#c9072a",
         "is_activated": true
       }
     ],
