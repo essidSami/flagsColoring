@@ -1659,15 +1659,15 @@
       },
       {
         "code": "#bebfc1",
-        "is_activated": true
+        "is_activated": false
       },
       {
-        "code": "#bebfc1",
-        "is_activated": true
+        "code": "#ffcd1a",
+        "is_activated": false
       },
       {
         "code": "#ce1f27",
-        "is_activated": true
+        "is_activated": false
       }
     ],
     "defaults": [
