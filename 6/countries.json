@@ -58,18 +58,13 @@
       {
         "code": "#FFFFFF",
         "is_activated": true
-      },
-      {
-        "code": "#f5f5f5",
-        "is_activated": true
       }
     ],
     "defaults": [
       "#D1D1D1",
       "#C1C1C1",
       "#B1B1B1",
-      "#E1E1E1",
-      "#A1A1A1"
+      "#E1E1E1"
     ],
     "info": {
       "capital_tag" : "txt_capital_cook_islands",
