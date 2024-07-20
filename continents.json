@@ -2,31 +2,37 @@
 	{ 
 		"id": 1,
 		"name_tag" : "txt_country_africa",
-		"image_tag" : "img_map_africa"
+		"image_tag" : "img_map_africa",
+		"nbr_country" : "54"
 	},
 	{ 
 		"id": 2,
 		"name_tag" : "txt_country_asia",
-		"image_tag" : "img_map_asia"
+		"image_tag" : "img_map_asia",
+		"nbr_country" : "48"
 	},
 	{ 
 		"id": 3,
 		"name_tag" : "txt_country_europe",
-		"image_tag" : "img_map_europe"
+		"image_tag" : "img_map_europe",
+		"nbr_country" : "45"
 	},
 	{ 
 		"id": 4,
 		"name_tag" : "txt_country_north_america",
-		"image_tag" : "img_map_north_america"
+		"image_tag" : "img_map_north_america",
+		"nbr_country" : "22"
 	},
 	{ 
 		"id": 5,
 		"name_tag" : "txt_country_south_america",
-		"image_tag" : "img_map_south_america"
+		"image_tag" : "img_map_south_america",
+		"nbr_country" : "12"
 	},
 	{ 
 		"id": 6,
 		"name_tag" : "txt_country_oceania",
-		"image_tag" : "img_map_oceania"
+		"image_tag" : "img_map_oceania",
+		"nbr_country" : "16"
 	}
 ]
