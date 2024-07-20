@@ -1,25 +1,132 @@
 [
   {
-    "id": 148,
+    "id": 170,
     "continent_id": 5,
-    "key": "AG",
-    "name_tag": "txt_country_antigua_and_barbuda",
-    "flag_tag": "img_flag_antigua_and_barbuda",
+    "key": "AR",
+    "name_tag": "txt_country_argentina",
+    "flag_tag": "img_flag_argentina",
     "colors": [
       {
-        "code": "#000000",
+        "code": "#74acdf",
         "is_activated": true
       },
       {
-        "code": "#fcd20f",
+        "code": "#FFFFFF",
         "is_activated": true
       },
       {
-        "code": "#cf0921",
+        "code": "#85340a",
+        "is_activated": false
+      },
+      {
+        "code": "#ffe15a",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#E1E1E1",
+      "#C1C1C1",
+      "#85340a",
+      "#D1D1D1"
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_argentina",
+      "population_tag" : "44,012,000 (2021)",
+      "area_tag" : "2,780,000 km²",
+      "currency_tag" : "txt_currency_argentina"
+    }
+  },
+  {
+    "id": 171,
+    "continent_id": 5,
+    "key": "BO",
+    "name_tag": "txt_country_bolivia",
+    "flag_tag": "img_flag_bolivia",
+    "colors": [
+      {
+        "code": "#007934",
         "is_activated": true
       },
       {
-        "code": "#0073c7",
+        "code": "#d52b1e",
+        "is_activated": true
+      },
+      {
+        "code": "#f9e300",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#D1D1D1",
+      "#C1C1C1",
+      "#B1B1B1"
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_bolivia",
+      "population_tag" : "11,748,292 (2021)",
+      "area_tag" : "1,088,000 km²",
+      "currency_tag" : "txt_currency_bolivia"
+    }
+  },
+  {
+    "id": 172,
+    "continent_id": 5,
+    "key": "BR",
+    "name_tag": "txt_country_brazil",
+    "flag_tag": "img_flag_brazil",
+    "colors": [
+      {
+        "code": "#009c37",
+        "is_activated": true
+      },
+      {
+        "code": "#fee000",
+        "is_activated": true
+      },
+      {
+        "code": "#002277",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": false
+      },
+      {
+        "code": "#0c9c35",
+        "is_activated": false
+      }
+    ],
+    "defaults": [
+      "#D1D1D1",
+      "#E1E1E1",
+      "#C1C1C1",
+      "#FFFFFF",
+      "#0c9c35"
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_brazil",
+      "population_tag" : "206,376,100",
+      "area_tag" : "8,515,370 km²",
+      "currency_tag" : "txt_currency_brazil"
+    }
+  },
+  {
+    "id": 173,
+    "continent_id": 5,
+    "key": "CL",
+    "name_tag": "txt_country_chile",
+    "flag_tag": "img_flag_chile",
+    "colors": [
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      },
+      {
+        "code": "#db2314",
+        "is_activated": true
+      },
+      {
+        "code": "#0030a1",
         "is_activated": true
       },
       {
@@ -28,483 +135,119 @@
       }
     ],
     "defaults": [
-      "#E1E1E1",
-      "#C1C1C1",
       "#D1D1D1",
-      "#A1A1A1",
-      "#AEAEAE"
-    ],
-    "info": {
-      "capital_tag" : "txt_capital_antigua_and_barbuda",
-      "population_tag" : "93,219 (2021)",
-      "area_tag" : "442.6 km2 (171 sq mi)",
-      "currency_tag" : "txt_currency_antigua_and_barbuda"
-    }
-  },
-  {
-    "id": 149,
-    "continent_id": 5,
-    "key": "BS",
-    "name_tag": "txt_country_the_bahamas",
-    "flag_tag": "img_flag_the_bahamas",
-    "colors": [
-      {
-        "code": "#00778b",
-        "is_activated": true
-      },
-      {
-        "code": "#ffc72c",
-        "is_activated": true
-      },
-      {
-        "code": "#000000",
-        "is_activated": true
-      }
-    ],
-    "defaults": [
       "#E1E1E1",
       "#C1C1C1",
       "#D1D1D1"
     ],
     "info": {
-      "capital_tag" : "txt_capital_the_bahamas",
-      "population_tag" : "407,906 (2021)",
-      "area_tag" : "13,940 km2 (5,382 sq mi)",
-      "currency_tag" : "txt_currency_the_bahamas"
+      "capital_tag" : "txt_capital_chile",
+      "population_tag" : "17,858,000 (2021)",
+      "area_tag" : "756,000 km²",
+      "currency_tag" : "txt_currency_chile"
     }
   },
   {
-    "id": 150,
+    "id": 174,
     "continent_id": 5,
-    "key": "BB",
-    "name_tag": "txt_country_barbados",
-    "flag_tag": "img_flag_barbados",
+    "key": "CO",
+    "name_tag": "txt_country_colombia",
+    "flag_tag": "img_flag_colombia",
     "colors": [
       {
-        "code": "#00267f",
+        "code": "#c8102e",
         "is_activated": true
-      },
-      {
-        "code": "#ffc726",
-        "is_activated": true
-      },
-      {
-        "code": "#00267f",
-        "is_activated": true
-      },
-      {
-        "code": "#000000",
-        "is_activated": true
-      }
-    ],
-    "defaults": [
-      "#E1E1E1",
-      "#C1C1C1",
-      "#D1D1D1",
-      "#A1A1A1"
-    ],
-    "info": {
-      "capital_tag" : "txt_capital_barbados",
-      "population_tag" : "281,200 (2021)",
-      "area_tag" : "431 km2 (166 sq mi)",
-      "currency_tag" : "txt_currency_barbados"
-    }
-  },
-  {
-    "id": 151,
-    "continent_id": 5,
-    "key": "BZ",
-    "name_tag": "txt_country_belize",
-    "flag_tag": "img_flag_belize",
-    "colors": [
-      {
-        "code": "#d90f19",
-        "is_activated": true
-      },
-      {
-        "code": "#171696",
-        "is_activated": true
-      },
-      {
-        "code": "#FFFFFF",
-        "is_activated": true
-      },
-      {
-        "code": "#9dc9e2",
-        "is_activated": false
-      },
-      {
-        "code": "#653024",
-        "is_activated": false
-      },
-      {
-        "code": "#338a00",
-        "is_activated": false
-      },
-      {
-        "code": "#eaf3f5",
-        "is_activated": false
-      },
-      {
-        "code": "#653024",
-        "is_activated": false
-      },
-      {
-        "code": "#ffe682",
-        "is_activated": false
-      },
-      {
-        "code": "#b68a6a",
-        "is_activated": false
-      },
-      {
-        "code": "#ffe682",
-        "is_activated": false
-      },
-      {
-        "code": "#653024",
-        "is_activated": false
-      },
-      {
-        "code": "#FFFFFF",
-        "is_activated": false
-      },
-      {
-        "code": "#ff4b55",
-        "is_activated": false
-      },
-      {
-        "code": "#653024",
-        "is_activated": false
-      },
-      {
-        "code": "#eaf3f5",
-        "is_activated": false
-      },
-      {
-        "code": "#000000",
-        "is_activated": false
-      }
-    ],
-    "defaults": [
-      "#E1E1E1",
-      "#C1C1C1",
-      "#D1D1D1",
-      "#9dc9e2",
-      "#653024",
-      "#338a00",
-      "#eaf3f5",
-      "#653024",
-      "#ffe682",
-      "#b68a6a",
-      "#ffe682",
-      "#653024",
-      "#FFFFFF",
-      "#ff4b55",
-      "#653024",
-      "#eaf3f5",
-      "#000000"
-    ],
-    "info": {
-      "capital_tag" : "txt_capital_belize",
-      "population_tag" : "400,031 (2021)",
-      "area_tag" : "22,966 km2 (8,867 sq mi)",
-      "currency_tag" : "txt_currency_belize"
-    }
-  },
-  {
-    "id": 152,
-    "continent_id": 5,
-    "key": "CA",
-    "name_tag": "txt_country_canada",
-    "flag_tag": "img_flag_canada",
-    "colors": [
-      {
-        "code": "#FFFFFF",
-        "is_activated": true
-      },
-      {
-        "code": "#d62718",
-        "is_activated": true
-      }
-    ],
-    "defaults": [
-      "#E1E1E1",
-      "#C1C1C1"
-    ],
-    "info": {
-      "capital_tag" : "txt_capital_canada",
-      "population_tag" : "38,155,012 (2021)",
-      "area_tag" : "9,984,670 km2 (3,855,103 sq mi)",
-      "currency_tag" : "txt_currency_canada"
-    }
-  },
-  {
-    "id": 153,
-    "continent_id": 5,
-    "key": "CR",
-    "name_tag": "txt_country_costa_rica",
-    "flag_tag": "img_flag_costa_rica",
-    "colors": [
-      {
-        "code": "#da291c",
-        "is_activated": true
-      },
-      {
-        "code": "#001489",
-        "is_activated": true
-      },
-      {
-        "code": "#FFFFFF",
-        "is_activated": true
-      }
-    ],
-    "defaults": [
-      "#E1E1E1",
-      "#C1C1C1",
-      "#D1D1D1"
-    ],
-    "info": {
-      "capital_tag" : "txt_capital_costa_rica",
-      "population_tag" : "5,153,957 (2021)",
-      "area_tag" : "51,100 km2 (19,730 sq mi)",
-      "currency_tag" : "txt_currency_costa_rica"
-    }
-  },
-  {
-    "id": 154,
-    "continent_id": 5,
-    "key": "CU",
-    "name_tag": "txt_country_cuba",
-    "flag_tag": "img_flag_cuba",
-    "colors": [
-      {
-        "code": "#002590",
-        "is_activated": true
-      },
-      {
-        "code": "#FFFFFF",
-        "is_activated": true
-      },
-      {
-        "code": "#cc0d0d",
-        "is_activated": true
-      },
-      {
-        "code": "#FFFFFF",
-        "is_activated": true
-      }
-    ],
-    "defaults": [
-      "#E1E1E1",
-      "#C1C1C1",
-      "#D1D1D1",
-      "#C1C1C1"
-    ],
-    "info": {
-      "capital_tag" : "txt_capital_cuba",
-      "population_tag" : "11,256,372 (2021)",
-      "area_tag" : "110,860 km2 (42,803 sq mi) km²",
-      "currency_tag" : "txt_currency_cuba"
-    }
-  },
-  {
-    "id": 155,
-    "continent_id": 5,
-    "key": "DM",
-    "name_tag": "txt_country_dominica",
-    "flag_tag": "img_flag_dominica",
-    "colors": [
-      {
-        "code": "#006a35",
-        "is_activated": true
-      },
-      {
-        "code": "#ffce00",
-        "is_activated": true
-      },
-      {
-        "code": "#000000",
-        "is_activated": true
-      },
-      {
-        "code": "#FFFFFF",
-        "is_activated": true
-      },
-      {
-        "code": "#d6002e",
-        "is_activated": true
-      },
-      {
-        "code": "#9163ce",
-        "is_activated": false
-      },
-      {
-        "code": "#006a35",
-        "is_activated": false
-      },
-      {
-        "code": "#9d4900",
-        "is_activated": false
-      },
-      {
-        "code": "#ffce00",
-        "is_activated": false
-      }
-    ],
-    "defaults": [
-      "#E1E1E1",
-      "#C1C1C1",
-      "#D1D1D1",
-      "#A1A1A1",
-      "#BABABA",
-      "#9163ce",
-      "#006a35",
-      "#9d4900",
-      "#ffce00"
-    ],
-    "info": {
-      "capital_tag" : "txt_capital_dominica",
-      "population_tag" : "72,412 (2021)",
-      "area_tag" : "754 km2 (291 sq mi)",
-      "currency_tag" : "txt_currency_dominica"
-    }
-  },
-  {
-    "id": 156,
-    "continent_id": 5,
-    "key": "DO",
-    "name_tag": "txt_country_dominican_republic",
-    "flag_tag": "img_flag_dominican_republic",
-    "colors": [
-      {
-        "code": "#FFFFFF",
-        "is_activated": true
-      },
-      {
-        "code": "#002d62",
-        "is_activated": true
-      },
-      {
-        "code": "#ce1126",
-        "is_activated": true
-      },
-      {
-        "code": "#006a35",
-        "is_activated": false
-      },
-      {
-        "code": "#002d62",
-        "is_activated": false
-      },
-      {
-        "code": "#ce1126",
-        "is_activated": false
-      },
-      {
-        "code": "#ce1126",
-        "is_activated": false
-      },
-      {
-        "code": "#FFFFFF",
-        "is_activated": false
-      },
-      {
-        "code": "#ffce00",
-        "is_activated": false
-      },
-      {
-        "code": "#FFFFFF",
-        "is_activated": false
-      },
-      {
-        "code": "#002d62",
-        "is_activated": false
-      },
-      {
-        "code": "#ce1126",
-        "is_activated": false
-      },
-      {
-        "code": "#FFFFFF",
-        "is_activated": false
-      }
-    ],
-    "defaults": [
-      "#E1E1E1",
-      "#C1C1C1",
-      "#D1D1D1",
-      "#006a35",
-      "#002d62",
-      "#ce1126",
-      "#ce1126",
-      "#FFFFFF",
-      "#ffce00",
-      "#FFFFFF",
-      "#002d62",
-      "#ce1126",
-      "#FFFFFF"
-    ],
-    "info": {
-      "capital_tag" : "txt_capital_dominican_republic",
-      "population_tag" : "11,117,873 (2021)",
-      "area_tag" : "48,730 km2 (18,815 sq mi)",
-      "currency_tag" : "txt_currency_dominican_republic"
-    }
-  },
-  {
-    "id": 157,
-    "continent_id": 5,
-    "key": "SV",
-    "name_tag": "txt_country_el_salvador",
-    "flag_tag": "img_flag_el_salvador",
-    "colors": [
-      {
-        "code": "#0045ad",
-        "is_activated": true
-      },
-      {
-        "code": "#FFFFFF",
-        "is_activated": true
-      },
-      {
-        "code": "#0045ad",
-        "is_activated": false
-      },
-      {
-        "code": "#009900",
-        "is_activated": false
-      },
-      {
-        "code": "#FFFFFF",
-        "is_activated": false
-      },
-      {
-        "code": "#000000",
-        "is_activated": false
-      },
-      {
-        "code": "#f5f5f5",
-        "is_activated": false
       },
       {
         "code": "#ffcd00",
+        "is_activated": true
+      },
+      {
+        "code": "#003087",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#D1D1D1",
+      "#E1E1E1",
+      "#C1C1C1"
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_colombia",
+      "population_tag" : "48,476,000 (2021)",
+      "area_tag" : "1,148,000 km²",
+      "currency_tag" : "txt_currency_colombia"
+    }
+  },
+  {
+    "id": 175,
+    "continent_id": 5,
+    "key": "EC",
+    "name_tag": "txt_country_ecuador",
+    "flag_tag": "img_flag_ecuador",
+    "colors": [
+      {
+        "code": "#ee161f",
+        "is_activated": true
+      },
+      {
+        "code": "#ffde00",
+        "is_activated": true
+      },
+      {
+        "code": "#004da3",
+        "is_activated": true
+      },
+      {
+        "code": "#ee161f",
         "is_activated": false
       },
       {
-        "code": "#47abef",
+        "code": "#004da3",
         "is_activated": false
       },
       {
-        "code": "#009900",
+        "code": "#432820",
         "is_activated": false
       },
       {
-        "code": "#a80000",
+        "code": "#e6e1cd",
         "is_activated": false
       },
       {
-        "code": "#41479b",
+        "code": "#ffd0af",
+        "is_activated": false
+      },
+      {
+        "code": "#ffaf94",
+        "is_activated": false
+      },
+      {
+        "code": "#ffde00",
+        "is_activated": false
+      },
+      {
+        "code": "#004da3",
+        "is_activated": false
+      },
+      {
+        "code": "#ee161f",
+        "is_activated": false
+      },
+      {
+        "code": "#69c3ff",
+        "is_activated": false
+      },
+      {
+        "code": "#004da3",
+        "is_activated": false
+      },
+      {
+        "code": "#00964a",
+        "is_activated": false
+      },
+      {
+        "code": "#FFFFFF",
         "is_activated": false
       },
       {
@@ -512,527 +255,59 @@
         "is_activated": false
       },
       {
-        "code": "#9bc800",
+        "code": "#966446",
         "is_activated": false
       },
       {
-        "code": "#ffe14e",
-        "is_activated": false
-      },
-      {
-        "code": "#ffb14e",
-        "is_activated": false
-      },
-      {
-        "code": "#ff4b55",
-        "is_activated": false
-      },
-      {
-        "code": "#ffcd00",
+        "code": "#b9b9b9",
         "is_activated": false
       }
     ],
     "defaults": [
       "#E1E1E1",
-      "#C1C1C1",
-      "#0045ad",
-      "#009900",
-      "#FFFFFF",
-      "#000000",
-      "#f5f5f5",
-      "#ffcd00",
-      "#47abef",
-      "#009900",
-      "#a80000",
-      "#41479b",
-      "#5aa0e6",
-      "#9bc800",
-      "#ffe14e",
-      "#ffb14e",
-      "#ff4b55",
-      "#ffcd00"
-    ],
-    "info": {
-      "capital_tag" : "txt_capital_el_salvador",
-      "population_tag" : "6,314,167 (2021)",
-      "area_tag" : "21,040 km2 (8,124 sq mi)",
-      "currency_tag" : "txt_currency_el_salvador"
-    }
-  },
-  {
-    "id": 158,
-    "continent_id": 5,
-    "key": "GD",
-    "name_tag": "txt_country_grenada",
-    "flag_tag": "img_flag_grenada",
-    "colors": [
-      {
-        "code": "#cf0921",
-        "is_activated": true
-      },
-      {
-        "code": "#fcd20f",
-        "is_activated": true
-      },
-      {
-        "code": "#007b5e",
-        "is_activated": true
-      },
-      {
-        "code": "#cf0921",
-        "is_activated": true
-      },
-      {
-        "code": "#fcd20f",
-        "is_activated": true
-      }
-    ],
-    "defaults": [
-      "#E1E1E1",
-      "#C1C1C1",
-      "#D1D1D1",
       "#A1A1A1",
-      "#BABABA"
-    ],
-    "info": {
-      "capital_tag" : "txt_capital_grenada",
-      "population_tag" : "124,610 (2021)",
-      "area_tag" : "344 km2 (133 sq mi)",
-      "currency_tag" : "txt_currency_grenada"
-    }
-  },
-  {
-    "id": 159,
-    "continent_id": 5,
-    "key": "GT",
-    "name_tag": "txt_country_guatemala",
-    "flag_tag": "img_flag_guatemala",
-    "colors": [
-      {
-        "code": "#4997d0",
-        "is_activated": true
-      },
-      {
-        "code": "#FFFFFF",
-        "is_activated": true
-      },
-      {
-        "code": "#4997d0",
-        "is_activated": true
-      },
-      {
-        "code": "#669239",
-        "is_activated": false
-      },
-      {
-        "code": "#b3b7bb",
-        "is_activated": false
-      },
-      {
-        "code": "#f0b016",
-        "is_activated": false
-      },
-      {
-        "code": "#6c2c18",
-        "is_activated": false
-      },
-      {
-        "code": "#669239",
-        "is_activated": false
-      },
-      {
-        "code": "#f4e08f",
-        "is_activated": false
-      },
-      {
-        "code": "#ecd077",
-        "is_activated": false
-      },
-      {
-        "code": "#ecd077",
-        "is_activated": false
-      },
-      {
-        "code": "#fcf0a8",
-        "is_activated": false
-      },
-      {
-        "code": "#f4e08f",
-        "is_activated": false
-      }
-    ],
-    "defaults": [
-      "#E1E1E1",
-      "#C1C1C1",
       "#D1D1D1",
-      "#669239",
-      "#b3b7bb",
-      "#f0b016",
-      "#6c2c18",
-      "#669239",
-      "#f4e08f",
-      "#ecd077",
-      "#ecd077",
-      "#fcf0a8",
-      "#f4e08f"
-    ],
-    "info": {
-      "capital_tag" : "txt_capital_guatemala",
-      "population_tag" : "17,608,483 (2021)",
-      "area_tag" : "108,890 km2 (42,043 sq mi)",
-      "currency_tag" : "txt_currency_guatemala"
-    }
-  },
-  {
-    "id": 160,
-    "continent_id": 5,
-    "key": "HT",
-    "name_tag": "txt_country_haiti",
-    "flag_tag": "img_flag_haiti",
-    "colors": [
-      {
-        "code": "#00209f",
-        "is_activated": true
-      },
-      {
-        "code": "#d21034",
-        "is_activated": true
-      },
-      {
-        "code": "#FFFFFF",
-        "is_activated": true
-      },
-      {
-        "code": "#f1b611",
-        "is_activated": false
-      },
-      {
-        "code": "#233e88",
-        "is_activated": false
-      },
-      {
-        "code": "#d52024",
-        "is_activated": false
-      },
-      {
-        "code": "#f1b611",
-        "is_activated": false
-      },
-      {
-        "code": "#106b36",
-        "is_activated": false
-      },
-      {
-        "code": "#f1b611",
-        "is_activated": false
-      },
-      {
-        "code": "#513615",
-        "is_activated": false
-      },
-      {
-        "code": "#f1b611",
-        "is_activated": false
-      },
-      {
-        "code": "#f1b611",
-        "is_activated": false
-      },
-      {
-        "code": "#233e88",
-        "is_activated": false
-      },
-      {
-        "code": "#f1b611",
-        "is_activated": false
-      },
-      {
-        "code": "#d51f27",
-        "is_activated": false
-      },
-      {
-        "code": "#FFFFFF",
-        "is_activated": false
-      },
-      {
-        "code": "#000000",
-        "is_activated": false
-      }
-    ],
-    "defaults": [
-      "#E1E1E1",
-      "#C1C1C1",
-      "#D1D1D1",
-      "#f1b611",
-      "#233e88",
-      "#d52024",
-      "#f1b611",
-      "#106b36",
-      "#f1b611",
-      "#513615",
-      "#f1b611",
-      "#f1b611",
-      "#233e88",
-      "#f1b611",
-      "#d51f27",
+      "#ee161f",
+      "#004da3",
+      "#432820",
+      "#e6e1cd",
+      "#ffd0af",
+      "#ffaf94",
+      "#ffde00",
+      "#004da3",
+      "#ee161f",
+      "#69c3ff",
+      "#004da3",
+      "#00964a",
       "#FFFFFF",
-      "#000000"
-    ],
-    "info": {
-      "capital_tag" : "txt_capital_haiti",
-      "population_tag" : "11,447,569 (2021)",
-      "area_tag" : "27,750 km2 (10,714 sq mi)",
-      "currency_tag" : "txt_currency_haiti"
-    }
-  },
-  {
-    "id": 161,
-    "continent_id": 5,
-    "key": "HN",
-    "name_tag": "txt_country_honduras",
-    "flag_tag": "img_flag_honduras",
-    "colors": [
-      {
-        "code": "#00bce4",
-        "is_activated": true
-      },
-      {
-        "code": "#FFFFFF",
-        "is_activated": true
-      },
-      {
-        "code": "#00bce4",
-        "is_activated": true
-      }
-    ],
-    "defaults": [
-      "#E1E1E1",
-      "#C1C1C1",
-      "#D1D1D1"
-    ],
-    "info": {
-      "capital_tag" : "txt_capital_honduras",
-      "population_tag" : "10,278,345 (2021)",
-      "area_tag" : "112,090 km2 (43,278 sq mi)",
-      "currency_tag" : "txt_currency_honduras"
-    }
-  },
-  {
-    "id": 162,
-    "continent_id": 5,
-    "key": "JM",
-    "name_tag": "txt_country_jamaica",
-    "flag_tag": "img_flag_jamaica",
-    "colors": [
-      {
-        "code": "#007847",
-        "is_activated": true
-      },
-      {
-        "code": "#ffb916",
-        "is_activated": true
-      },
-      {
-        "code": "#000000",
-        "is_activated": true
-      }
-    ],
-    "defaults": [
-      "#E1E1E1",
-      "#C1C1C1",
-      "#D1D1D1"
-    ],
-    "info": {
-      "capital_tag" : "txt_capital_jamaica",
-      "population_tag" : "2,827,695 (2021)",
-      "area_tag" : "10,991 km2 (4,244 sq mi)",
-      "currency_tag" : "txt_currency_jamaica"
-    }
-  },
-  {
-    "id": 163,
-    "continent_id": 5,
-    "key": "MX",
-    "name_tag": "txt_country_mexico",
-    "flag_tag": "img_flag_mexico",
-    "colors": [
-      {
-        "code": "#006847",
-        "is_activated": true
-      },
-      {
-        "code": "#FFFFFF",
-        "is_activated": true
-      },
-      {
-        "code": "#ce1125",
-        "is_activated": true
-      },
-      {
-        "code": "#89bcbd",
-        "is_activated": false
-      },
-      {
-        "code": "#00aadc",
-        "is_activated": false
-      },
-      {
-        "code": "#9da268",
-        "is_activated": false
-      },
-      {
-        "code": "#f8c939",
-        "is_activated": false
-      },
-      {
-        "code": "#90441a",
-        "is_activated": false
-      },
-      {
-        "code": "#f9ac50",
-        "is_activated": false
-      }
-    ],
-    "defaults": [
-      "#E1E1E1",
-      "#C1C1C1",
-      "#D1D1D1",
-      "#89bcbd",
-      "#00aadc",
-      "#9da268",
-      "#f8c939",
-      "#90441a",
-      "#f9ac50"
-    ],
-    "info": {
-      "capital_tag" : "txt_capital_mexico",
-      "population_tag" : "126,705,138 (2021)",
-      "area_tag" : "1,972,550 km2 (761,606 sq mi)",
-      "currency_tag" : "txt_currency_mexico"
-    }
-  },
-  {
-    "id": 164,
-    "continent_id": 5,
-    "key": "NI",
-    "name_tag": "txt_country_nicaragua",
-    "flag_tag": "img_flag_nicaragua",
-    "colors": [
-      {
-        "code": "#0067c7",
-        "is_activated": true
-      },
-      {
-        "code": "#FFFFFF",
-        "is_activated": true
-      },
-      {
-        "code": "#6fd9f3",
-        "is_activated": false
-      },
-      {
-        "code": "#0067c7",
-        "is_activated": false
-      },
-      {
-        "code": "#98ca1f",
-        "is_activated": false
-      },
-      {
-        "code": "#c1b53a",
-        "is_activated": false
-      },
-      {
-        "code": "#41479b",
-        "is_activated": false
-      },
-      {
-        "code": "#5aa0e6",
-        "is_activated": false
-      },
-      {
-        "code": "#9bc800",
-        "is_activated": false
-      },
-      {
-        "code": "#ffe14e",
-        "is_activated": false
-      },
-      {
-        "code": "#ffb14e",
-        "is_activated": false
-      },
-      {
-        "code": "#ff4b55",
-        "is_activated": false
-      }
-    ],
-    "defaults": [
-      "#E1E1E1",
-      "#C1C1C1",
-      "#6fd9f3",
-      "#0067c7",
-      "#98ca1f",
-      "#c1b53a",
-      "#41479b",
       "#5aa0e6",
-      "#9bc800",
-      "#ffe14e",
-      "#ffb14e",
-      "#ff4b55"
+      "#966446",
+      "#b9b9b9"
     ],
     "info": {
-      "capital_tag" : "txt_capital_nicaragua",
-      "population_tag" : "6,850,540 (2021)",
-      "area_tag" : "129,494 km2 (49,998 sq mi)",
-      "currency_tag" : "txt_currency_nicaragua"
+      "capital_tag" : "txt_capital_ecuador",
+      "population_tag" : "16,476,000 (2021)",
+      "area_tag" : "276,000 km²",
+      "currency_tag" : "txt_currency_ecuador"
     }
   },
   {
-    "id": 165,
+    "id": 176,
     "continent_id": 5,
-    "key": "PA",
-    "name_tag": "txt_country_panama",
-    "flag_tag": "img_flag_panama",
+    "key": "GY",
+    "name_tag": "txt_country_guyana",
+    "flag_tag": "img_flag_guyana",
     "colors": [
+      {
+        "code": "#00AA44",
+        "is_activated": true
+      },
       {
         "code": "#FFFFFF",
         "is_activated": true
       },
       {
-        "code": "#db0a13",
-        "is_activated": true
-      },
-      {
-        "code": "#011e56",
-        "is_activated": true
-      }
-    ],
-    "defaults": [
-      "#E1E1E1",
-      "#C1C1C1",
-      "#D1D1D1"
-    ],
-    "info": {
-      "capital_tag" : "txt_capital_panama",
-      "population_tag" : "4,351,267 (2021)",
-      "area_tag" : "78,200 km2 (30,193 sq mi)",
-      "currency_tag" : "txt_currency_panama"
-    }
-  },
-  {
-    "id": 166,
-    "continent_id": 5,
-    "key": "KN",
-    "name_tag": "txt_country_saint_kitts_and_nevis",
-    "flag_tag": "img_flag_saint_kitts_and_nevis",
-    "colors": [
-      {
-        "code": "#009836",
-        "is_activated": true
-      },
-      {
-        "code": "#ffce00",
+        "code": "#ffc306",
         "is_activated": true
       },
       {
@@ -1040,119 +315,226 @@
         "is_activated": true
       },
       {
-        "code": "#FFFFFF",
-        "is_activated": true
-      },
-      {
-        "code": "#c9072a",
+        "code": "#bf1829",
         "is_activated": true
       }
     ],
     "defaults": [
-      "#E1E1E1",
-      "#C1C1C1",
       "#D1D1D1",
-      "#A1A1A1",
-      "#BABABA"
-    ],
-    "info": {
-      "capital_tag" : "txt_capital_saint_kitts_and_nevis",
-      "population_tag" : "47,606 (2021)",
-      "area_tag" : "261 km2 (101 sq mi)",
-      "currency_tag" : "txt_currency_saint_kitts_and_nevis"
-    }
-  },
-  {
-    "id": 167,
-    "continent_id": 5,
-    "key": "LC",
-    "name_tag": "txt_country_saint_lucia",
-    "flag_tag": "img_flag_saint_lucia",
-    "colors": [
-      {
-        "code": "#4da6ea",
-        "is_activated": true
-      },
-      {
-        "code": "#FFFFFF",
-        "is_activated": true
-      },
-      {
-        "code": "#000000",
-        "is_activated": true
-      },
-      {
-        "code": "#fcd20f",
-        "is_activated": true
-      }
-    ],
-    "defaults": [
       "#E1E1E1",
+      "#B1B1B1",
       "#C1C1C1",
-      "#D1D1D1",
       "#A1A1A1"
     ],
     "info": {
-      "capital_tag" : "txt_capital_saint_lucia",
-      "population_tag" : "179,651 (2021)",
-      "area_tag" : "616 km2 (238 sq mi)",
-      "currency_tag" : "txt_currency_saint_lucia"
+      "capital_tag" : "txt_capital_guyana",
+      "population_tag" : "747,000 (2021)",
+      "area_tag" : "214,970 km²",
+      "currency_tag" : "txt_currency_guyana"
     }
   },
   {
-    "id": 168,
+    "id": 177,
     "continent_id": 5,
-    "key": "VC",
-    "name_tag": "txt_country_saint_vincent_and_the_grenadines",
-    "flag_tag": "img_flag_saint_vincent_and_the_grenadines",
+    "key": "PY",
+    "name_tag": "txt_country_paraguay",
+    "flag_tag": "img_flag_paraguay",
     "colors": [
       {
-        "code": "#fcd11c",
+        "code": "#d52b1e",
         "is_activated": true
       },
       {
-        "code": "#002175",
+        "code": "#0038a8",
         "is_activated": true
       },
       {
-        "code": "#007d2a",
+        "code": "#FFFFFF",
         "is_activated": true
       },
       {
-        "code": "#007d2a",
+        "code": "#d52b1e",
+        "is_activated": false
+      },
+      {
+        "code": "#0038a8",
+        "is_activated": false
+      },
+      {
+        "code": "#fee000",
+        "is_activated": false
+      },
+      {
+        "code": "#009a36",
+        "is_activated": false
+      }
+    ],
+    "defaults": [
+      "#D1D1D1",
+      "#C1C1C1",
+      "#E1E1E1",
+      "#d52b1e",
+      "#0038a8",
+      "#fee000",
+      "#009a36"
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_paraguay",
+      "population_tag" : "6,363,000 (2021)",
+      "area_tag" : "406,000 km²",
+      "currency_tag" : "txt_currency_paraguay"
+    }
+  },
+  {
+    "id": 178,
+    "continent_id": 5,
+    "key": "CF",
+    "name_tag": "txt_country_peru",
+    "flag_tag": "img_flag_peru",
+    "colors": [
+      {
+        "code": "#d91023",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      },
+      {
+        "code": "#d91023",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#D1D1D1",
+      "#E1E1E1",
+      "#A1A1A1"
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_peru",
+      "population_tag" : "33,376,476 (2021)",
+      "area_tag" : "1,285,000 km²",
+      "currency_tag" : "txt_currency_peru"
+    }
+  },
+  {
+    "id": 179,
+    "continent_id": 5,
+    "key": "SR",
+    "name_tag": "txt_country_suriname",
+    "flag_tag": "img_flag_suriname",
+    "colors": [
+      {
+        "code": "#377e3f",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      },
+      {
+        "code": "#b40a2d",
+        "is_activated": true
+      },
+      {
+        "code": "#ecc81d",
         "is_activated": true
       }
     ],
     "defaults": [
       "#E1E1E1",
-      "#C1C1C1",
       "#D1D1D1",
-      "#D1D1D1"
+      "#B1B1B1",
+      "#C1C1C1"
     ],
     "info": {
-      "capital_tag" : "txt_capital_saint_vincent_and_the_grenadines",
-      "population_tag" : "104,332 (2021)",
-      "area_tag" : "389 km2 (150 sq mi)",
-      "currency_tag" : "txt_currency_saint_vincent_and_the_grenadines"
+      "capital_tag" : "txt_capital_suriname",
+      "population_tag" : "577,000 (2021)",
+      "area_tag" : "163,820 km²",
+      "currency_tag" : "txt_currency_suriname"
     }
   },
   {
-    "id": 169,
+    "id": 180,
     "continent_id": 5,
-    "key": "US",
-    "name_tag": "txt_country_united_states",
-    "flag_tag": "img_flag_united_states",
+    "key": "TT",
+    "name_tag": "txt_country_trinidad_and_tobago",
+    "flag_tag": "img_flag_trinidad_and_tobago",
+    "colors": [
+      {
+        "code": "#db1332",
+        "is_activated": true
+      },
+      {
+        "code": "#FFFFFF",
+        "is_activated": true
+      },
+      {
+        "code": "#000000",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#D1D1D1",
+      "#E1E1E1",
+      "#C1C1C1"
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_trinidad_and_tobago",
+      "population_tag" : "1,422,000 (2021)",
+      "area_tag" : "5,130 km²",
+      "currency_tag" : "txt_currency_trinidad_and_tobago"
+    }
+  },
+  {
+    "id": 181,
+    "continent_id": 5,
+    "key": "UY",
+    "name_tag": "txt_country_uruguay",
+    "flag_tag": "img_flag_uruguay",
     "colors": [
       {
         "code": "#FFFFFF",
         "is_activated": true
       },
       {
-        "code": "#b31c31",
+        "code": "#ffda44",
         "is_activated": true
       },
       {
-        "code": "#39386e",
+        "code": "#338af3",
+        "is_activated": true
+      }
+    ],
+    "defaults": [
+      "#D1D1D1",
+      "#C1C1C1",
+      "#B1B1B1"
+    ],
+    "info": {
+      "capital_tag" : "txt_capital_uruguay",
+      "population_tag" : "5,835,806 (2021)",
+      "area_tag" : "342,000 km2 (132,047 sq mi)",
+      "currency_tag" : "txt_currency_uruguay"
+    }
+  },
+  {
+    "id": 182,
+    "continent_id": 5,
+    "key": "VE",
+    "name_tag": "txt_country_venezuela",
+    "flag_tag": "img_flag_venezuela",
+    "colors": [
+      {
+        "code": "#FFCC00",
+        "is_activated": true
+      },
+      {
+        "code": "#cf142b",
+        "is_activated": true
+      },
+      {
+        "code": "#00247d",
         "is_activated": true
       },
       {
@@ -1161,16 +543,16 @@
       }
     ],
     "defaults": [
-      "#E1E1E1",
-      "#C1C1C1",
       "#D1D1D1",
-      "#E1E1E1"
+      "#C1C1C1",
+      "#E1E1E1",
+      "#B1B1B1"
     ],
     "info": {
-      "capital_tag" : "txt_capital__united_states",
-      "population_tag" : "336,997,624 (2021)",
-      "area_tag" : "9,826,630 km2 (3,794,083 sq mi)",
-      "currency_tag" : "txt_currency__united_states"
+      "capital_tag" : "txt_capital_venezuela",
+      "population_tag" : "27,466,364 (2021)",
+      "area_tag" : "916,000 km²",
+      "currency_tag" : "txt_currency_venezuela"
     }
   }
 ]
