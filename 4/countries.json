@@ -1167,10 +1167,10 @@
       "#E1E1E1"
     ],
     "info": {
-      "capital_tag" : "txt_capital__united_states",
+      "capital_tag" : "txt_capital_united_states",
       "population_tag" : "336,997,624 (2021)",
       "area_tag" : "9,826,630 km2 (3,794,083 sq mi)",
-      "currency_tag" : "txt_currency__united_states"
+      "currency_tag" : "txt_currency_united_states"
     }
   }
 ]
