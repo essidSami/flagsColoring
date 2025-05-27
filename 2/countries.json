@@ -1318,7 +1318,7 @@
     "flag_tag": "img_flag_syria",
     "colors": [
       {
-        "code": "#ce1126",
+        "code": "#007a3d",
         "is_activated": true
       },
       {
@@ -1330,7 +1330,7 @@
         "is_activated": true
       },
       {
-        "code": "#007a3d",
+        "code": "#ce1126",
         "is_activated": true
       }
     ],
